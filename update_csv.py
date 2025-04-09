@@ -16,12 +16,6 @@ linked_tables = {
     "Category": "Categories"  # Direct linked field in Fundraising Rounds
 }
 
-# Additional mappings for lookups in Companies table (not needed since we're removing these columns)
-lookup_mappings = {
-    "Category (from Company)": "Categories",
-    "Sector (from Company)": "Sectors"
-}
-
 # Fetch data from linked tables
 linked_data = {}
 for field, table in linked_tables.items():
@@ -70,6 +64,7 @@ if all_records:
 # Extract fields and transform linked records
 fields = set()
 transformed_records = []
+unwanted_columns = ["Source", "Sector (from Company)", "Category (from Company)"]
 for record in all_records:
     fields.update(record["fields"].keys())
     transformed = record["fields"].copy()
@@ -82,11 +77,12 @@ for record in all_records:
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
             else:
                 transformed[field] = linked_data[field].get(value, value)
+    # Remove unwanted columns from the transformed record
+    for col in unwanted_columns:
+        transformed.pop(col, None)
     transformed_records.append(transformed)
 
-# Filter out unwanted columns
-fields = list(fields)
-unwanted_columns = ["Source", "Sector (from Company)", "Category (from Company)"]
+# Filter out unwanted columns from fields (for safety)
 fields = [field for field in fields if field not in unwanted_columns]
 
 # Convert to CSV
