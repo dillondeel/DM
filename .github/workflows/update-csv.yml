@@ -1,31 +1,36 @@
 name: Update Fundraising Rounds CSV
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight UTC
+    - cron: "0 * * * *" # Every hour at minute 0 (e.g., 00:00, 01:00, ..., 23:00 UTC)
   workflow_dispatch: # Manual trigger
+
 jobs:
   update-csv:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # Ensures checkout uses the token
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Run script
         env:
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
         run: python update_csv.py
+
       - name: Commit changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Pass token to the step
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add data/fundraising_rounds_companies.csv
-          git commit -m "Update CSV from Airtable" || echo "No changes"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/dillondeel/DM.git main
+          git commit -m "Update CSV from Airtable [hourly]" || echo "No changes to commit"
+          git push
+        continue-on-error: true # Prevents workflow failure if there are no changes to commit
