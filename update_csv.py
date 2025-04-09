@@ -43,7 +43,7 @@ for field, table in linked_tables.items():
     elif field == "Category":
         linked_data[field] = {record["id"]: record["fields"].get("Category", record["id"]) for record in all_linked_records}
     elif field == "Company":
-        linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}  # Use "Company" field
+        linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
     if all_linked_records:
@@ -95,6 +95,11 @@ transformed_records = []
 for record in all_records:
     fields.update(record["fields"].keys())
     transformed = record["fields"].copy()
+    # Store the raw Company ID before mapping
+    raw_company_id = None
+    if "Company" in transformed and transformed["Company"]:
+        raw_company_id = transformed["Company"][0] if isinstance(transformed["Company"], list) else transformed["Company"]
+
     # Transform direct linked fields
     for field in linked_tables.keys():
         if field in transformed:
@@ -104,14 +109,14 @@ for record in all_records:
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
             else:
                 transformed[field] = linked_data[field].get(value, value)
-    # Transform lookups from Companies table
-    if "Company" in transformed and transformed["Company"]:
-        company_id = transformed["Company"][0] if isinstance(transformed["Company"], list) else transformed["Company"]
-        url_company = f"https://api.airtable.com/v0/{base_id}/Companies/{company_id}"
+
+    # Transform lookups from Companies table using the raw ID
+    if raw_company_id:
+        url_company = f"https://api.airtable.com/v0/{base_id}/Companies/{raw_company_id}"
         response = requests.get(url_company, headers=headers)
         if response.status_code == 200:
             company_data = response.json().get("fields", {})
-            print(f"Fetched Company data for {company_id}: {company_data}")
+            print(f"Fetched Company data for {raw_company_id}: {company_data}")
             for lookup_field, lookup_table in lookup_mappings.items():
                 if lookup_field in transformed:  # Update the field in the main record
                     value = transformed[lookup_field]
@@ -121,7 +126,7 @@ for record in all_records:
                     else:
                         transformed[lookup_field] = linked_data[lookup_field].get(value, value)
         else:
-            print(f"Failed to fetch Company data for {company_id}: {response.status_code} - {response.text}")
+            print(f"Failed to fetch Company data for {raw_company_id}: {response.status_code} - {response.text}")
     transformed_records.append(transformed)
 fields = list(fields)
 
