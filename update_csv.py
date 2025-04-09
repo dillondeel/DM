@@ -16,7 +16,7 @@ linked_tables = {
     "Category": "Categories"  # Direct linked field in Fundraising Rounds
 }
 
-# Additional mappings for lookups in Companies table
+# Additional mappings for lookups in Companies table (not needed since we're removing these columns)
 lookup_mappings = {
     "Category (from Company)": "Categories",
     "Sector (from Company)": "Sectors"
@@ -50,28 +50,6 @@ for field, table in linked_tables.items():
         print(f"Sample {table} record: {all_linked_records[0]['fields']}")
         print(f"Total {table} records fetched: {len(all_linked_records)}")
 
-# Fetch data for lookup mappings (Categories, Sectors)
-for field, table in lookup_mappings.items():
-    if field not in linked_tables.values():  # Avoid duplicate fetch
-        url = f"https://api.airtable.com/v0/{base_id}/{table}"
-        all_linked_records = []
-        offset = None
-        while True:
-            params = {"offset": offset} if offset else {}
-            response = requests.get(url, headers=headers, params=params)
-            data = response.json()
-            all_linked_records.extend(data["records"])
-            offset = data.get("offset")
-            if not offset:
-                break
-        if field == "Sector (from Company)":
-            linked_data[field] = {record["id"]: record["fields"].get("Sector", record["id"]) for record in all_linked_records}
-        else:
-            linked_data[field] = {record["id"]: record["fields"].get("Category", record["id"]) for record in all_linked_records}
-        if all_linked_records:
-            print(f"Sample {table} record for {field}: {all_linked_records[0]['fields']}")
-            print(f"Total {table} records fetched for {field}: {len(all_linked_records)}")
-
 # Fetch all records from main table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
 all_records = []
@@ -95,11 +73,6 @@ transformed_records = []
 for record in all_records:
     fields.update(record["fields"].keys())
     transformed = record["fields"].copy()
-    # Store the raw Company ID before mapping
-    raw_company_id = None
-    if "Company" in transformed and transformed["Company"]:
-        raw_company_id = transformed["Company"][0] if isinstance(transformed["Company"], list) else transformed["Company"]
-
     # Transform direct linked fields
     for field in linked_tables.keys():
         if field in transformed:
@@ -109,26 +82,12 @@ for record in all_records:
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
             else:
                 transformed[field] = linked_data[field].get(value, value)
-
-    # Transform lookups from Companies table using the raw ID
-    if raw_company_id:
-        url_company = f"https://api.airtable.com/v0/{base_id}/Companies/{raw_company_id}"
-        response = requests.get(url_company, headers=headers)
-        if response.status_code == 200:
-            company_data = response.json().get("fields", {})
-            print(f"Fetched Company data for {raw_company_id}: {company_data}")
-            for lookup_field, lookup_table in lookup_mappings.items():
-                if lookup_field in transformed:  # Update the field in the main record
-                    value = transformed[lookup_field]
-                    if isinstance(value, list):
-                        mapped_values = [linked_data[lookup_field].get(id, id) for id in value if id in linked_data[lookup_field]]
-                        transformed[lookup_field] = ", ".join(mapped_values) if mapped_values else ""
-                    else:
-                        transformed[lookup_field] = linked_data[lookup_field].get(value, value)
-        else:
-            print(f"Failed to fetch Company data for {raw_company_id}: {response.status_code} - {response.text}")
     transformed_records.append(transformed)
+
+# Filter out unwanted columns
 fields = list(fields)
+unwanted_columns = ["Source", "Sector (from Company)", "Category (from Company)"]
+fields = [field for field in fields if field not in unwanted_columns]
 
 # Convert to CSV
 output = io.StringIO()
