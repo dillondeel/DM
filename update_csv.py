@@ -10,9 +10,11 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
-    "Company": "Companies",    # Match case from sample
-    "Investors": "Investors",  # Match case from sample
-    "Sector": "Sectors"        # Match case from sample
+    "Company": "Companies",
+    "Investors": "Investors",
+    "Sector": "Sectors",
+    "Category (from Company)": "Categories",  # Treat as linked field
+    "Sector (from Company)": "Sectors"       # Treat as linked field
 }
 
 # Fetch data from linked tables
@@ -32,15 +34,11 @@ for field, table in linked_tables.items():
     # Map record IDs to display field ("Fund" for Investors, "Name" for others)
     if field == "Investors":
         linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
-        if all_linked_records:
-            print(f"Sample Investors record: {all_linked_records[0]['fields']}")
-            print(f"Total Investors records fetched: {len(all_linked_records)}")
-            # Debug: Print a few ID-to-Fund mappings
-            sample_ids = list(linked_data[field].keys())[:3]
-            for id in sample_ids:
-                print(f"Investors mapping: {id} -> {linked_data[field][id]}")
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
+    if all_linked_records:
+        print(f"Sample {table} record: {all_linked_records[0]['fields']}")
+        print(f"Total {table} records fetched: {len(all_linked_records)}")
 
 # Fetch all records from main table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
@@ -68,16 +66,10 @@ for record in all_records:
     for field in linked_tables.keys():
         if field in transformed:
             value = transformed[field]
-            if isinstance(value, list):  # Handle multiple linked records (e.g., Investors)
-                mapped_values = []
-                for id in value:
-                    mapped = linked_data[field].get(id, id)
-                    mapped_values.append(mapped)
-                    # Debug: Log each mapping attempt for Investors
-                    if field == "Investors":
-                        print(f"Mapping Investor ID {id} to {mapped}")
+            if isinstance(value, list):  # Handle multiple linked records
+                mapped_values = [linked_data[field].get(id, id) for id in value if id in linked_data[field]]
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
-            else:  # Handle single linked record (e.g., Company)
+            else:  # Handle single linked record
                 transformed[field] = linked_data[field].get(value, value)
     transformed_records.append(transformed)
 fields = list(fields)
