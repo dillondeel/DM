@@ -11,19 +11,25 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 # Linked tables (fields that return IDs)
 linked_tables = {
     "company": "Companies",    # Links to Companies table
-    "investors": "Investors",  # Links to Investors table
-    "sector": "Sectors",       # Links to Sectors table
-    "Category": "Categories"   # Links to Categories table (adjust if field name differs)
+    "investors": "Investors"   # Links to Investors table
 }
 
 # Fetch data from linked tables
 linked_data = {}
 for field, table in linked_tables.items():
     url = f"https://api.airtable.com/v0/{base_id}/{table}"
-    response = requests.get(url, headers=headers)
-    data = response.json()
-    # Map record IDs to the "Name" field (adjust if different, e.g., "Title")
-    linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in data["records"]}
+    all_linked_records = []
+    offset = None
+    while True:  # Pagination for linked tables
+        params = {"offset": offset} if offset else {}
+        response = requests.get(url, headers=headers, params=params)
+        data = response.json()
+        all_linked_records.extend(data["records"])
+        offset = data.get("offset")
+        if not offset:
+            break
+    # Map record IDs to "Name" field (adjust if different)
+    linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
 
 # Fetch all records from main table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
@@ -56,11 +62,7 @@ for record in all_records:
 fields = list(fields)
 
 # Convert to CSV
-output = io.StringIO()
-writer = csv.DictWriter(output, fieldnames=fields)
-writer.writeheader()
-for record in transformed_records:
-    writer.writerow(record)
+output = io繋が
 
 # Write to file
 with open("data/fundraising_rounds_companies.csv", "w") as f:
