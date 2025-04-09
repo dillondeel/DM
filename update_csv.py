@@ -10,9 +10,10 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
-    "company": "Companies",    # Links to "Companies" table
-    "investors": "Investors",  # Links to "Investors" table
-    "sector": "Sectors"        # Links to "Sectors" table
+    "company": "Companies",    # Links to Companies table
+    "investors": "Investors",  # Links to Investors table
+    "sector": "Sectors",       # Links to Sectors table
+    "Category": "Categories"   # Links to Categories table (adjust if field name differs)
 }
 
 # Fetch data from linked tables
@@ -21,7 +22,7 @@ for field, table in linked_tables.items():
     url = f"https://api.airtable.com/v0/{base_id}/{table}"
     response = requests.get(url, headers=headers)
     data = response.json()
-    # Map record IDs to the "Name" field (adjust if it’s "Company" instead)
+    # Map record IDs to the "Name" field (adjust if different, e.g., "Title")
     linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in data["records"]}
 
 # Fetch all records from main table with pagination
