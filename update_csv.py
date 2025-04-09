@@ -12,9 +12,13 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 linked_tables = {
     "Company": "Companies",
     "Investors": "Investors",
-    "Sector": "Sectors",
-    "Category (from Company)": "Categories",  # Treat as linked field
-    "Sector (from Company)": "Sectors"       # Treat as linked field
+    "Sector": "Sectors"
+}
+
+# Additional mappings for lookups in Companies table
+lookup_mappings = {
+    "Category (from Company)": "Categories",
+    "Sector (from Company)": "Sectors"
 }
 
 # Fetch data from linked tables
@@ -23,7 +27,7 @@ for field, table in linked_tables.items():
     url = f"https://api.airtable.com/v0/{base_id}/{table}"
     all_linked_records = []
     offset = None
-    while True:  # Pagination for linked tables
+    while True:
         params = {"offset": offset} if offset else {}
         response = requests.get(url, headers=headers, params=params)
         data = response.json()
@@ -31,11 +35,28 @@ for field, table in linked_tables.items():
         offset = data.get("offset")
         if not offset:
             break
-    # Map record IDs to display field ("Fund" for Investors, "Name" for others)
     if field == "Investors":
         linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
+    if all_linked_records:
+        print(f"Sample {table} record: {all_linked_records[0]['fields']}")
+        print(f"Total {table} records fetched: {len(all_linked_records)}")
+
+# Fetch data for lookup mappings (Categories, Sectors)
+for field, table in lookup_mappings.items():
+    url = f"https://api.airtable.com/v0/{base_id}/{table}"
+    all_linked_records = []
+    offset = None
+    while True:
+        params = {"offset": offset} if offset else {}
+        response = requests.get(url, headers=headers, params=params)
+        data = response.json()
+        all_linked_records.extend(data["records"])
+        offset = data.get("offset")
+        if not offset:
+            break
+    linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
     if all_linked_records:
         print(f"Sample {table} record: {all_linked_records[0]['fields']}")
         print(f"Total {table} records fetched: {len(all_linked_records)}")
@@ -63,14 +84,29 @@ transformed_records = []
 for record in all_records:
     fields.update(record["fields"].keys())
     transformed = record["fields"].copy()
+    # Transform direct linked fields
     for field in linked_tables.keys():
         if field in transformed:
             value = transformed[field]
-            if isinstance(value, list):  # Handle multiple linked records
+            if isinstance(value, list):
                 mapped_values = [linked_data[field].get(id, id) for id in value if id in linked_data[field]]
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
-            else:  # Handle single linked record
+            else:
                 transformed[field] = linked_data[field].get(value, value)
+    # Transform lookups from Companies table
+    if "Company" in transformed and transformed["Company"]:
+        company_id = transformed["Company"][0] if isinstance(transformed["Company"], list) else transformed["Company"]
+        url_company = f"https://api.airtable.com/v0/{base_id}/Companies/{company_id}"
+        response = requests.get(url_company, headers=headers)
+        company_data = response.json().get("fields", {})
+        for lookup_field, lookup_table in lookup_mappings.items():
+            if lookup_field in company_data:
+                value = company_data[lookup_field]
+                if isinstance(value, list):
+                    mapped_values = [linked_data[lookup_field].get(id, id) for id in value if id in linked_data[lookup_field]]
+                    transformed[lookup_field] = ", ".join(mapped_values) if mapped_values else ""
+                else:
+                    transformed[lookup_field] = linked_data[lookup_field].get(value, value)
     transformed_records.append(transformed)
 fields = list(fields)
 
