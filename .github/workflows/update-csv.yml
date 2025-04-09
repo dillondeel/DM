@@ -2,7 +2,13 @@ name: Update Fundraising Rounds CSV
 
 on:
   schedule:
-    - cron: "0 * * * *" # Every hour at minute 0 (e.g., 00:00, 01:00, ..., 23:00 UTC)
+    - cron: "0 12 * * *" # 8:00 AM EST/EDT (12:00 UTC)
+    - cron: "0 14 * * *" # 10:00 AM EST/EDT (14:00 UTC)
+    - cron: "0 16 * * *" # 12:00 PM EST/EDT (16:00 UTC)
+    - cron: "0 18 * * *" # 2:00 PM EST/EDT (18:00 UTC)
+    - cron: "0 20 * * *" # 4:00 PM EST/EDT (20:00 UTC)
+    - cron: "0 22 * * *" # 6:00 PM EST/EDT (22:00 UTC)
+    - cron: "0 0 * * *"  # 8:00 PM EST/EDT (00:00 UTC)
   workflow_dispatch: # Manual trigger
 
 jobs:
@@ -31,6 +37,6 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add data/fundraising_rounds_companies.csv
-          git commit -m "Update CSV from Airtable [hourly]" || echo "No changes to commit"
+          git commit -m "Update CSV from Airtable [scheduled]" || echo "No changes to commit"
           git push
         continue-on-error: true # Prevents workflow failure if there are no changes to commit
