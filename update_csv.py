@@ -12,7 +12,8 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 linked_tables = {
     "Company": "Companies",
     "Investors": "Investors",
-    "Sector": "Sectors"
+    "Sector": "Sectors",
+    "Category": "Categories"  # Direct linked field in Fundraising Rounds
 }
 
 # Additional mappings for lookups in Companies table
@@ -37,6 +38,10 @@ for field, table in linked_tables.items():
             break
     if field == "Investors":
         linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
+    elif field == "Sector":
+        linked_data[field] = {record["id"]: record["fields"].get("Sector", record["id"]) for record in all_linked_records}
+    elif field == "Category":
+        linked_data[field] = {record["id"]: record["fields"].get("Category", record["id"]) for record in all_linked_records}
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
     if all_linked_records:
@@ -45,21 +50,25 @@ for field, table in linked_tables.items():
 
 # Fetch data for lookup mappings (Categories, Sectors)
 for field, table in lookup_mappings.items():
-    url = f"https://api.airtable.com/v0/{base_id}/{table}"
-    all_linked_records = []
-    offset = None
-    while True:
-        params = {"offset": offset} if offset else {}
-        response = requests.get(url, headers=headers, params=params)
-        data = response.json()
-        all_linked_records.extend(data["records"])
-        offset = data.get("offset")
-        if not offset:
-            break
-    linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
-    if all_linked_records:
-        print(f"Sample {table} record: {all_linked_records[0]['fields']}")
-        print(f"Total {table} records fetched: {len(all_linked_records)}")
+    if field not in linked_tables.values():  # Avoid duplicate fetch
+        url = f"https://api.airtable.com/v0/{base_id}/{table}"
+        all_linked_records = []
+        offset = None
+        while True:
+            params = {"offset": offset} if offset else {}
+            response = requests.get(url, headers=headers, params=params)
+            data = response.json()
+            all_linked_records.extend(data["records"])
+            offset = data.get("offset")
+            if not offset:
+                break
+        if field == "Sector (from Company)":
+            linked_data[field] = {record["id"]: record["fields"].get("Sector", record["id"]) for record in all_linked_records}
+        else:
+            linked_data[field] = {record["id"]: record["fields"].get("Category", record["id"]) for record in all_linked_records}
+        if all_linked_records:
+            print(f"Sample {table} record for {field}: {all_linked_records[0]['fields']}")
+            print(f"Total {table} records fetched for {field}: {len(all_linked_records)}")
 
 # Fetch all records from main table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
@@ -98,15 +107,19 @@ for record in all_records:
         company_id = transformed["Company"][0] if isinstance(transformed["Company"], list) else transformed["Company"]
         url_company = f"https://api.airtable.com/v0/{base_id}/Companies/{company_id}"
         response = requests.get(url_company, headers=headers)
-        company_data = response.json().get("fields", {})
-        for lookup_field, lookup_table in lookup_mappings.items():
-            if lookup_field in company_data:
-                value = company_data[lookup_field]
-                if isinstance(value, list):
-                    mapped_values = [linked_data[lookup_field].get(id, id) for id in value if id in linked_data[lookup_field]]
-                    transformed[lookup_field] = ", ".join(mapped_values) if mapped_values else ""
-                else:
-                    transformed[lookup_field] = linked_data[lookup_field].get(value, value)
+        if response.status_code == 200:
+            company_data = response.json().get("fields", {})
+            print(f"Fetched Company data for {company_id}: {company_data}")
+            for lookup_field, lookup_table in lookup_mappings.items():
+                if lookup_field in transformed:  # Update the field in the main record
+                    value = transformed[lookup_field]
+                    if isinstance(value, list):
+                        mapped_values = [linked_data[lookup_field].get(id, id) for id in value if id in linked_data[lookup_field]]
+                        transformed[lookup_field] = ", ".join(mapped_values) if mapped_values else ""
+                    else:
+                        transformed[lookup_field] = linked_data[lookup_field].get(value, value)
+        else:
+            print(f"Failed to fetch Company data for {company_id}: {response.status_code} - {response.text}")
     transformed_records.append(transformed)
 fields = list(fields)
 
