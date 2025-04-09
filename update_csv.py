@@ -69,6 +69,26 @@ for record in all_records:
         if field in transformed:
             value = transformed[field]
             if isinstance(value, list):  # Handle multiple linked records (e.g., Investors)
-                mapped_values = [linked_data[field].get(id, id) for id in value if id in linked_data[field]]
-                transformed[field] = ", ".join(mapped_values)
-                # Debug: Show before and after for Investor
+                mapped_values = []
+                for id in value:
+                    mapped = linked_data[field].get(id, id)
+                    mapped_values.append(mapped)
+                    # Debug: Log each mapping attempt for Investors
+                    if field == "Investors":
+                        print(f"Mapping Investor ID {id} to {mapped}")
+                transformed[field] = ", ".join(mapped_values) if mapped_values else ""
+            else:  # Handle single linked record (e.g., Company)
+                transformed[field] = linked_data[field].get(value, value)
+    transformed_records.append(transformed)
+fields = list(fields)
+
+# Convert to CSV
+output = io.StringIO()
+writer = csv.DictWriter(output, fieldnames=fields)
+writer.writeheader()
+for record in transformed_records:
+    writer.writerow(record)
+
+# Write to file
+with open("data/fundraising_rounds_companies.csv", "w") as f:
+    f.write(output.getvalue())
