@@ -32,6 +32,9 @@ for field, table in linked_tables.items():
     # Map record IDs to display field ("Fund" for investors, "Name" for others)
     if field == "investors":
         linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
+        # Debug: Print sample data from Investors table
+        if field == "investors" and all_linked_records:
+            print(f"Sample Investors record: {all_linked_records[0]['fields']}")
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
 
@@ -47,6 +50,10 @@ while True:
     offset = data.get("offset")
     if not offset:
         break
+
+# Debug: Print sample raw record from main table
+if all_records:
+    print(f"Sample Fundraising Rounds record: {all_records[0]['fields']}")
 
 # Extract fields and transform linked records (skip lookups)
 fields = set()
