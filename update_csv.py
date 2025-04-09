@@ -42,6 +42,8 @@ for field, table in linked_tables.items():
         linked_data[field] = {record["id"]: record["fields"].get("Sector", record["id"]) for record in all_linked_records}
     elif field == "Category":
         linked_data[field] = {record["id"]: record["fields"].get("Category", record["id"]) for record in all_linked_records}
+    elif field == "Company":
+        linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}  # Use "Company" field
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
     if all_linked_records:
