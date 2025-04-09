@@ -19,10 +19,21 @@ linked_tables = {
 linked_data = {}
 for field, table in linked_tables.items():
     url = f"https://api.airtable.com/v0/{base_id}/{table}"
-    response = requests.get(url, headers=headers)
-    data = response.json()
-    # Map record IDs to the "Name" field (adjust if it’s "Company" instead)
-    linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in data["records"]}
+    all_linked_records = []
+    offset = None
+    while True:  # Pagination for linked tables
+        params = {"offset": offset} if offset else {}
+        response = requests.get(url, headers=headers, params=params)
+        data = response.json()
+        all_linked_records.extend(data["records"])
+        offset = data.get("offset")
+        if not offset:
+            break
+    # Map record IDs to display field ("Fund" for investors, "Name" for others)
+    if field == "investors":
+        linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
+    else:
+        linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
 
 # Fetch all records from main table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
