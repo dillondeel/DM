@@ -10,9 +10,9 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
-    "company": "Companies",    # Links to "Companies" table
-    "investors": "Investors",  # Links to "Investors" table
-    "sector": "Sectors"        # Links to "Sectors" table
+    "Company": "Companies",    # Match case from sample
+    "Investors": "Investors",  # Match case from sample
+    "Sector": "Sectors"        # Match case from sample
 }
 
 # Fetch data from linked tables
@@ -29,12 +29,16 @@ for field, table in linked_tables.items():
         offset = data.get("offset")
         if not offset:
             break
-    # Map record IDs to display field ("Fund" for investors, "Name" for others)
-    if field == "investors":
+    # Map record IDs to display field ("Fund" for Investors, "Name" for others)
+    if field == "Investors":
         linked_data[field] = {record["id"]: record["fields"].get("Fund", record["id"]) for record in all_linked_records}
         if all_linked_records:
             print(f"Sample Investors record: {all_linked_records[0]['fields']}")
             print(f"Total Investors records fetched: {len(all_linked_records)}")
+            # Debug: Print a few ID-to-Fund mappings
+            sample_ids = list(linked_data[field].keys())[:3]
+            for id in sample_ids:
+                print(f"Investors mapping: {id} -> {linked_data[field][id]}")
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
 
@@ -55,4 +59,16 @@ while True:
 if all_records:
     print(f"Sample Fundraising Rounds record: {all_records[0]['fields']}")
 
-# Extrac
+# Extract fields and transform linked records
+fields = set()
+transformed_records = []
+for record in all_records:
+    fields.update(record["fields"].keys())
+    transformed = record["fields"].copy()
+    for field in linked_tables.keys():
+        if field in transformed:
+            value = transformed[field]
+            if isinstance(value, list):  # Handle multiple linked records (e.g., Investors)
+                mapped_values = [linked_data[field].get(id, id) for id in value if id in linked_data[field]]
+                transformed[field] = ", ".join(mapped_values)
+                # Debug: Show before and after for Investor
