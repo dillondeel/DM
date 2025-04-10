@@ -4,14 +4,14 @@ import io
 import os
 
 # Airtable setup
-base_id = "appQY8Pco55RA0JSp"  # Same base ID as Fundraising Rounds
+base_id = "appQY8Pco55RA0JSp"
 main_table = "Investors"
 headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
     "Funded Rounds": "Fundraising%20Rounds%20-%20Companies",
-    "Unique Companies": "Companies"
+    "Unique Companies": "Companies"  # We’ll verify if this is actually a linked field
 }
 
 # Fetch data from linked tables
@@ -29,10 +29,14 @@ for field, table in linked_tables.items():
         if not offset:
             break
     if field == "Funded Rounds":
-        # Map Funded Rounds IDs to the primary field (assumed to be "Round Name")
-        linked_data[field] = {record["id"]: record["fields"].get("Round Name", record["id"]) for record in all_linked_records}
+        # Try multiple possible field names for the primary field
+        linked_data[field] = {}
+        for record in all_linked_records:
+            fields = record["fields"]
+            # Try "Round Name", "Name", "Round", or fallback to record ID
+            name = fields.get("Round Name", fields.get("Name", fields.get("Round", record["id"])))
+            linked_data[field][record["id"]] = name
     elif field == "Unique Companies":
-        # Map Unique Companies IDs to the "Company" field
         linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}
     else:
         linked_data[field] = {record["id"]: record["fields"].get("Name", record["id"]) for record in all_linked_records}
@@ -69,10 +73,14 @@ for record in all_records:
         if field in transformed:
             value = transformed[field]
             if isinstance(value, list):
+                # Map IDs to names
                 mapped_values = [linked_data[field].get(id, id) for id in value if id in linked_data[field]]
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
+            elif isinstance(value, str) and field == "Unique Companies":
+                # If Unique Companies is a formula field outputting a string, use it as-is
+                transformed[field] = value
             else:
-                transformed[field] = linked_data[field].get(value, value)
+                transformed[field] = linked_data[field].get(value, value) if value else ""
     # Remove unwanted columns from the transformed record
     for col in unwanted_columns:
         transformed.pop(col, None)
