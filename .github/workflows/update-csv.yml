@@ -1,14 +1,6 @@
 name: Update Fundraising Rounds CSV
 
 on:
-  schedule:
-    - cron: "0 12 * * *" # 8:00 AM EST/EDT (12:00 UTC)
-    - cron: "0 14 * * *" # 10:00 AM EST/EDT (14:00 UTC)
-    - cron: "0 16 * * *" # 12:00 PM EST/EDT (16:00 UTC)
-    - cron: "0 18 * * *" # 2:00 PM EST/EDT (18:00 UTC)
-    - cron: "0 20 * * *" # 4:00 PM EST/EDT (20:00 UTC)
-    - cron: "0 22 * * *" # 6:00 PM EST/EDT (22:00 UTC)
-    - cron: "0 0 * * *"  # 8:00 PM EST/EDT (00:00 UTC)
   workflow_dispatch: # Manual trigger
 
 jobs:
