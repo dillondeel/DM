@@ -1,554 +1,554 @@
-Unique Companies,Total Funded Rounds,Website,Funded Rounds,Fund,Unique Company Investments (all time),Companies Funded
-,5,,"rec9mZx6oLqV6ITWH, recKR7ZPLOdHBt7k7, recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recoC2nolAB4W1WMD",NightDragon,4,"['recWKiHC4wMW3K8fG', 'rec0Yyo4zatqEJdTj', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recJuiJmQrkbGbm2q']"
-,3,https://www.boxgroup.com/,"recXhJ6W6a45yQZXW, recRRxgeHZ0PRBnFy, recqqw5r819P5Esn5",Box Group,3,"['recNsT1WWhgwC0uxV', 'recMDzhhhYCSGjvpO', 'recekQ4DydSpqiY1C']"
-,3,,"recmqVC6wvQFcWa0n, recEQYRuRu1XJoINQ, recg9PGC8lrCgi8Ax",Group 11,1,"['rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u']"
-,1,,recaNqdXxWO7WeP8C,JumpStart Ventures,1,['recLQpahcXu134m7F']
-,1,,rec5nLDWhqfNjP0Tz,10X Founders,1,['recx080iW9wPAbS9v']
-,1,,recehKC85B8NxwosK,L3Harris,1,['rec4ILegIK6gJFR6O']
-,2,https://www.abstractvc.com/,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci",Abstract Ventures,1,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo']"
-,3,,"recOCcmGZcGU0g8Se, reclQZya5phkDNQ0U, rec5hoicQkMQD7u7k",Spark Capital,3,"['recI39qDzbjCeoStc', 'recS8nPri4zPAVwIu', 'recJuiJmQrkbGbm2q']"
-,1,,recaq9hSNqYPmbNeV,James Park,1,['recstc0yBh8guRP7o']
-,2,https://bantercap.com/,"rec2GZrMaErT323ZV, recqN8iTbxPw3DdA7",Banter Capital,2,"['reclRRHg5fIY6Pdmq', 'recgOARxrELuNKYkD']"
-,3,,"recQ91rsUJ1C0J1TP, rec77t7E2X8KT9TUT, recSCn3ou2PnXPTtD",Signia Venture Partners,1,"['recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY']"
-,1,https://www.aloftvc.com/,recUHT9To04tzqRzq,Aloft VC,1,['recT1mb9DakwODWuc']
-,1,,recYA45I8hWanCh3d,Innovation Endeavors,1,['recWANrnkOcxNKVii']
-,1,,rec8EBo2AH11oDwlK,Blue Collective,1,['recz5eJZELolYcFor']
-,1,,recBj3X2wxuMTJyUS,Parkwood,1,['recWKiHC4wMW3K8fG']
-,1,,recmSwFJhubVAMV4B,Kevin Durant,1,['recN7l5hjhx4FJObv']
-,8,https://www.khoslaventures.com/,"recmR1RuJRk2O3zUH, recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch, recohyiPwuAwvDMWT, recxjXJSgRv00r7o3, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu",Khosla Ventures,3,"['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1']"
-,2,https://www.marque.vc/,"recWUX8aUH5tjXi8c, recT6JBnPMJEmD5qd",Marque Ventures,2,"['rec9OWSTJloka8RJr', 'rechMtCVsas5dzXFK']"
-,1,,rec0EAE8lEtOHpygm,Social Capital,1,['recF7mne6kDRuUXoD']
-,2,,"recZKBAm3uwMCmggr, recCASJHETzZ7NLqY",GSBackers,2,"['rec0dYQAiiJXDO2L2', 'recIjimNiFWpxDGIC']"
-,1,,recm1ertZXmaVg4qw,Accelerator Investments,1,['recXaQbJ3Iur4lEcE']
-,2,,"rec3X27I40ye4jz4K, recpnZlMZh05pErUh",Justin Kan,1,"['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']"
-,1,,recyZw6qEvr5bKfUl,Bravo Victor Venture Capital,1,['rec442ElKKBTDRPNR']
-,1,,recKDTpcOUqX0OQAQ,Future Planet Capital,1,['recstc0yBh8guRP7o']
-,1,,recvC717mtI72bQGb,Four More Capital,1,['recw9Rw3DtkHZ8m4p']
-,1,,recaAg6G3WN2y45vo,Plains VC,1,['recqtlo9fXmcTxUvf']
-,1,,recUGtycpn6lYSoas,Vlad Tenev,1,['recajXza1XUVNRvU4']
-,4,,"recLybn0y241dhzXm, recUFITgok15wi7vB, recCASJHETzZ7NLqY, recXmh4qaABewyQJN",Marlinspike,4,"['rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'recIjimNiFWpxDGIC', 'recXaQbJ3Iur4lEcE']"
-,1,https://www.contrary.com/,recLybn0y241dhzXm,Contrary,1,['rec2tpRiVBnmhHHwp']
-,1,,recm1ertZXmaVg4qw,Alcazar Capital,1,['recXaQbJ3Iur4lEcE']
-,2,,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb",Narya,1,"['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1']"
-,5,https://www.pallasadvisors.com/ventures,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, rec2rZm4umQ1Qk9jt, recPAfUwH9cDeNYyu, recKR4bPBsxr80qNy",Pallas Ventures,4,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'rec7ctqsgZmdWv7O0', 'recGRnYcaPFiDd2AW', 'rec5cYIhEy6uH8yVa']"
-,3,,"recQE3KDxTt0l3i7w, recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu",Linse Capital,1,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,1,,recyXNeaGnWfB369y,Osage University Partners,1,['recCwahztU5LUdMaR']
-,1,,recCASJHETzZ7NLqY,Kern Venture Fund,1,['recIjimNiFWpxDGIC']
-,1,,reclQZya5phkDNQ0U,Tiger Global Management,1,['recS8nPri4zPAVwIu']
-,1,,rec4nZPwKClyN8hqF,New Stack Ventures,1,['reczBvi7iDjPKPIrz']
-,1,,rec4MminK8cNi5o6A,Crosscut Ventures,1,['recdVzSjjvjwqslFg']
-,1,,recRRxgeHZ0PRBnFy,Peter Thiel,1,['recMDzhhhYCSGjvpO']
-,1,https://www.amazon.com/,reclQZya5phkDNQ0U,Amazon,1,['recS8nPri4zPAVwIu']
-,1,,recayJY0NvoePgb21,Starship Ventures,1,['recRHh4f4CPpi05D2']
-,1,,rech4UQBIEb4iQSx2,b.value,1,['recqSTB3NMDRBIhr6']
-,1,,recjlEUZ5epuuHPhi,Radius Capital,1,['rec3IRqwSRZln16TD']
-,1,,recQ91rsUJ1C0J1TP,Manifest Growth,1,['recnzfeFnkfYWYCwY']
-,2,https://www.amplifypartners.com/,"recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz",Amplify,1,"['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']"
-,2,https://www.a-star.co/,"reclKHLOGZIt8w0kq, recRRxgeHZ0PRBnFy",A*,2,"['recWaFcTJRtbfQlQD', 'recMDzhhhYCSGjvpO']"
-,1,,recQA9JSy1x1D1iKS,Fine Structure Ventures,1,['rectPCEEL0F3aEYZu']
-,1,https://www.horizonsventures.com/,recG788rlElEfv0W1,Horizons Ventures,1,['rectYZq8whVton27d']
-,1,,recMJxwsV9zeUOZeM,Ray Dalio,1,['recUYFBRH0jKtbVbs']
-,1,,recsduiceufzEIlPB,DiamondStream Partners,1,['recJdhWCQrFlhi92V']
-,2,,"recUFITgok15wi7vB, recgmMRP4eilsT8gF",Lachy Groom,2,"['rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug']"
-,2,,"recuB2lquXHyNu9DY, recxjXJSgRv00r7o3",Sam Altman,2,"['recgqEwUoCOh0Ap2a', 'recdwLu1Gqq8I9y4H']"
-,1,,rec5hoicQkMQD7u7k,Mark VC,1,['recJuiJmQrkbGbm2q']
-,1,,reccsblPEptwNzTXM,Elevate Ventures,1,['recm24zsmOd0gDh66']
-,2,,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3",Bling Capital,1,"['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']"
-,4,,"recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y, recwosnu5tLVs6gNZ, recb4iXxbe3M9louj",Shasta Ventures,3,"['recCwahztU5LUdMaR', 'recCwahztU5LUdMaR', 'recVQL4OVduwH3Bdh', 'recJdhWCQrFlhi92V']"
-,1,,recaAg6G3WN2y45vo,Star Castle VC,1,['recqtlo9fXmcTxUvf']
-,1,,rec1d59Z1VKPAWYcL,Olive Tree Capital,1,['recstc0yBh8guRP7o']
-,6,https://www.8090industries.com/,"recLybn0y241dhzXm, recCmxo4KawGIWoQi, recf87J0QlqoI5IEm, reccqS0Gde2i8nvx5, rec5nLDWhqfNjP0Tz, recKDTpcOUqX0OQAQ",8090 Industries,5,"['rec2tpRiVBnmhHHwp', 'recVgajtFRkWxn0GE', 'rec0kh559jOozBJZQ', 'rec0kh559jOozBJZQ', 'recx080iW9wPAbS9v', 'recstc0yBh8guRP7o']"
-,2,https://www.gv.com/,"recsLGlGP2RiWSuy6, recYBSa67S9Nv6BeK",Google Ventures,1,"['rect6maWDQXFx8GRi', 'rect6maWDQXFx8GRi']"
-,13,https://shieldcap.com/,"recUNEzo4x1lWsir9, recLybn0y241dhzXm, recSDi26tBte3kA2y, recHJhY6SwBBcW6vb, recrB3sQw47aH3Nr9, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recZKBAm3uwMCmggr, recxVjfeWwZm6b7CH, recp1Ftaupsa3aOAV, recFhgFNgq8xZv4WF, recjlEUZ5epuuHPhi, recF9jlvQ9erEThSJ",Shield Capital,9,"['rec4cm8GflBSa2tOp', 'rec2tpRiVBnmhHHwp', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'rec2ZStt8SqWR8xBs', 'reck2DzTSz4zvYMIj', 'rec3IRqwSRZln16TD', 'recJdhWCQrFlhi92V']"
-,1,https://x.com/baijubhatt,recZKBAm3uwMCmggr,Baiju Bhatt,1,['rec0dYQAiiJXDO2L2']
-,1,https://salesforceventures.com/,rec3WvOkmtnlNq180,Salesforce Ventures,1,['rec02fPErV66Stuoo']
-,1,,recGR4zAOSRBuKBRR,Jefferies Family Office,1,['rece125ifwwZwqjkY']
-,1,,recBj3X2wxuMTJyUS,"T. Rowe Price Associates, Inc.",1,['recWKiHC4wMW3K8fG']
-,2,,"rec9mZx6oLqV6ITWH, reczMHHB6Xu5k7sSG",Manhattan Venture Partners,2,"['recWKiHC4wMW3K8fG', 'recdj7iXjiRgvJ2nI']"
-,1,,recVjTY5eCw9NLKgd,Ventura Capital,1,['recCDcLrVnxxmnlqD']
-,1,,recMJxwsV9zeUOZeM,Nico Rosberg,1,['recUYFBRH0jKtbVbs']
-,1,,recHuuAAcjQa4r4ZH,Voyager Capital,1,['recCwahztU5LUdMaR']
-,2,,"recsduiceufzEIlPB, recQ97gI1z94a1veg",Marlinspike Capital,1,"['recJdhWCQrFlhi92V', 'recJdhWCQrFlhi92V']"
-,1,https://comcastventures.com/,recszqxOufIeSWpAM,Comcast,1,['rece125ifwwZwqjkY']
-,1,,reclQZya5phkDNQ0U,Nat Friedman,1,['recS8nPri4zPAVwIu']
-,1,https://www.ansa.co/,recVDV4nVgn1GQVtM,Ansa Capital,1,['recdMAMH8QfuPx94m']
-,2,,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2",TiE Angels,1,"['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']"
-,6,,"rec3WvOkmtnlNq180, recBj3X2wxuMTJyUS, recJVUCtzqfp5Y80O, recXOdclwbUAbxOci, recvC717mtI72bQGb, rec8JjqAgi0SOdgjX",Moore Strategic Ventures,4,"['rec02fPErV66Stuoo', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recw9Rw3DtkHZ8m4p', 'recuYCdtJqWuQr9Sj']"
-,0,,,State of Wisconsin Investment Board,0,
-,4,,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, rec3X27I40ye4jz4K",Next47,2,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recFW58gHq4EqB5GX']"
-,1,,recuB2lquXHyNu9DY,JetBlue Ventures,1,['recgqEwUoCOh0Ap2a']
-,2,,"recuB2lquXHyNu9DY, recOtfOuDtK0aP7G5",Scout Ventures,2,"['recgqEwUoCOh0Ap2a', 'rec5pzP08DBSPhaYX']"
-,1,,recnU8dKXAWKS4TBt,Tyler Winklevoss,1,['recxMV8MA45o0M1HF']
-,1,https://www.block3.us/,rec4kUoujLTbvtaJ2,Block 3,1,['recPCzeraD5iFk2Ng']
-,2,https://cathexis.ventures/,"recHESHjIpntSIzPz, recaAg6G3WN2y45vo",Cathexis Ventures,2,"['rec8vLONaVfbVm2m0', 'recqtlo9fXmcTxUvf']"
-,4,,"recuT6ESGnFwxuqq7, rec3yrj6pqofZPtTP, reccsblPEptwNzTXM, recQA9JSy1x1D1iKS",Explorer 1,3,"['recstdDXVJk86xyOg', 'recstdDXVJk86xyOg', 'recm24zsmOd0gDh66', 'rectPCEEL0F3aEYZu']"
-,3,https://www.aleph.vc/,"recmqVC6wvQFcWa0n, recEQYRuRu1XJoINQ, recg9PGC8lrCgi8Ax",Aleph,1,"['rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u']"
-,1,,rec8DISUA5aRAsXch,Greenspring Associates,1,['recOzrWsldJfiMCr4']
-,1,,recOvxdW62gBHJBA9,Quest Venture Partners,1,['reczhCxapYJ2v6JRj']
-,1,,reccbMpkTJVAm4U88,Teamworthy Ventures,1,['rec7pdDC5Ia03obSf']
-,2,,"recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c",Felicis Ventures,1,"['recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']"
-,1,,recyOLzBmeKr42ceU,Virginia Tech Carilion Seed Fund,1,['recwLndH3DUpK9Y3T']
-,2,,"recMJxwsV9zeUOZeM, recvHYL6CZOkrd3Bc",Bilal Zuberi,1,"['recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs']"
-,1,,recaAg6G3WN2y45vo,Goff Capital,1,['recqtlo9fXmcTxUvf']
-,6,,"recnOxMTy6CgkOx33, recpmycTYIZGXEn08, rec2GZrMaErT323ZV, recWRR5c42bC9p6VD, recrftVyOakVQm2Fb, recjnE78So8cQjxIR",Riot Ventures,3,"['rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'reclRRHg5fIY6Pdmq', 'rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1', 'rec4ILegIK6gJFR6O']"
-,1,,recn0rD7tp4sxfozB,JME Ventures,1,['recxHRT9p1UWA4WsE']
-,1,,recm1ertZXmaVg4qw,M-Cor Holdings,1,['recXaQbJ3Iur4lEcE']
-,1,,recyOLzBmeKr42ceU,Cavalier Angels,1,['recwLndH3DUpK9Y3T']
-,2,,"recCwJRzwWqraehWo, recb4iXxbe3M9louj",Levitate Capital,2,"['recN7l5hjhx4FJObv', 'recJdhWCQrFlhi92V']"
-,1,,recKR4bPBsxr80qNy,The General Partnership,1,['rec5cYIhEy6uH8yVa']
-,1,,recQA9JSy1x1D1iKS,EXOR,1,['rectPCEEL0F3aEYZu']
-,1,,recsduiceufzEIlPB,Precursor Ventures,1,['recJdhWCQrFlhi92V']
-,1,,recVnisYr2zGu5r1l,The Helm & Tamarack Global,1,['recLeuqLd2u1RqgiW']
-,1,,recMJxwsV9zeUOZeM,Porsche Investments Management S.A.,1,['recUYFBRH0jKtbVbs']
-,2,,"recUNEzo4x1lWsir9, recImyH56zRZtuIPL",Republic Capital,2,"['rec4cm8GflBSa2tOp', 'recn8335qeKsipGcl']"
-,4,https://dfjgrowth.com/,"recofucAJWplJG0Eb, recUFITgok15wi7vB, recUHT9To04tzqRzq, reclQZya5phkDNQ0U",DFJ Growth,4,"['reczhCxapYJ2v6JRj', 'rec6jsbKlE5JTwPMx', 'recT1mb9DakwODWuc', 'recS8nPri4zPAVwIu']"
-,1,https://isquaredcapital.com/,recBj3X2wxuMTJyUS,I Squared Capital,1,['recWKiHC4wMW3K8fG']
-,1,https://sapphireventures.com/,recVDV4nVgn1GQVtM,Sapphire Venutures,1,['recdMAMH8QfuPx94m']
-,2,,"recpsxWp2rGSDR20e, rec8DISUA5aRAsXch",Promus Ventures,1,"['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4']"
-,3,,"recUFITgok15wi7vB, recYqhP5y5dXPg2XT, reclQZya5phkDNQ0U",WCM Investment Management,3,"['rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recS8nPri4zPAVwIu']"
-,1,,recwdnIj7LiConeFY,Shanghai Alliance ,1,['rectYZq8whVton27d']
-,1,,recaAg6G3WN2y45vo,Point Bridge Capital,1,['recqtlo9fXmcTxUvf']
-,1,,rech4UQBIEb4iQSx2,Phoenix Venture Partners,1,['recqSTB3NMDRBIhr6']
-,3,,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, recSDi26tBte3kA2y",Gula Tech Adventures,2,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recdj7iXjiRgvJ2nI']"
-,3,https://www.saic.com/,"recfa7H3jjNWYXqIV, rec8EBo2AH11oDwlK, rec4MminK8cNi5o6A",SAIC,2,"['recdVzSjjvjwqslFg', 'recz5eJZELolYcFor', 'recdVzSjjvjwqslFg']"
-,1,,recn0rD7tp4sxfozB,GoHub Ventures,1,['recxHRT9p1UWA4WsE']
-,2,,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2",GOOSE Capital,1,"['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']"
-,1,,reccrOdzE6BTmV2kB,Convergent Ventures,1,['recqSTB3NMDRBIhr6']
-,2,https://www.alsocapital.com/,"recImyH56zRZtuIPL, recz5zMzemw4OO2pE",Also Capital,2,"['recn8335qeKsipGcl', 'recjI9VVGA8NQIhYW']"
-,1,https://www.boeing.com/,recQ91rsUJ1C0J1TP,Boeing,1,['recnzfeFnkfYWYCwY']
-,1,,recjnnvXcG98usZMd,Nue Capital,1,['recuYCdtJqWuQr9Sj']
-,2,,"recuT6ESGnFwxuqq7, recSEz74CJXEiiiRr",Space Capital,2,"['recstdDXVJk86xyOg', 'rec1N9LDpw5Qub0QG']"
-,1,,recwqI1d8SsIQ5cJk,LMNT Ventures,1,['recj7me74RgFYURqk']
-,1,,recaAg6G3WN2y45vo,Hemisphere Ventures,1,['recqtlo9fXmcTxUvf']
-,1,,rec06dnM6h2EciosK,Canon Ball,1,['recrPuPcemcmCbl8E']
-,2,https://bv.vc/,"recWUX8aUH5tjXi8c, recOtfOuDtK0aP7G5",BVVC,2,"['rec9OWSTJloka8RJr', 'rec5pzP08DBSPhaYX']"
-,14,https://caffeinatedcapital.com/,"recAc10wn8LrMTEoT, recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, recz5zMzemw4OO2pE, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ, reczR2CmFH1Jger1H",Caffeinated Capital,7,"['rec0Yyo4zatqEJdTj', 'recoydiR9hm01g8Js', 'recoydiR9hm01g8Js', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recjI9VVGA8NQIhYW', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o', 'recCPysM8RhlSf0qz']"
-,2,,"reccUBAb5pETifbP8, recFhgFNgq8xZv4WF",Munich Re Ventures,1,"['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']"
-,1,,recVfIggVQsiIjjot,Forum Ventures,1,['reccrYDJ9uuhYlhIc']
-,1,,recPOwomUY2XsL22u,Counterpoint Global,1,['rec6jsbKlE5JTwPMx']
-,4,https://www.decisivepoint.com/,"recWUX8aUH5tjXi8c, rec8EBo2AH11oDwlK, recOtfOuDtK0aP7G5, recBewZRZJmixePAl",Decisive Point,4,"['rec9OWSTJloka8RJr', 'recz5eJZELolYcFor', 'rec5pzP08DBSPhaYX', 'recRe3rJHVoOxhSzJ']"
-,2,http://www.alliedminds.com/,"recrB3sQw47aH3Nr9, recprBJm0Ue9c1EkL",Allied Minds,1,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,2,,"rec2rZm4umQ1Qk9jt, rec5nLDWhqfNjP0Tz",1517,2,"['rec7ctqsgZmdWv7O0', 'recx080iW9wPAbS9v']"
-,2,https://www.redcellpartners.com/,"recBj3X2wxuMTJyUS, recXmh4qaABewyQJN",Red Cell Partners,2,"['recWKiHC4wMW3K8fG', 'recXaQbJ3Iur4lEcE']"
-,1,,recQE3KDxTt0l3i7w,KDDI,1,['recN7l5hjhx4FJObv']
-,1,,recFcno13Ffr5mzNr,Offline Ventures,1,['recf27TX6ShjG9p9P']
-,2,https://capricornllc.com/,"rec0EAE8lEtOHpygm, recXqs4SoVYX7gJIB",Capricorn,1,"['recF7mne6kDRuUXoD', 'recF7mne6kDRuUXoD']"
-,1,,rec3X27I40ye4jz4K,Paul Buchheit,1,['recFW58gHq4EqB5GX']
-,1,https://www.linkedin.com/in/jake1/,rec3X27I40ye4jz4K,Jake Seid,1,['recFW58gHq4EqB5GX']
-,1,,recKpxBo8pH53kgmM,Asymmetry Ventures,1,['rec0kh559jOozBJZQ']
-,1,,recImyH56zRZtuIPL,Spacecadet VC,1,['recn8335qeKsipGcl']
-,27,https://foundersfund.com/,"recLybn0y241dhzXm, recuB7JCw2KIEuP2a, recLfA0HwXhmMSIeV, recYQdrFcIWXoG8Bn, recZDW8y6oHdJRcCE, recaXshnck8nOFZtR, recUFITgok15wi7vB, recPOwomUY2XsL22u, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ, recDBvePS4EgAicMc, reclQZya5phkDNQ0U, rechbCkbEfXsDt7pM, recxjXJSgRv00r7o3, recCmxo4KawGIWoQi, recPwQpi5HSpuvPef, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recAJhD8jGhrZowEq, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ, reczR2CmFH1Jger1H",Founders Fund,13,"['rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recNsT1WWhgwC0uxV', 'recS8nPri4zPAVwIu', 'recZBbB6Qbs0tZEtY', 'recdwLu1Gqq8I9y4H', 'recVgajtFRkWxn0GE', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o', 'recCPysM8RhlSf0qz']"
-,1,,recMJxwsV9zeUOZeM,John Quinn,1,['recUYFBRH0jKtbVbs']
-,5,,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ",Mark Cuban,2,"['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o']"
-,1,,recayJY0NvoePgb21,Draper Startup House,1,['recRHh4f4CPpi05D2']
-,2,,"recdBNRGQIOWVrAYV, reccUBAb5pETifbP8",PSL Ventures,1,"['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']"
-,1,https://upfront.com/,recZKBAm3uwMCmggr,Upfront,1,['rec0dYQAiiJXDO2L2']
-,2,,"reclHdSUJT8vTTP4M, rec9xT7uGFzKwWwww",Saab,1,"['rechOi7KYOUmGrlxO', 'rechOi7KYOUmGrlxO']"
-,1,,rec8EBo2AH11oDwlK,Centre Street Partners,1,['recz5eJZELolYcFor']
-,3,https://tribecap.co/,"rec0EAE8lEtOHpygm, rec2rZm4umQ1Qk9jt, reccqS0Gde2i8nvx5",Tribe Capital,3,"['recF7mne6kDRuUXoD', 'rec7ctqsgZmdWv7O0', 'rec0kh559jOozBJZQ']"
-,1,,recyOLzBmeKr42ceU,Virginia Tech Carilion Innovation Fund,1,['recwLndH3DUpK9Y3T']
-,2,,"recPOwomUY2XsL22u, reccyHBmr3mKLIYMz",Sands Capital,2,"['rec6jsbKlE5JTwPMx', 'recJoWJaOmNx9FQTo']"
-,1,,rec5nLDWhqfNjP0Tz,Reinforced Ventures,1,['recx080iW9wPAbS9v']
-,13,https://www.dcvc.com/,"recT6JBnPMJEmD5qd, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz, rec2rZm4umQ1Qk9jt, recQ91rsUJ1C0J1TP, rec77t7E2X8KT9TUT, recSCn3ou2PnXPTtD, recszqxOufIeSWpAM, recGR4zAOSRBuKBRR, recpsxWp2rGSDR20e, rec8Dw5L65Wk4FFQL, rec5hoicQkMQD7u7k, recoC2nolAB4W1WMD",DCVC,8,"['rechMtCVsas5dzXFK', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'rec7ctqsgZmdWv7O0', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'rece125ifwwZwqjkY', 'rece125ifwwZwqjkY', 'recOzrWsldJfiMCr4', 'rec1N9LDpw5Qub0QG', 'recJuiJmQrkbGbm2q', 'recJuiJmQrkbGbm2q']"
-,1,https://feldventures.com/,recWUX8aUH5tjXi8c,Feld Ventures,1,['rec9OWSTJloka8RJr']
-,1,,recaNqdXxWO7WeP8C,Advanced Manufacturing Fund,1,['recLQpahcXu134m7F']
-,1,,recOvxdW62gBHJBA9,Pipeline Capital,1,['reczhCxapYJ2v6JRj']
-,2,,"reclQZya5phkDNQ0U, recUGtycpn6lYSoas",Index Ventures,2,"['recS8nPri4zPAVwIu', 'recajXza1XUVNRvU4']"
-,1,,recAJhD8jGhrZowEq,Joe Lonsdale,1,['recFW58gHq4EqB5GX']
-,1,,recmV5At7nKUo1aQk,Israel Growth Partners,1,['recwBSe4yLBG4oF80']
-,3,,"recSjWL7en3SNhCdl, recaq9hSNqYPmbNeV, rec1d59Z1VKPAWYcL",Thiel Capital,2,"['rec5zzUU2sNANGHLr', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o']"
-,2,,"reckJrISjn8LLkTDm, recVnisYr2zGu5r1l",Saturn Five,1,"['recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']"
-,1,,recBewZRZJmixePAl,Top Aces,1,['recRe3rJHVoOxhSzJ']
-,1,,recqqw5r819P5Esn5,Hummingbird Ventures,1,['recekQ4DydSpqiY1C']
-,1,,recdBNRGQIOWVrAYV,Hypothesis,1,['reck2DzTSz4zvYMIj']
-,1,,recOCcmGZcGU0g8Se,Renegade Partners,1,['recI39qDzbjCeoStc']
-,3,,"recZKBAm3uwMCmggr, recoqHWhnWyn0xo1D, reccyHBmr3mKLIYMz",J2 Ventures,2,"['rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo']"
-,1,https://bridgeraerospace.com/,recp1Ftaupsa3aOAV,Bridger Aerospace,1,['rec2ZStt8SqWR8xBs']
-,1,,rec1d59Z1VKPAWYcL,Mesa Air Group,1,['recstc0yBh8guRP7o']
-,3,https://www.bloombergbeta.com/,"recOCcmGZcGU0g8Se, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz",Bloomberg Beta,2,"['recI39qDzbjCeoStc', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']"
-,1,,recHJhY6SwBBcW6vb,Dorilton Ventures,1,['recdj7iXjiRgvJ2nI']
-,1,https://caprock.com/,recyXNeaGnWfB369y,Caprock,1,['recCwahztU5LUdMaR']
-,4,,"recJW37WJQ58G6l3P, recdBNRGQIOWVrAYV, reccUBAb5pETifbP8, recCmxo4KawGIWoQi",MaC Venture Captial,3,"['recqMUaeeNLfTTmM5', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj', 'recVgajtFRkWxn0GE']"
-,1,https://hexagon.com/,recEhPkVJrooVSpVK,Hexagon AB,1,['rectYZq8whVton27d']
-,2,https://homebrew.co/,"recnOxMTy6CgkOx33, recb4iXxbe3M9louj",Homebrew,2,"['rec4ILegIK6gJFR6O', 'recJdhWCQrFlhi92V']"
-,1,,recImyH56zRZtuIPL,Earthrise Ventures,1,['recn8335qeKsipGcl']
-,1,,recu2qwWIF26WQnPe,R42 Group,1,['reczzGRxSDV9qjBVL']
-,2,,"recytgbsNBc0n8vLD, rec04r1reIpUbqhiE",Lerner Enterprises,1,"['recp83xjDN2QdAdOX', 'recp83xjDN2QdAdOX']"
-,1,,recUNEzo4x1lWsir9,Bill Perkins,1,['rec4cm8GflBSa2tOp']
-,1,,rec4nZPwKClyN8hqF,Altos Ventures,1,['reczBvi7iDjPKPIrz']
-,1,https://trueventures.com/,reccbMpkTJVAm4U88,True Ventures,1,['rec7pdDC5Ia03obSf']
-,2,,"recYdy2U2sT4urzde, rec2bSpdXuahwg6EP",M12,2,"['rec2tpRiVBnmhHHwp', 'recUYFBRH0jKtbVbs']"
-,3,,"reccyHBmr3mKLIYMz, recjPnhHbVaKgcHrw, recMlrJRBbYuwscdD",Addition,2,"['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'recUYFBRH0jKtbVbs']"
-,1,,recFhgFNgq8xZv4WF,TRAC VC,1,['reck2DzTSz4zvYMIj']
-,3,https://alpinespace.vc/,"recKv2NbbclJye6Eh, rec0oTleWjLeyHEQi, recPAfUwH9cDeNYyu",Alpine Space Ventures,2,"['recn8335qeKsipGcl', 'recn8335qeKsipGcl', 'recGRnYcaPFiDd2AW']"
-,1,,recPAfUwH9cDeNYyu,Vsquared Ventures,1,['recGRnYcaPFiDd2AW']
-,4,,"recquoEPQ1BK30cBi, recFhgFNgq8xZv4WF, recxperxaqVLOTOgl, reccqS0Gde2i8nvx5",Industrious Ventures,4,"['recdVzSjjvjwqslFg', 'reck2DzTSz4zvYMIj', 'rec2xYrnWF40FTPzu', 'rec0kh559jOozBJZQ']"
-,0,,,BlackRock,0,
-,1,,recaAg6G3WN2y45vo,Raytheon,1,['recqtlo9fXmcTxUvf']
-,1,,recUNEzo4x1lWsir9,Energy Ventures,1,['rec4cm8GflBSa2tOp']
-,1,,recFcno13Ffr5mzNr,Mach33,1,['recf27TX6ShjG9p9P']
-,1,,recsduiceufzEIlPB,Side X Side Management,1,['recJdhWCQrFlhi92V']
-,1,,rec9mZx6oLqV6ITWH,Centaurus Capital LP,1,['recWKiHC4wMW3K8fG']
-,1,,recsduiceufzEIlPB,Prosperity7 Ventures,1,['recJdhWCQrFlhi92V']
-,1,,rec9mZx6oLqV6ITWH,Oppenheimer,1,['recWKiHC4wMW3K8fG']
-,2,,"recrB3sQw47aH3Nr9, recHJhY6SwBBcW6vb",Esri,1,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,5,,"recquoEPQ1BK30cBi, recXmh4qaABewyQJN, recm1ertZXmaVg4qw, rec4MminK8cNi5o6A, recqN8iTbxPw3DdA7",Moonshots Capital,3,"['recdVzSjjvjwqslFg', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recdVzSjjvjwqslFg', 'recgOARxrELuNKYkD']"
-,1,https://connyandco.com/,recHESHjIpntSIzPz,Conny & Co,1,['rec8vLONaVfbVm2m0']
-,2,,"recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz",Section 32,1,"['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']"
-,2,,"recImyH56zRZtuIPL, rec5nLDWhqfNjP0Tz",Pathbreaker Ventures,2,"['recn8335qeKsipGcl', 'recx080iW9wPAbS9v']"
-,4,,"recwk9LjWqQuG0nRC, recaAg6G3WN2y45vo, reckJrISjn8LLkTDm, recVnisYr2zGu5r1l",Draper Associates,2,"['recqtlo9fXmcTxUvf', 'recqtlo9fXmcTxUvf', 'recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']"
-,2,https://www.valhalla.ventures/,"rec2GZrMaErT323ZV, recJW37WJQ58G6l3P",Valhalla Ventures,2,"['reclRRHg5fIY6Pdmq', 'recqMUaeeNLfTTmM5']"
-,2,,"reckJrISjn8LLkTDm, recVnisYr2zGu5r1l",Prime Movers Lab,1,"['recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']"
-,1,,rec34RPKnu60sls3b,Mosaic Ventures,1,['rec7Cn1n5H9WBv9s6']
-,1,,recyOLzBmeKr42ceU,Tanis Venture Management,1,['recwLndH3DUpK9Y3T']
-,1,,recaq9hSNqYPmbNeV,Jordan Noone,1,['recstc0yBh8guRP7o']
-,1,,recmplwEK44wn6Q0s,Domino Ventures,1,['recPCT8H8DCxc6kMm']
-,2,,"recsduiceufzEIlPB, rec4nZPwKClyN8hqF",Catapult Ventures,2,"['recJdhWCQrFlhi92V', 'reczBvi7iDjPKPIrz']"
-,1,,recsduiceufzEIlPB,Shield Capital Partners,1,['recJdhWCQrFlhi92V']
-,2,https://crescentcove.com/,"recvC717mtI72bQGb, recUC65W7Adrm5LBB",Crescent Cove Advisors,2,"['recw9Rw3DtkHZ8m4p', 'recCDcLrVnxxmnlqD']"
-,1,https://www.ark-invest.com/,recpmycTYIZGXEn08,ARK Invest,1,['rec4ILegIK6gJFR6O']
-,1,,recFcno13Ffr5mzNr,FUSE,1,['recf27TX6ShjG9p9P']
-,2,,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K",Drive Capital,1,"['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']"
-,2,,"recLn5CDcvGj2vqzr, recQ91rsUJ1C0J1TP",Mubadala Ventures,2,"['recJoWJaOmNx9FQTo', 'recnzfeFnkfYWYCwY']"
-,5,https://www.boost.vc/,"recdBNRGQIOWVrAYV, recImyH56zRZtuIPL, reckJrISjn8LLkTDm, recVnisYr2zGu5r1l, rec5nLDWhqfNjP0Tz",Boost VC,4,"['reck2DzTSz4zvYMIj', 'recn8335qeKsipGcl', 'recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW', 'recx080iW9wPAbS9v']"
-,1,,reclKHLOGZIt8w0kq,ex/ante,1,['recWaFcTJRtbfQlQD']
-,1,,recvC717mtI72bQGb,Enlightenment Capital,1,['recw9Rw3DtkHZ8m4p']
-,1,,recEkbpYPN38NMf6e,Ensemble VC,1,['rec0Yyo4zatqEJdTj']
-,1,,recxperxaqVLOTOgl,GPVC,1,['rec2xYrnWF40FTPzu']
-,1,,recImyH56zRZtuIPL,Side Door Ventures,1,['recn8335qeKsipGcl']
-,1,,recm1ertZXmaVg4qw,Alliance Holdings,1,['recXaQbJ3Iur4lEcE']
-,1,,recCASJHETzZ7NLqY,Jackson Moses,1,['recIjimNiFWpxDGIC']
-,1,,recFcno13Ffr5mzNr,TFX,1,['recf27TX6ShjG9p9P']
-,2,,"recYqhP5y5dXPg2XT, recCmxo4KawGIWoQi",Shrug Capital,2,"['recmsqSpKGoxBCmug', 'recVgajtFRkWxn0GE']"
-,3,https://www.adagecapital.com/,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recHJhY6SwBBcW6vb",Adage Capital,1,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,2,https://www.axv.vc/,"recnU8dKXAWKS4TBt, recFhgFNgq8xZv4WF",Aero X Ventures,2,"['recxMV8MA45o0M1HF', 'reck2DzTSz4zvYMIj']"
-,3,,"rec0EAE8lEtOHpygm, recuT6ESGnFwxuqq7, recAJhD8jGhrZowEq",XN,3,"['recF7mne6kDRuUXoD', 'recstdDXVJk86xyOg', 'recFW58gHq4EqB5GX']"
-,1,,rec8EBo2AH11oDwlK,DYNE Ventures,1,['recz5eJZELolYcFor']
-,1,https://212.vc/,reccrOdzE6BTmV2kB,212,1,['recqSTB3NMDRBIhr6']
-,1,,recaAg6G3WN2y45vo,Victorum Capital,1,['recqtlo9fXmcTxUvf']
-,1,,rec2bSpdXuahwg6EP,Floodgate,1,['recUYFBRH0jKtbVbs']
-,1,,recmV5At7nKUo1aQk,Vertex Growth,1,['recwBSe4yLBG4oF80']
-,1,,recUC65W7Adrm5LBB,NATO Innovations Fund,1,['recCDcLrVnxxmnlqD']
-,1,,rec34RPKnu60sls3b,Tectonic Ventures,1,['rec7Cn1n5H9WBv9s6']
-,1,,recMJxwsV9zeUOZeM,Mary Meeker,1,['recUYFBRH0jKtbVbs']
-,7,https://www.ycombinator.com/,"recUNEzo4x1lWsir9, reclQZya5phkDNQ0U, recGR4zAOSRBuKBRR, recszqxOufIeSWpAM, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recaq9hSNqYPmbNeV",Y Combinator,5,"['rec4cm8GflBSa2tOp', 'recS8nPri4zPAVwIu', 'rece125ifwwZwqjkY', 'rece125ifwwZwqjkY', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recstc0yBh8guRP7o']"
-,1,,recb4iXxbe3M9louj,Lemnos,1,['recJdhWCQrFlhi92V']
-,1,https://breakthroughvictoria.com/,recVVDkncJdFK9DC4,Breakthrough Victoria,1,['recJkREq3oOUJYJda']
-,1,https://www.bondcap.com/,rec0EAE8lEtOHpygm,BOND,1,['recF7mne6kDRuUXoD']
-,1,,recKpxBo8pH53kgmM,Northrop Grumman Corporation,1,['rec0kh559jOozBJZQ']
-,4,https://www.axon.com/,"recQE3KDxTt0l3i7w, recbhZtAusdAbAj0E, recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c",Axon,2,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']"
-,3,https://www.constructcap.com/,"recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ",Construct Capital,1,"['recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug']"
-,3,https://www.137ventures.com/,"recLybn0y241dhzXm, recgmMRP4eilsT8gF, rec8Dw5L65Wk4FFQL",137 Ventures,3,"['rec2tpRiVBnmhHHwp', 'recmsqSpKGoxBCmug', 'rec1N9LDpw5Qub0QG']"
-,1,,recKpxBo8pH53kgmM,Audacious Venture Partners,1,['rec0kh559jOozBJZQ']
-,2,https://www.spacevc.com/,"recrftVyOakVQm2Fb, recjlEUZ5epuuHPhi",Space VC,2,"['rec86ZVRPL7ATazM1', 'rec3IRqwSRZln16TD']"
-,1,,recSDi26tBte3kA2y,Jacobs,1,['recdj7iXjiRgvJ2nI']
-,1,,rec4nZPwKClyN8hqF,Union Labs VC,1,['reczBvi7iDjPKPIrz']
-,4,,"recxperxaqVLOTOgl, recaAg6G3WN2y45vo, recRpVuxcb3ldvu7S, rec5nLDWhqfNjP0Tz",Stellar Ventures,4,"['rec2xYrnWF40FTPzu', 'recqtlo9fXmcTxUvf', 'recDGV4FyDzq6Awh7', 'recx080iW9wPAbS9v']"
-,1,,recNgCqQ6lFlldbhP,Human Element,1,['recrPuPcemcmCbl8E']
-,1,https://www.bracketcapital.com/,recYqhP5y5dXPg2XT,Bracket Capital,1,['recmsqSpKGoxBCmug']
-,3,,"recWRR5c42bC9p6VD, recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c",Menlo Ventures,2,"['rec86ZVRPL7ATazM1', 'recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']"
-,6,https://www.snowpoint.com/,"recYBSa67S9Nv6BeK, recnOxMTy6CgkOx33, recpmycTYIZGXEn08, recXmh4qaABewyQJN, recV62dIc3hGy4qsP, recAJhD8jGhrZowEq",Snowpoint,4,"['rect6maWDQXFx8GRi', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recFW58gHq4EqB5GX']"
-,1,,recquoEPQ1BK30cBi,Mana Ventures,1,['recdVzSjjvjwqslFg']
-,2,https://www.acecap.com/,"recFdka70Kh4rX9tA, recz5zMzemw4OO2pE",Acequia Capital,2,"['recbSfY4BuqBLcJLs', 'recjI9VVGA8NQIhYW']"
-,1,,recl9Lf08YRHwiz4q,Vy Capital US,1,['recMDzhhhYCSGjvpO']
-,3,,"recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recCASJHETzZ7NLqY",Veteran Ventures,2,"['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'recIjimNiFWpxDGIC']"
-,1,,recaNqdXxWO7WeP8C,The Castellini Management Company,1,['recLQpahcXu134m7F']
-,1,,recFcno13Ffr5mzNr,AlleyCorp,1,['recf27TX6ShjG9p9P']
-,1,,rec39u9n3xdQtzCUW,StealthPoint,1,['recywWFSpc4xuUUMD']
-,1,,rec3X27I40ye4jz4K,Josh Reeves,1,['recFW58gHq4EqB5GX']
-,3,https://www.bailliegifford.com/,"recYBSa67S9Nv6BeK, recPOwomUY2XsL22u, recUC65W7Adrm5LBB",Baillie Gifford,3,"['rect6maWDQXFx8GRi', 'rec6jsbKlE5JTwPMx', 'recCDcLrVnxxmnlqD']"
-,1,,recOvxdW62gBHJBA9,Lobby Capital,1,['reczhCxapYJ2v6JRj']
-,1,,recfPzjyZkxiitbbz,Expeditions Fund,1,['recmjnpB74fsJBirZ']
-,2,https://www.boka-group.com/,"recnU8dKXAWKS4TBt, recwk9LjWqQuG0nRC",BOKA Group,2,"['recxMV8MA45o0M1HF', 'recqtlo9fXmcTxUvf']"
-,2,https://playground.vc/,"recCwJRzwWqraehWo, recmSwFJhubVAMV4B",Playground,1,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,1,,rec8Dw5L65Wk4FFQL,Spring Tide,1,['rec1N9LDpw5Qub0QG']
-,1,,recTyD73gBYFPrDh1,Ground Up Ventures,1,['recNfKNOkkZPeemgr']
-,3,,"recGH9NqxcnhaUuqO, recl9Lf08YRHwiz4q, recUGtycpn6lYSoas",Interlagos,3,"['recAlyaRqTZXSXqXE', 'recMDzhhhYCSGjvpO', 'recajXza1XUVNRvU4']"
-,1,,recZKBAm3uwMCmggr,Ravelin,1,['rec0dYQAiiJXDO2L2']
-,1,,rec4nZPwKClyN8hqF,TenOneTen,1,['reczBvi7iDjPKPIrz']
-,1,,recMlrJRBbYuwscdD,Semil Shah,1,['recUYFBRH0jKtbVbs']
-,1,,recn0rD7tp4sxfozB,Kfund,1,['recxHRT9p1UWA4WsE']
-,1,,rec06dnM6h2EciosK,SMS Capital Investment,1,['recrPuPcemcmCbl8E']
-,5,,"recGH9NqxcnhaUuqO, recquoEPQ1BK30cBi, recPAfUwH9cDeNYyu, rec4MminK8cNi5o6A, rec4nZPwKClyN8hqF",Lavrock Ventures,4,"['recAlyaRqTZXSXqXE', 'recdVzSjjvjwqslFg', 'recGRnYcaPFiDd2AW', 'recdVzSjjvjwqslFg', 'reczBvi7iDjPKPIrz']"
-,1,,recWRR5c42bC9p6VD,FiveNine Ventures,1,['rec86ZVRPL7ATazM1']
-,1,,recQA9JSy1x1D1iKS,Helios Capital,1,['rectPCEEL0F3aEYZu']
-,1,,recUGtycpn6lYSoas,François-Paul Journe,1,['recajXza1XUVNRvU4']
-,1,,recXqs4SoVYX7gJIB,The Schmidt Family Foundation,1,['recF7mne6kDRuUXoD']
-,1,,rec2GZrMaErT323ZV,Dmitri Alperovitch,1,['reclRRHg5fIY6Pdmq']
-,2,,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3",Revolution's Rise of the Rest Seed Fund,1,"['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']"
-,1,https://www.alphawaveglobal.com/,rec04r1reIpUbqhiE,Alpha Wave Global,1,['recp83xjDN2QdAdOX']
-,1,,recUC65W7Adrm5LBB,Iberis Semper,1,['recCDcLrVnxxmnlqD']
-,1,,rec4nZPwKClyN8hqF,New Legacy Ventures,1,['reczBvi7iDjPKPIrz']
-,2,https://www.nova-saint-gobain.com/,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2",NOVA,1,"['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']"
-,1,,rec4nZPwKClyN8hqF,Lerer Hippeau,1,['reczBvi7iDjPKPIrz']
-,1,https://www.amecloudventures.com/,recLn5CDcvGj2vqzr,AME,1,['recJoWJaOmNx9FQTo']
-,1,,recZKBAm3uwMCmggr,Mirae Asset Capital,1,['rec0dYQAiiJXDO2L2']
-,1,https://backswingventures.com/,recWUX8aUH5tjXi8c,Backswing Ventures,1,['rec9OWSTJloka8RJr']
-,1,,recwqI1d8SsIQ5cJk,Soma Capital,1,['recj7me74RgFYURqk']
-,4,,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, recmSwFJhubVAMV4B",IVP,1,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,9,https://silentvc.com/,"recEkbpYPN38NMf6e, recpkcnyjFW6d3FTR, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recJW37WJQ58G6l3P, recFdka70Kh4rX9tA, recCmxo4KawGIWoQi, recwqI1d8SsIQ5cJk, recqN8iTbxPw3DdA7",Silent Venture,8,"['rec0Yyo4zatqEJdTj', 'rec1sFc4jqWMtGdfK', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recqMUaeeNLfTTmM5', 'recbSfY4BuqBLcJLs', 'recVgajtFRkWxn0GE', 'recj7me74RgFYURqk', 'recgOARxrELuNKYkD']"
-,2,https://www.nttdocomo-v.com/en/,"recbhZtAusdAbAj0E, recCwJRzwWqraehWo",DoCoMo,1,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,1,,recaXshnck8nOFZtR,D1 Capital Partners,1,['rec6jsbKlE5JTwPMx']
-,13,http://point72.com/,"recp7wdXpwZ5wqgaX, recorNTuqVv4Ojr2y, recXUwGFXBonXn2f1, recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recZKBAm3uwMCmggr, recFhgFNgq8xZv4WF, reclKHLOGZIt8w0kq, recKDTpcOUqX0OQAQ",Point72 Ventures,9,"['recN8hyhuqvTarxHw', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'recCwahztU5LUdMaR', 'recCwahztU5LUdMaR', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'rec0dYQAiiJXDO2L2', 'reck2DzTSz4zvYMIj', 'recWaFcTJRtbfQlQD', 'recstc0yBh8guRP7o']"
-,1,,rec06dnM6h2EciosK,XBTO Ventures,1,['recrPuPcemcmCbl8E']
-,1,https://www.blueactionaccelerator.com/,rec39u9n3xdQtzCUW,Blue Action Accelerator,1,['recywWFSpc4xuUUMD']
-,1,,recNgCqQ6lFlldbhP,GiantLeap Capital,1,['recrPuPcemcmCbl8E']
-,1,,recZwYI3OB1MKiOhs,Inflection,1,['recrBEkTtPJJxGJ5U']
-,1,,recHuuAAcjQa4r4ZH,Pioneer Square Labs,1,['recCwahztU5LUdMaR']
-,1,,recJu2RU4dPEfush7,Mitsui & Co,1,['recrPuPcemcmCbl8E']
-,3,https://eclipse.capital/,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb, rec3yrj6pqofZPtTP",Eclipse,2,"['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1', 'recstdDXVJk86xyOg']"
-,32,https://a16z.com/,"recp7wdXpwZ5wqgaX, recAc10wn8LrMTEoT, recIjlNFzPZ8ONg03, recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, recP9Rq39r3erj8YE, rec4bzsGu7FgLovOA, recYQdrFcIWXoG8Bn, recZDW8y6oHdJRcCE, recaXshnck8nOFZtR, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, recehKC85B8NxwosK, recZKBAm3uwMCmggr, recxVjfeWwZm6b7CH, recoqHWhnWyn0xo1D, recGH9NqxcnhaUuqO, recOCcmGZcGU0g8Se, recmVR0z1DrQnNmRc, reclKHLOGZIt8w0kq, recTyD73gBYFPrDh1, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM, recqqw5r819P5Esn5, recUGtycpn6lYSoas, reczR2CmFH1Jger1H",Andreessen Horowitz (a16z),16,"['recN8hyhuqvTarxHw', 'rec0Yyo4zatqEJdTj', 'rec4ILegIK6gJFR6O', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'rec4ILegIK6gJFR6O', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recAlyaRqTZXSXqXE', 'recI39qDzbjCeoStc', 'recLTlhu7bLwmWKxr', 'recWaFcTJRtbfQlQD', 'recNfKNOkkZPeemgr', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recekQ4DydSpqiY1C', 'recajXza1XUVNRvU4', 'recCPysM8RhlSf0qz']"
-,4,https://capitalfactory.com/,"recquoEPQ1BK30cBi, recaAg6G3WN2y45vo, recyZw6qEvr5bKfUl, rec5nLDWhqfNjP0Tz",Capital Factory,4,"['recdVzSjjvjwqslFg', 'recqtlo9fXmcTxUvf', 'rec442ElKKBTDRPNR', 'recx080iW9wPAbS9v']"
-,8,https://www.razorsvc.com/,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recHJhY6SwBBcW6vb, recrB3sQw47aH3Nr9, recprBJm0Ue9c1EkL, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N",Razor’s Edge,2,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR']"
-,1,,recjnnvXcG98usZMd,Emerging Ventures,1,['recuYCdtJqWuQr9Sj']
-,1,,recUC65W7Adrm5LBB,National Security Strategic Investment Fund (NSSIF),1,['recCDcLrVnxxmnlqD']
-,5,,"rec7I5Q3m899dIXWv, recRRxgeHZ0PRBnFy, recqH4xO0MuGVECsY, recgNU0EhwrKMTprt, recl9Lf08YRHwiz4q",Sequoia Capital,3,"['rechMtCVsas5dzXFK', 'recMDzhhhYCSGjvpO', 'rec8GHY0R9jREFkpI', 'rec8GHY0R9jREFkpI', 'recMDzhhhYCSGjvpO']"
-,5,https://cantos.vc/,"recGH9NqxcnhaUuqO, recRRxgeHZ0PRBnFy, recSjWL7en3SNhCdl, recVnisYr2zGu5r1l, recqqw5r819P5Esn5",Cantos,5,"['recAlyaRqTZXSXqXE', 'recMDzhhhYCSGjvpO', 'rec5zzUU2sNANGHLr', 'recLeuqLd2u1RqgiW', 'recekQ4DydSpqiY1C']"
-,1,,recHESHjIpntSIzPz,One Way Ventures,1,['rec8vLONaVfbVm2m0']
-,2,,"recuT6ESGnFwxuqq7, recRpVuxcb3ldvu7S",Dolby Family Ventures,2,"['recstdDXVJk86xyOg', 'recDGV4FyDzq6Awh7']"
-,1,,reckoxI4qopilGFoW,Silicon Roundabout Ventures,1,['recpmekMFUqlUyVu1']
-,1,,rec0EAE8lEtOHpygm,Crowley Maritime Corporation,1,['recF7mne6kDRuUXoD']
-,1,,recjnnvXcG98usZMd,Lamphere Capital,1,['recuYCdtJqWuQr9Sj']
-,1,,recFZsJK99c86r5Fe,Next Frontier Capital,1,['receMptpaVANM8svL']
-,1,https://rocketship.vc/,recWRR5c42bC9p6VD,Rocketship.vc,1,['rec86ZVRPL7ATazM1']
-,1,,recjlEUZ5epuuHPhi,Humba Ventures,1,['rec3IRqwSRZln16TD']
-,2,https://www.9yardscapital.com/,"recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k",9Yards Capital,1,"['recoydiR9hm01g8Js', 'recoydiR9hm01g8Js']"
-,1,,rec0EAE8lEtOHpygm,Emerson Collective,1,['recF7mne6kDRuUXoD']
-,1,,recfn4VQCRpsQDzUY,General Advance,1,['recuYCdtJqWuQr9Sj']
-,1,,recKDTpcOUqX0OQAQ,Japan Airlines Innovation Fund,1,['recstc0yBh8guRP7o']
-,1,,recKDTpcOUqX0OQAQ,Yamato Holdings,1,['recstc0yBh8guRP7o']
-,1,,rec88ylUqGHAdpJb2,Leidos,1,['recdj7iXjiRgvJ2nI']
-,1,,recMJxwsV9zeUOZeM,Henry Kravis,1,['recUYFBRH0jKtbVbs']
-,2,https://www.craftventures.com/,"recVfIggVQsiIjjot, recFS2bRhGb1trDfn",Craft Ventures,1,"['reccrYDJ9uuhYlhIc', 'reccrYDJ9uuhYlhIc']"
-,2,https://www.coatue.com/,"reclQZya5phkDNQ0U, recMlrJRBbYuwscdD",Coatue,2,"['recS8nPri4zPAVwIu', 'recUYFBRH0jKtbVbs']"
-,1,,recYA45I8hWanCh3d,Lupa Systems,1,['recWANrnkOcxNKVii']
-,20,https://www.8vc.com/,"recAc10wn8LrMTEoT, rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS, recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, recytgbsNBc0n8vLD, rec04r1reIpUbqhiE, recyXNeaGnWfB369y, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB, recuB7JCw2KIEuP2a, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recZKBAm3uwMCmggr, recmVR0z1DrQnNmRc, recCASJHETzZ7NLqY, recFZsJK99c86r5Fe, recqN8iTbxPw3DdA7",8VC,12,"['rec0Yyo4zatqEJdTj', 'recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recp83xjDN2QdAdOX', 'recp83xjDN2QdAdOX', 'recCwahztU5LUdMaR', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0dYQAiiJXDO2L2', 'recLTlhu7bLwmWKxr', 'recIjimNiFWpxDGIC', 'receMptpaVANM8svL', 'recgOARxrELuNKYkD']"
-,1,,rec8Dw5L65Wk4FFQL,Elysium,1,['rec1N9LDpw5Qub0QG']
-,1,,recCmxo4KawGIWoQi,Hanover Technology Investment Management,1,['recVgajtFRkWxn0GE']
-,1,https://www.acme.vc/,recWRR5c42bC9p6VD,ACME Capital,1,['rec86ZVRPL7ATazM1']
-,1,,rec1d59Z1VKPAWYcL,Toba Capital,1,['recstc0yBh8guRP7o']
-,1,,recCASJHETzZ7NLqY,Vertical Capital,1,['recIjimNiFWpxDGIC']
-,3,,"recFhgFNgq8xZv4WF, recOtfOuDtK0aP7G5, rec8Dw5L65Wk4FFQL",Trousdale Ventures,3,"['reck2DzTSz4zvYMIj', 'rec5pzP08DBSPhaYX', 'rec1N9LDpw5Qub0QG']"
-,1,,recqqw5r819P5Esn5,AE Ventures,1,['recekQ4DydSpqiY1C']
-,1,,recQA9JSy1x1D1iKS,The Private Shares Fund,1,['rectPCEEL0F3aEYZu']
-,4,https://www.valorep.com/,"recLGPDfDm3bv4QLH, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB",Valor Equity,3,"['reczhCxapYJ2v6JRj', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx']"
-,1,,rec5nLDWhqfNjP0Tz,Techstars Space,1,['recx080iW9wPAbS9v']
-,3,https://www.linkedin.com/company/avalon-capital-group/,"recZKBAm3uwMCmggr, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz",Avalon Capital Group,2,"['rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']"
-,1,,recSjWL7en3SNhCdl,Refactor,1,['rec5zzUU2sNANGHLr']
-,6,https://overmatch.vc/,"recytgbsNBc0n8vLD, recyXNeaGnWfB369y, recWUX8aUH5tjXi8c, recEkbpYPN38NMf6e, recXhJ6W6a45yQZXW, rec8Dw5L65Wk4FFQL",Overmatch Ventures,6,"['recp83xjDN2QdAdOX', 'recCwahztU5LUdMaR', 'rec9OWSTJloka8RJr', 'rec0Yyo4zatqEJdTj', 'recNsT1WWhgwC0uxV', 'rec1N9LDpw5Qub0QG']"
-,1,,reclQZya5phkDNQ0U,Qualcomm Ventures,1,['recS8nPri4zPAVwIu']
-,1,https://www.redcatholdings.com/,recWUX8aUH5tjXi8c,Red Cat Holdings,1,['rec9OWSTJloka8RJr']
-,5,https://www.av.vc/,"reczMHHB6Xu5k7sSG, recm1ertZXmaVg4qw, recmplwEK44wn6Q0s, recOtfOuDtK0aP7G5, rec8Dw5L65Wk4FFQL",Alumni Ventures,5,"['recdj7iXjiRgvJ2nI', 'recXaQbJ3Iur4lEcE', 'recPCT8H8DCxc6kMm', 'rec5pzP08DBSPhaYX', 'rec1N9LDpw5Qub0QG']"
-,1,https://www.av.vc/funds/116street,recSDi26tBte3kA2y,116 Street Ventures,1,['recdj7iXjiRgvJ2nI']
-,5,https://www.airbus.com/,"recrB3sQw47aH3Nr9, recxperxaqVLOTOgl, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recPAfUwH9cDeNYyu",Airbus,4,"['recdj7iXjiRgvJ2nI', 'rec2xYrnWF40FTPzu', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recGRnYcaPFiDd2AW']"
-,1,,recBj3X2wxuMTJyUS,Piedmont Capital Investments,1,['recWKiHC4wMW3K8fG']
-,1,,rec8DISUA5aRAsXch,ACC,1,['recOzrWsldJfiMCr4']
-,3,,"recXUwGFXBonXn2f1, recnOxMTy6CgkOx33, recpmycTYIZGXEn08",Disruptive,1,"['rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O']"
-,1,,recu2qwWIF26WQnPe,Helen Greiner,1,['reczzGRxSDV9qjBVL']
-,1,https://www.battery.com/,rec3WvOkmtnlNq180,Battery Ventures,1,['rec02fPErV66Stuoo']
-,1,,rec1d59Z1VKPAWYcL,JAM Fund,1,['recstc0yBh8guRP7o']
-,2,,"recG788rlElEfv0W1, recwdnIj7LiConeFY",Altran Technologies,1,"['rectYZq8whVton27d', 'rectYZq8whVton27d']"
-,1,,recp1Ftaupsa3aOAV,L3Harris Technologies,1,['rec2ZStt8SqWR8xBs']
-,4,,"recytgbsNBc0n8vLD, rec9xT7uGFzKwWwww, recmSwFJhubVAMV4B, recP9Rq39r3erj8YE",Accel,3,"['recp83xjDN2QdAdOX', 'rechOi7KYOUmGrlxO', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,2,https://greenoaks.com/,"rec9xT7uGFzKwWwww, reclQZya5phkDNQ0U",Greenoaks,2,"['rechOi7KYOUmGrlxO', 'recS8nPri4zPAVwIu']"
-,1,,reckJrISjn8LLkTDm,X-Factor Ventures,1,['recLeuqLd2u1RqgiW']
-,2,,"recu2qwWIF26WQnPe, reccqS0Gde2i8nvx5",Good Growth Capital,2,"['reczzGRxSDV9qjBVL', 'rec0kh559jOozBJZQ']"
-,2,https://bedrockcap.com/,"recBj3X2wxuMTJyUS, recT6JBnPMJEmD5qd",Bedrock,2,"['recWKiHC4wMW3K8fG', 'rechMtCVsas5dzXFK']"
-,2,,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG",Strategic Development Fund,1,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,8,https://eladgil.com/,"recAc10wn8LrMTEoT, rec9xT7uGFzKwWwww, recaXshnck8nOFZtR, recUFITgok15wi7vB, recKR7ZPLOdHBt7k7, reclQZya5phkDNQ0U, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM",Elad Gil,5,"['rec0Yyo4zatqEJdTj', 'rechOi7KYOUmGrlxO', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'recS8nPri4zPAVwIu', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs']"
-,2,https://www.stepstonegroup.com/,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS",StepStone Group,1,"['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG']"
-,2,,"recLGPDfDm3bv4QLH, recOvxdW62gBHJBA9",Lauder Partners,1,"['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj']"
-,1,https://www.changeventures.com/,reckoxI4qopilGFoW,Change Ventures,1,['recpmekMFUqlUyVu1']
-,1,,rec2GZrMaErT323ZV,Definition Capital,1,['reclRRHg5fIY6Pdmq']
-,1,,recKpxBo8pH53kgmM,Marubeni Ventures,1,['rec0kh559jOozBJZQ']
-,1,,recszqxOufIeSWpAM,Rackhouse Venture Capital,1,['rece125ifwwZwqjkY']
-,2,https://www.advance.com/,"recSDi26tBte3kA2y, recHJhY6SwBBcW6vb",Advance,1,"['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,16,https://www.lockheedmartin.com/en-us/who-we-are/lockheed-martin-ventures.html,"recWUX8aUH5tjXi8c, recOvxdW62gBHJBA9, recoyzRHegFPEDMqB, rec77t7E2X8KT9TUT, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N, receOxXxrGFwkdUIp, recm1ertZXmaVg4qw, rec8EBo2AH11oDwlK, recMQEMkCieO0pBXI, recBewZRZJmixePAl, recKpxBo8pH53kgmM, reccqS0Gde2i8nvx5, recsduiceufzEIlPB, recKDTpcOUqX0OQAQ",Lockheed Martin Ventures,12,"['rec9OWSTJloka8RJr', 'reczhCxapYJ2v6JRj', 'recdj7iXjiRgvJ2nI', 'recnzfeFnkfYWYCwY', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recz5eJZELolYcFor', 'recOzrWsldJfiMCr4', 'recRe3rJHVoOxhSzJ', 'rec0kh559jOozBJZQ', 'rec0kh559jOozBJZQ', 'recJdhWCQrFlhi92V', 'recstc0yBh8guRP7o']"
-,1,,recyOLzBmeKr42ceU,Mill Town Capital,1,['recwLndH3DUpK9Y3T']
-,1,,rec8EBo2AH11oDwlK,Fortitude Ventures,1,['recz5eJZELolYcFor']
-,1,https://pluralplatform.com/,rec9xT7uGFzKwWwww,Plural,1,['rechOi7KYOUmGrlxO']
-,1,,recmV5At7nKUo1aQk,Vertex Ventures,1,['recwBSe4yLBG4oF80']
-,4,,"recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch, recKR4bPBsxr80qNy",Bessemer Venture Partners,2,"['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'rec5cYIhEy6uH8yVa']"
-,1,,recu2qwWIF26WQnPe,Ed Roberts,1,['reczzGRxSDV9qjBVL']
-,0,,,O Luxe Holdings Limited,0,
-,3,,"recdBNRGQIOWVrAYV, reccUBAb5pETifbP8, recFhgFNgq8xZv4WF",NFX,1,"['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']"
-,3,https://www.firstround.com/,"recsLGlGP2RiWSuy6, recImyH56zRZtuIPL, rec0oTleWjLeyHEQi",First Round Capital,2,"['rect6maWDQXFx8GRi', 'recn8335qeKsipGcl', 'recn8335qeKsipGcl']"
-,1,https://www.valar.com/,rec04r1reIpUbqhiE,Valar Ventures,1,['recp83xjDN2QdAdOX']
-,22,https://www.luxcapital.com/,"rec0EAE8lEtOHpygm, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ, recnU8dKXAWKS4TBt, recDBvePS4EgAicMc, recoqHWhnWyn0xo1D, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz, recqH4xO0MuGVECsY, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, rec2nHBG5uiWXkZKw, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, reczR2CmFH1Jger1H",Lux Capital,13,"['recF7mne6kDRuUXoD', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recxMV8MA45o0M1HF', 'recNsT1WWhgwC0uxV', 'rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'rec8GHY0R9jREFkpI', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recCPysM8RhlSf0qz']"
-,3,https://www.ainventures.com/portfolio,"recquoEPQ1BK30cBi, rec2rZm4umQ1Qk9jt, rec5nLDWhqfNjP0Tz",AIN Ventures,3,"['recdVzSjjvjwqslFg', 'rec7ctqsgZmdWv7O0', 'recx080iW9wPAbS9v']"
-,6,https://costanoa.vc/,"recofucAJWplJG0Eb, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recuB2lquXHyNu9DY, reclKHLOGZIt8w0kq, rec34RPKnu60sls3b",Costanoa Ventures,5,"['reczhCxapYJ2v6JRj', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'recgqEwUoCOh0Ap2a', 'recWaFcTJRtbfQlQD', 'rec7Cn1n5H9WBv9s6']"
-,1,,recMJxwsV9zeUOZeM,Mustafa Suleyman,1,['recUYFBRH0jKtbVbs']
-,1,,recPOwomUY2XsL22u,Franklin Venture Partners,1,['rec6jsbKlE5JTwPMx']
-,2,,"recRRxgeHZ0PRBnFy, recl9Lf08YRHwiz4q",D3,1,"['recMDzhhhYCSGjvpO', 'recMDzhhhYCSGjvpO']"
-,1,,rec8Dw5L65Wk4FFQL,First Principles Group,1,['rec1N9LDpw5Qub0QG']
-,2,https://blueyard.com/,"recGH9NqxcnhaUuqO, recz5zMzemw4OO2pE",BlueYard Capital,2,"['recAlyaRqTZXSXqXE', 'recjI9VVGA8NQIhYW']"
-,2,https://www.hedosophia.com/,"recvC717mtI72bQGb, recg5X9U6kJ16zBOJ",Hedosophia,2,"['recw9Rw3DtkHZ8m4p', 'rectYZq8whVton27d']"
-,1,,recm1ertZXmaVg4qw,RedBird Capital Partners,1,['recXaQbJ3Iur4lEcE']
-,2,,"recPAfUwH9cDeNYyu, rec4nZPwKClyN8hqF",Techstars Ventures,2,"['recGRnYcaPFiDd2AW', 'reczBvi7iDjPKPIrz']"
-,2,,"recQA9JSy1x1D1iKS, recKpxBo8pH53kgmM",SpaceFund,2,"['rectPCEEL0F3aEYZu', 'rec0kh559jOozBJZQ']"
-,3,,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, rec2bSpdXuahwg6EP",Kleiner Perkins,2,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recUYFBRH0jKtbVbs']"
-,6,https://www.rtx.com/who-we-are/ventures,"recYqhP5y5dXPg2XT, rec3yrj6pqofZPtTP, rec8EBo2AH11oDwlK, recBewZRZJmixePAl, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL",RTX Ventures,5,"['recmsqSpKGoxBCmug', 'recstdDXVJk86xyOg', 'recz5eJZELolYcFor', 'recRe3rJHVoOxhSzJ', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG']"
-,1,,reclQZya5phkDNQ0U,Intel Capital,1,['recS8nPri4zPAVwIu']
-,1,,recbhZtAusdAbAj0E,Hercules Capital,1,['recN7l5hjhx4FJObv']
-,1,https://epiqcg.com/,recBj3X2wxuMTJyUS,EPIQ Capital Group,1,['recWKiHC4wMW3K8fG']
-,1,,recyOLzBmeKr42ceU,Charlottesville Angel Network,1,['recwLndH3DUpK9Y3T']
-,1,https://www.aureliafoundry.com/,recwosnu5tLVs6gNZ,Aurelia Foundry,1,['recVQL4OVduwH3Bdh']
-,1,,recmqVC6wvQFcWa0n,Tau Capital,1,['rectiA0gQsACXRp0u']
-,1,,rec2bSpdXuahwg6EP,La Famiglia,1,['recUYFBRH0jKtbVbs']
-,1,,recGR4zAOSRBuKBRR,Illuminate Financial,1,['rece125ifwwZwqjkY']
-,1,https://www.accenture.com/us-en,recGR4zAOSRBuKBRR,Accenture,1,['rece125ifwwZwqjkY']
-,1,https://aigrant.com/,recszqxOufIeSWpAM,AI Grant,1,['rece125ifwwZwqjkY']
-,17,https://www.generalcatalyst.com/,"recAc10wn8LrMTEoT, recQjVtQkGBcSiL2k, reclHdSUJT8vTTP4M, rec9xT7uGFzKwWwww, recuB7JCw2KIEuP2a, recYQdrFcIWXoG8Bn, recaXshnck8nOFZtR, recUFITgok15wi7vB, recXhJ6W6a45yQZXW, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM, recdiBsyMjmRYsTHY, rec1mBThG8p9JIS22",General Catalyst,9,"['rec0Yyo4zatqEJdTj', 'recoydiR9hm01g8Js', 'rechOi7KYOUmGrlxO', 'rechOi7KYOUmGrlxO', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recNsT1WWhgwC0uxV', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recuaeYuZtnx41TF1', 'recrRib4PlIvcgTFf']"
-,1,,recfPzjyZkxiitbbz,Eurazeo,1,['recmjnpB74fsJBirZ']
-,1,,reclQZya5phkDNQ0U,Wellington Management,1,['recS8nPri4zPAVwIu']
-,4,,"recHESHjIpntSIzPz, rec04r1reIpUbqhiE, recdBNRGQIOWVrAYV, recwosnu5tLVs6gNZ",Liquid2 Ventures,4,"['rec8vLONaVfbVm2m0', 'recp83xjDN2QdAdOX', 'reck2DzTSz4zvYMIj', 'recVQL4OVduwH3Bdh']"
-,1,,recNgCqQ6lFlldbhP,RPM Ventures,1,['recrPuPcemcmCbl8E']
-,1,https://www.britbots.com/,rec39u9n3xdQtzCUW,BritBots,1,['recywWFSpc4xuUUMD']
-,2,,"recUFITgok15wi7vB, recCASJHETzZ7NLqY",MVP Ventures,2,"['rec6jsbKlE5JTwPMx', 'recIjimNiFWpxDGIC']"
-,6,https://www.boozallen.com/expertise/accelerating-outcomes-for-the-nation/ventures.html,"recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recUNEzo4x1lWsir9, recFhgFNgq8xZv4WF, recGR4zAOSRBuKBRR, rec8JjqAgi0SOdgjX",Booz Allen Ventures,5,"['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'rec4cm8GflBSa2tOp', 'reck2DzTSz4zvYMIj', 'rece125ifwwZwqjkY', 'recuYCdtJqWuQr9Sj']"
-,5,https://www.veteran.fund/,"recWUX8aUH5tjXi8c, recquoEPQ1BK30cBi, rec8EBo2AH11oDwlK, recOtfOuDtK0aP7G5, rec4MminK8cNi5o6A",The Veteran Fund,4,"['rec9OWSTJloka8RJr', 'recdVzSjjvjwqslFg', 'recz5eJZELolYcFor', 'rec5pzP08DBSPhaYX', 'recdVzSjjvjwqslFg']"
-,2,,"recxperxaqVLOTOgl, recm1ertZXmaVg4qw",AEI HorizonX,2,"['rec2xYrnWF40FTPzu', 'recXaQbJ3Iur4lEcE']"
-,1,,recGR4zAOSRBuKBRR,IBM Ventures,1,['rece125ifwwZwqjkY']
-,7,https://usitfund.com/,"recpmycTYIZGXEn08, recUFITgok15wi7vB, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, recehKC85B8NxwosK, recjPnhHbVaKgcHrw, recAJhD8jGhrZowEq",U.S. Innovative Technology Fund,5,"['rec4ILegIK6gJFR6O', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec4ILegIK6gJFR6O', 'recJoWJaOmNx9FQTo', 'recFW58gHq4EqB5GX']"
-,1,,recuapLv4TZiMKBJZ,John Chambers,1,['recDZqZNW3zDaxye0']
-,1,,recaAg6G3WN2y45vo,Echo Investments,1,['recqtlo9fXmcTxUvf']
-,6,,"recGH9NqxcnhaUuqO, rec9xT7uGFzKwWwww, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, recUFITgok15wi7vB, rec0oTleWjLeyHEQi",Lightspeed Venture Partners,5,"['recAlyaRqTZXSXqXE', 'rechOi7KYOUmGrlxO', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec6jsbKlE5JTwPMx', 'recn8335qeKsipGcl']"
-,1,,recXmh4qaABewyQJN,TR Aeroventures,1,['recXaQbJ3Iur4lEcE']
-,1,,recm1ertZXmaVg4qw,Downey Labs,1,['recXaQbJ3Iur4lEcE']
-,1,https://capitolmeridian.com/,reccbMpkTJVAm4U88,Capitol Meridian Partners,1,['rec7pdDC5Ia03obSf']
-,1,,recl9Lf08YRHwiz4q,Keller Rinaudo Cliffton,1,['recMDzhhhYCSGjvpO']
-,1,,reccsblPEptwNzTXM,Specific Impulse Capital,1,['recm24zsmOd0gDh66']
-,1,,rec5nLDWhqfNjP0Tz,Vibe Capital,1,['recx080iW9wPAbS9v']
-,1,,recoC2nolAB4W1WMD,Cota Capital,1,['recJuiJmQrkbGbm2q']
-,2,,"recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c",Aqton Partners,1,"['recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']"
-,1,,recRRxgeHZ0PRBnFy,Long Journey,1,['recMDzhhhYCSGjvpO']
-,1,,recqN8iTbxPw3DdA7,Timeless Partners,1,['recgOARxrELuNKYkD']
-,1,,recp1Ftaupsa3aOAV,Portland Seed Fund,1,['rec2ZStt8SqWR8xBs']
-,2,https://www.breakthroughenergy.org/,"recUNEzo4x1lWsir9, recUGtycpn6lYSoas",Breakthrough Energy Ventures,2,"['rec4cm8GflBSa2tOp', 'recajXza1XUVNRvU4']"
-,1,https://www.center15capital.com/,rec9mZx6oLqV6ITWH,Center15 Capital,1,['recWKiHC4wMW3K8fG']
-,2,https://www.gdls.com/,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS",General Dynamics Land Systems,1,"['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG']"
-,1,,recjlEUZ5epuuHPhi,Tech Square Ventures,1,['rec3IRqwSRZln16TD']
-,10,https://www.xyz.vc/,"recp7wdXpwZ5wqgaX, recvC717mtI72bQGb, recXhJ6W6a45yQZXW, recoqHWhnWyn0xo1D, recZKBAm3uwMCmggr, rechbCkbEfXsDt7pM, reclKHLOGZIt8w0kq, recAJhD8jGhrZowEq, rechXdkvU934SLrZX, recKR4bPBsxr80qNy",XYZ Ventures,8,"['recN8hyhuqvTarxHw', 'recw9Rw3DtkHZ8m4p', 'recNsT1WWhgwC0uxV', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recZBbB6Qbs0tZEtY', 'recWaFcTJRtbfQlQD', 'recFW58gHq4EqB5GX', 'rec5cYIhEy6uH8yVa', 'rec5cYIhEy6uH8yVa']"
-,2,,"recnU8dKXAWKS4TBt, recmplwEK44wn6Q0s",Starburst Ventures,2,"['recxMV8MA45o0M1HF', 'recPCT8H8DCxc6kMm']"
-,1,,recmplwEK44wn6Q0s,Credo Ventures,1,['recPCT8H8DCxc6kMm']
-,1,,rec5nLDWhqfNjP0Tz,Tiny VC,1,['recx080iW9wPAbS9v']
-,5,https://washingtonharbour.com/,"rec9mZx6oLqV6ITWH, recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recehKC85B8NxwosK, recm1ertZXmaVg4qw",Washington Harbour Partners,4,"['recWKiHC4wMW3K8fG', 'reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'rec4ILegIK6gJFR6O', 'recXaQbJ3Iur4lEcE']"
-,3,https://www.av.co/,"rec3WvOkmtnlNq180, recBJf7lHcYle3Zz8, recXOdclwbUAbxOci",Artis Venture,1,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo']"
-,1,https://aceandcompany.com/,recHESHjIpntSIzPz,ACE & Company,1,['rec8vLONaVfbVm2m0']
-,1,,recFdka70Kh4rX9tA,Eidetic Ventures,1,['recbSfY4BuqBLcJLs']
-,1,,recXmh4qaABewyQJN,Octave,1,['recXaQbJ3Iur4lEcE']
-,1,https://www.baincapitalventures.com/,recmqVC6wvQFcWa0n, Bain Capital Ventures,1,['rectiA0gQsACXRp0u']
-,1,,recxFQ45efgmPL0Iz,SNC,1,['recJkREq3oOUJYJda']
-,1,https://www.venrock.com/,recYA45I8hWanCh3d,Venrock,1,['recWANrnkOcxNKVii']
-,1,,rec2GZrMaErT323ZV,Impatient Ventures,1,['reclRRHg5fIY6Pdmq']
-,1,,recXhJ6W6a45yQZXW,Haystack VC,1,['recNsT1WWhgwC0uxV']
-,1,,recFZsJK99c86r5Fe,Defy.VC,1,['receMptpaVANM8svL']
-,1,,rec06dnM6h2EciosK,DADA Holdings,1,['recrPuPcemcmCbl8E']
-,1,,reclKHLOGZIt8w0kq,Forward Deployed VC,1,['recWaFcTJRtbfQlQD']
-,1,https://backstagecapital.com/,recu2qwWIF26WQnPe,Backstage Capital,1,['reczzGRxSDV9qjBVL']
-,1,,reclQZya5phkDNQ0U,ServiceNow Ventures,1,['recS8nPri4zPAVwIu']
-,0,https://aifund.ai/,,AI fund,0,
-,1,,recuapLv4TZiMKBJZ,Target Partners,1,['recDZqZNW3zDaxye0']
-,1,,recuT6ESGnFwxuqq7,Harpoon Ventures,1,['recstdDXVJk86xyOg']
-,1,https://x.com/cameron,recnU8dKXAWKS4TBt,Cameron Winklevoss,1,['recxMV8MA45o0M1HF']
-,2,,"recOtfOuDtK0aP7G5, recjnnvXcG98usZMd",Outlander VC,2,"['rec5pzP08DBSPhaYX', 'recuYCdtJqWuQr9Sj']"
-,2,,"rec04r1reIpUbqhiE, rec8Dw5L65Wk4FFQL",Tamarack Global,2,"['recp83xjDN2QdAdOX', 'rec1N9LDpw5Qub0QG']"
-,1,,reccqS0Gde2i8nvx5,Massive Capital Partners,1,['rec0kh559jOozBJZQ']
-,1,,recQ91rsUJ1C0J1TP,New Ground Ventures,1,['recnzfeFnkfYWYCwY']
-,4,,"recLn5CDcvGj2vqzr, rec8EBo2AH11oDwlK, recxjXJSgRv00r7o3, recPAfUwH9cDeNYyu",In-Q-Tel,4,"['recJoWJaOmNx9FQTo', 'recz5eJZELolYcFor', 'recdwLu1Gqq8I9y4H', 'recGRnYcaPFiDd2AW']"
-,2,https://www.broom.ventures/,"recBj3X2wxuMTJyUS, recosrVgHltufEe0m",Broom Ventures,2,"['recWKiHC4wMW3K8fG', 'rec442ElKKBTDRPNR']"
-,1,,recu2qwWIF26WQnPe,Tanis Ventures,1,['reczzGRxSDV9qjBVL']
-,2,,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3",Canaan Partners,1,"['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']"
-,2,,"recvC717mtI72bQGb, rec0EAE8lEtOHpygm",Standard Investments,2,"['recw9Rw3DtkHZ8m4p', 'recF7mne6kDRuUXoD']"
-,1,,recSDi26tBte3kA2y,New Vista Capital,1,['recdj7iXjiRgvJ2nI']
-,1,,recQA9JSy1x1D1iKS,Type 1 Ventures,1,['rectPCEEL0F3aEYZu']
-,1,,recofucAJWplJG0Eb,Revolution Growth,1,['reczhCxapYJ2v6JRj']
-,2,,"recszqxOufIeSWpAM, recGR4zAOSRBuKBRR",Partnership Fund for New York City,1,"['rece125ifwwZwqjkY', 'rece125ifwwZwqjkY']"
-,3,https://www.nea.com/,"rec3WvOkmtnlNq180, recJVUCtzqfp5Y80O, recUGtycpn6lYSoas",NEA,2,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recajXza1XUVNRvU4']"
-,3,https://toyota.ventures/,"recZKBAm3uwMCmggr, reccUBAb5pETifbP8, recFhgFNgq8xZv4WF",Toyota Ventures,2,"['rec0dYQAiiJXDO2L2', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']"
-,1,,rec5nLDWhqfNjP0Tz,MD One Ventures,1,['recx080iW9wPAbS9v']
-,3,,"recyZw6qEvr5bKfUl, recrakS5br5ySBz8N, rec8Dw5L65Wk4FFQL",Balerion Space Ventures,2,"['rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec1N9LDpw5Qub0QG']"
-,2,,"recp1Ftaupsa3aOAV, recfn4VQCRpsQDzUY",Squadra Ventures,2,"['rec2ZStt8SqWR8xBs', 'recuYCdtJqWuQr9Sj']"
-,1,,rec34RPKnu60sls3b,Lakestar,1,['rec7Cn1n5H9WBv9s6']
-,6,https://cubit.capital/,"recWUX8aUH5tjXi8c, recHuuAAcjQa4r4ZH, recUNEzo4x1lWsir9, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, rec8EBo2AH11oDwlK",Cubit Capital,5,"['rec9OWSTJloka8RJr', 'recCwahztU5LUdMaR', 'rec4cm8GflBSa2tOp', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recz5eJZELolYcFor']"
-,1,,reccyHBmr3mKLIYMz,Steadfast Capital,1,['recJoWJaOmNx9FQTo']
-,1,,rec8DISUA5aRAsXch,Future Fund,1,['recOzrWsldJfiMCr4']
-,1,https://www.ciscoinvestments.com/,reclQZya5phkDNQ0U,Cisco Investments,1,['recS8nPri4zPAVwIu']
-,1,,rec2bSpdXuahwg6EP,Sozo Ventures,1,['recUYFBRH0jKtbVbs']
-,1,,rec7bHfbmUWksxtpI,LAGO Innovation Fund,1,['recnzfeFnkfYWYCwY']
-,2,,"recImyH56zRZtuIPL, recCmxo4KawGIWoQi",Countdown Capital,2,"['recn8335qeKsipGcl', 'recVgajtFRkWxn0GE']"
-,1,,reccsblPEptwNzTXM,Bob Bishop,1,['recm24zsmOd0gDh66']
-,2,,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K",Gokul Rajaram,1,"['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']"
-,7,https://gaingels.com/,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS, recXOdclwbUAbxOci, recCASJHETzZ7NLqY, recwosnu5tLVs6gNZ, recQA9JSy1x1D1iKS, rec5nLDWhqfNjP0Tz",Gaingels,6,"['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'recIjimNiFWpxDGIC', 'recVQL4OVduwH3Bdh', 'rectPCEEL0F3aEYZu', 'recx080iW9wPAbS9v']"
-,1,,recSDi26tBte3kA2y,SVB Capital,1,['recdj7iXjiRgvJ2nI']
-,2,,"recLybn0y241dhzXm, recUHT9To04tzqRzq",Felicis,2,"['rec2tpRiVBnmhHHwp', 'recT1mb9DakwODWuc']"
-,1,https://www.1789capital.io/,recwk9LjWqQuG0nRC,1789 Capital,1,['recqtlo9fXmcTxUvf']
-,1,,reclKHLOGZIt8w0kq,Karman Ventures,1,['recWaFcTJRtbfQlQD']
-,1,,recVjTY5eCw9NLKgd,Iberis Capital,1,['recCDcLrVnxxmnlqD']
-,1,,recQA9JSy1x1D1iKS,The Venture Collective,1,['rectPCEEL0F3aEYZu']
-,6,,"recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k, recUFITgok15wi7vB, recXhJ6W6a45yQZXW, rechbCkbEfXsDt7pM, recMJxwsV9zeUOZeM",Human Capital,5,"['recoydiR9hm01g8Js', 'recoydiR9hm01g8Js', 'rec6jsbKlE5JTwPMx', 'recNsT1WWhgwC0uxV', 'recZBbB6Qbs0tZEtY', 'recUYFBRH0jKtbVbs']"
-,2,,"recehKC85B8NxwosK, rec77t7E2X8KT9TUT",Hanwha Aerospace,2,"['rec4ILegIK6gJFR6O', 'recnzfeFnkfYWYCwY']"
-,1,,recZwYI3OB1MKiOhs,Lunar Ventures,1,['recrBEkTtPJJxGJ5U']
-,1,https://www.3wp.com/,reccbMpkTJVAm4U88,3Wire Partners,1,['rec7pdDC5Ia03obSf']
-,2,https://thrivecap.com/,"recUFITgok15wi7vB, reclQZya5phkDNQ0U",Thrive Capital,2,"['rec6jsbKlE5JTwPMx', 'recS8nPri4zPAVwIu']"
-,1,,recrakS5br5ySBz8N,Boeing Ventures,1,['rec442ElKKBTDRPNR']
-,1,,recZKBAm3uwMCmggr,CRV,1,['rec0dYQAiiJXDO2L2']
-,2,https://www.alsop-louie.com/,"recOvxdW62gBHJBA9, recuT6ESGnFwxuqq7",Alsop Louie Partners,2,"['reczhCxapYJ2v6JRj', 'recstdDXVJk86xyOg']"
-,4,https://www.crosslinkcapital.com/,"recLn5CDcvGj2vqzr, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N",Crosslink,2,"['recJoWJaOmNx9FQTo', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR']"
-,1,,recVnisYr2zGu5r1l,Seraph Group,1,['recLeuqLd2u1RqgiW']
-,1,,recYA45I8hWanCh3d,Declaration Partners,1,['recWANrnkOcxNKVii']
-,1,,recSDi26tBte3kA2y,Seraphim Space Investment Trust,1,['recdj7iXjiRgvJ2nI']
-,1,https://www.amd.com/en/ventures.html,reclQZya5phkDNQ0U,AMD Ventures,1,['recS8nPri4zPAVwIu']
-,1,https://www.altimeter.com/home,recPOwomUY2XsL22u,Altimeter,1,['rec6jsbKlE5JTwPMx']
-,2,https://www.altimeter.com/home,"recKv2NbbclJye6Eh, rec0oTleWjLeyHEQi",Altimeter Capital,1,"['recn8335qeKsipGcl', 'recn8335qeKsipGcl']"
-,1,,recAFEwgkK00ip04h,Hejaz,1,['recDGV4FyDzq6Awh7']
-,1,,recZKBAm3uwMCmggr,Outsiders Fund,1,['rec0dYQAiiJXDO2L2']
-,2,https://up.partners/,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu",UP.Partners,1,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']"
-,3,https://645ventures.com/,"recWUX8aUH5tjXi8c, recWRR5c42bC9p6VD, recfn4VQCRpsQDzUY",645 Ventures,3,"['rec9OWSTJloka8RJr', 'rec86ZVRPL7ATazM1', 'recuYCdtJqWuQr9Sj']"
-,2,https://www.championhillventures.com/,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb",Champion Hill Ventures,1,"['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1']"
-,2,,"recUNEzo4x1lWsir9, recmplwEK44wn6Q0s",Initialized Capital,2,"['rec4cm8GflBSa2tOp', 'recPCT8H8DCxc6kMm']"
-,1,,reccqS0Gde2i8nvx5,Stride Capital,1,['rec0kh559jOozBJZQ']
-,1,,recKDTpcOUqX0OQAQ,UAE’s Strategic Development Fund,1,['recstc0yBh8guRP7o']
-,1,,rec39u9n3xdQtzCUW,Sixth Wave Ventures,1,['recywWFSpc4xuUUMD']
-,1,,rec8Dw5L65Wk4FFQL,Island Green,1,['rec1N9LDpw5Qub0QG']
-,1,,recUC65W7Adrm5LBB,Cedrus Capital,1,['recCDcLrVnxxmnlqD']
-,1,,recUGtycpn6lYSoas,Jared Leto,1,['recajXza1XUVNRvU4']
-,1,,recm1ertZXmaVg4qw,State of Florida Opportunity Fund,1,['recXaQbJ3Iur4lEcE']
-,4,https://quiet.com/,"recHESHjIpntSIzPz, recpkcnyjFW6d3FTR, recJW37WJQ58G6l3P, recwqI1d8SsIQ5cJk",Quiet Capital,4,"['rec8vLONaVfbVm2m0', 'rec1sFc4jqWMtGdfK', 'recqMUaeeNLfTTmM5', 'recj7me74RgFYURqk']"
-,2,https://www.ascend.vc/,"recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y",Ascend,1,"['recCwahztU5LUdMaR', 'recCwahztU5LUdMaR']"
-,3,https://www.irongatevc.com/,"recWUX8aUH5tjXi8c, recXmh4qaABewyQJN, recm1ertZXmaVg4qw",IronGate Capital,2,"['rec9OWSTJloka8RJr', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE']"
-,1,,recAFEwgkK00ip04h,Paspalis Capital,1,['recDGV4FyDzq6Awh7']
-,4,https://www.aeroequity.com/,"recJVUCtzqfp5Y80O, recXOdclwbUAbxOci, rectDufKabFXjMmVA, recJu2RU4dPEfush7",AE Industrial Partners,2,"['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recrPuPcemcmCbl8E', 'recrPuPcemcmCbl8E']"
-,1,,rec06dnM6h2EciosK,Raven One Ventures,1,['recrPuPcemcmCbl8E']
-,1,,rec4nZPwKClyN8hqF,DA Ventures,1,['reczBvi7iDjPKPIrz']
-,1,,reccrOdzE6BTmV2kB,NewSpace Capital,1,['recqSTB3NMDRBIhr6']
-,1,,rec5hoicQkMQD7u7k,Harmony Partners,1,['recJuiJmQrkbGbm2q']
-,1,,rec06dnM6h2EciosK,Astera Institute,1,['recrPuPcemcmCbl8E']
-,2,,"reccyHBmr3mKLIYMz, rec77t7E2X8KT9TUT",Crumpton Ventures,2,"['recJoWJaOmNx9FQTo', 'recnzfeFnkfYWYCwY']"
-,2,,"recuT6ESGnFwxuqq7, recm1ertZXmaVg4qw",Alpha Edison,2,"['recstdDXVJk86xyOg', 'recXaQbJ3Iur4lEcE']"
-,1,,recfPzjyZkxiitbbz,Frst,1,['recmjnpB74fsJBirZ']
-,1,,recPOwomUY2XsL22u,Fidelity Management & Research Company,1,['rec6jsbKlE5JTwPMx']
-,1,,recFS2bRhGb1trDfn,Inspired Capital,1,['reccrYDJ9uuhYlhIc']
-,3,,"recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch",K1W1 investment fund,1,"['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4']"
-,1,,rec8EBo2AH11oDwlK,Propeller Ventures,1,['recz5eJZELolYcFor']
-,4,,"recGH9NqxcnhaUuqO, recz5zMzemw4OO2pE, recfn4VQCRpsQDzUY, recFcno13Ffr5mzNr",First In,4,"['recAlyaRqTZXSXqXE', 'recjI9VVGA8NQIhYW', 'recuYCdtJqWuQr9Sj', 'recf27TX6ShjG9p9P']"
-,1,,recLybn0y241dhzXm,Koch Real Estate Investments,1,['rec2tpRiVBnmhHHwp']
-,1,,recuapLv4TZiMKBJZ,TempoCap,1,['recDZqZNW3zDaxye0']
-,2,,"recSDi26tBte3kA2y, recOtfOuDtK0aP7G5",New North Ventures,2,"['recdj7iXjiRgvJ2nI', 'rec5pzP08DBSPhaYX']"
-,2,,"recoqHWhnWyn0xo1D, recCmxo4KawGIWoQi",Village Global,2,"['rec0dYQAiiJXDO2L2', 'recVgajtFRkWxn0GE']"
-,1,https://www.beyondcapitalventures.com/,recWUX8aUH5tjXi8c,Beyond Capital,1,['rec9OWSTJloka8RJr']
-,1,,rec3BrHl7MTYBZU2c,TargetPartners,1,['recDZqZNW3zDaxye0']
-,1,,recRpVuxcb3ldvu7S,Day One Ventures,1,['recDGV4FyDzq6Awh7']
-,3,,"recbhZtAusdAbAj0E, recmSwFJhubVAMV4B, reclQZya5phkDNQ0U",NVIDIA,2,"['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recS8nPri4zPAVwIu']"
-,2,,"recUNEzo4x1lWsir9, recmplwEK44wn6Q0s",Giant Step Capital,2,"['rec4cm8GflBSa2tOp', 'recPCT8H8DCxc6kMm']"
-,1,,recFcno13Ffr5mzNr,Atypical,1,['recf27TX6ShjG9p9P']
-,1,,rec06dnM6h2EciosK,Reuben Brothers Limited,1,['recrPuPcemcmCbl8E']
-,1,,recjnE78So8cQjxIR,Silicon Valley Bank,1,['rec4ILegIK6gJFR6O']
-,1,,recjlEUZ5epuuHPhi,Leo Polovets,1,['rec3IRqwSRZln16TD']
-,4,,"recQjVtQkGBcSiL2k, recYA45I8hWanCh3d, recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG",Insight Partners,3,"['recoydiR9hm01g8Js', 'recWANrnkOcxNKVii', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']"
-,1,,recpnZlMZh05pErUh,The Westly Group,1,['recFW58gHq4EqB5GX']
-,2,,"recmqVC6wvQFcWa0n, recYqhP5y5dXPg2XT",Tru Arrow,2,"['rectiA0gQsACXRp0u', 'recmsqSpKGoxBCmug']"
-,1,,recofucAJWplJG0Eb,Founders Circle Capital,1,['reczhCxapYJ2v6JRj']
-,1,https://primamateria.com/,reczzV1ZkQRAqqPW0,Prima Materia,1,['rechOi7KYOUmGrlxO']
-,1,,recwosnu5tLVs6gNZ,Seven Seven Six,1,['recVQL4OVduwH3Bdh']
-,2,,"recVfIggVQsiIjjot, recFS2bRhGb1trDfn",Rally Ventures,1,"['reccrYDJ9uuhYlhIc', 'reccrYDJ9uuhYlhIc']"
+Total Funded Rounds,Unique Company Investments (all time),Website,Fund,Funded Rounds,Companies Funded,Unique Companies
+5,4,,NightDragon,"rec9mZx6oLqV6ITWH, recKR7ZPLOdHBt7k7, recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recoC2nolAB4W1WMD","['recWKiHC4wMW3K8fG', 'rec0Yyo4zatqEJdTj', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recJuiJmQrkbGbm2q']","Epirus, Saronic, HawkEye 360, Capella Space"
+3,3,https://www.boxgroup.com/,Box Group,"recXhJ6W6a45yQZXW, recRRxgeHZ0PRBnFy, recqqw5r819P5Esn5","['recNsT1WWhgwC0uxV', 'recMDzhhhYCSGjvpO', 'recekQ4DydSpqiY1C']","Nominal, Neros, Salient Motion"
+3,1,,Group 11,"recmqVC6wvQFcWa0n, recEQYRuRu1XJoINQ, recg9PGC8lrCgi8Ax","['rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u']",Dream Security
+1,1,,JumpStart Ventures,recaNqdXxWO7WeP8C,['recLQpahcXu134m7F'],ActionStreamer
+1,1,,10X Founders,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+1,1,,L3Harris,recehKC85B8NxwosK,['rec4ILegIK6gJFR6O'],Shield AI
+2,1,https://www.abstractvc.com/,Abstract Ventures,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo']",Second Front Systems
+3,3,,Spark Capital,"recOCcmGZcGU0g8Se, reclQZya5phkDNQ0U, rec5hoicQkMQD7u7k","['recI39qDzbjCeoStc', 'recS8nPri4zPAVwIu', 'recJuiJmQrkbGbm2q']","Air Space Intelligence, Scale AI, Capella Space"
+1,1,,James Park,recaq9hSNqYPmbNeV,['recstc0yBh8guRP7o'],REGENT
+2,2,https://bantercap.com/,Banter Capital,"rec2GZrMaErT323ZV, recqN8iTbxPw3DdA7","['reclRRHg5fIY6Pdmq', 'recgOARxrELuNKYkD']","Deterrence, Gallatin"
+3,1,,Signia Venture Partners,"recQ91rsUJ1C0J1TP, rec77t7E2X8KT9TUT, recSCn3ou2PnXPTtD","['recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY']",Fortem Technologies
+1,1,https://www.aloftvc.com/,Aloft VC,recUHT9To04tzqRzq,['recT1mb9DakwODWuc'],Vannevar Labs
+1,1,,Innovation Endeavors,recYA45I8hWanCh3d,['recWANrnkOcxNKVii'],Rebellion Defense
+1,1,,Blue Collective,rec8EBo2AH11oDwlK,['recz5eJZELolYcFor'],Vatn Systems
+1,1,,Parkwood,recBj3X2wxuMTJyUS,['recWKiHC4wMW3K8fG'],Epirus
+1,1,,Kevin Durant,recmSwFJhubVAMV4B,['recN7l5hjhx4FJObv'],Skydio
+8,3,https://www.khoslaventures.com/,Khosla Ventures,"recmR1RuJRk2O3zUH, recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch, recohyiPwuAwvDMWT, recxjXJSgRv00r7o3, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu","['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1']","Rocket Lab, Hermeus, Varda"
+2,2,https://www.marque.vc/,Marque Ventures,"recWUX8aUH5tjXi8c, recT6JBnPMJEmD5qd","['rec9OWSTJloka8RJr', 'rechMtCVsas5dzXFK']","Firestorm, Mach Industries"
+1,1,,Social Capital,rec0EAE8lEtOHpygm,['recF7mne6kDRuUXoD'],Saildrone
+2,2,,GSBackers,"recZKBAm3uwMCmggr, recCASJHETzZ7NLqY","['rec0dYQAiiJXDO2L2', 'recIjimNiFWpxDGIC']","Apex Space, Cambium"
+1,1,,Accelerator Investments,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+2,1,,Justin Kan,"rec3X27I40ye4jz4K, recpnZlMZh05pErUh","['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']",Gecko Robotics
+1,1,,Bravo Victor Venture Capital,recyZw6qEvr5bKfUl,['rec442ElKKBTDRPNR'],X-Bow
+1,1,,Future Planet Capital,recKDTpcOUqX0OQAQ,['recstc0yBh8guRP7o'],REGENT
+1,1,,Four More Capital,recvC717mtI72bQGb,['recw9Rw3DtkHZ8m4p'],Forterra
+1,1,,Plains VC,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Vlad Tenev,recUGtycpn6lYSoas,['recajXza1XUVNRvU4'],Aetherflux
+4,4,,Marlinspike,"recLybn0y241dhzXm, recUFITgok15wi7vB, recCASJHETzZ7NLqY, recXmh4qaABewyQJN","['rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'recIjimNiFWpxDGIC', 'recXaQbJ3Iur4lEcE']","Armada, Anduril Industries, Cambium, Red 6"
+1,1,https://www.contrary.com/,Contrary,recLybn0y241dhzXm,['rec2tpRiVBnmhHHwp'],Armada
+1,1,,Alcazar Capital,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+2,1,,Narya,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb","['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1']",True Anomoly
+5,4,https://www.pallasadvisors.com/ventures,Pallas Ventures,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, rec2rZm4umQ1Qk9jt, recPAfUwH9cDeNYyu, recKR4bPBsxr80qNy","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'rec7ctqsgZmdWv7O0', 'recGRnYcaPFiDd2AW', 'rec5cYIhEy6uH8yVa']","Second Front Systems, Zeno Power, Morpheus Space, TurbineOne"
+3,1,,Linse Capital,"recQE3KDxTt0l3i7w, recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']",Skydio
+1,1,,Osage University Partners,recyXNeaGnWfB369y,['recCwahztU5LUdMaR'],Overland
+1,1,,Kern Venture Fund,recCASJHETzZ7NLqY,['recIjimNiFWpxDGIC'],Cambium
+1,1,,Tiger Global Management,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,,New Stack Ventures,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+1,1,,Crosscut Ventures,rec4MminK8cNi5o6A,['recdVzSjjvjwqslFg'],Proteus Space
+1,1,,Peter Thiel,recRRxgeHZ0PRBnFy,['recMDzhhhYCSGjvpO'],Neros
+1,1,https://www.amazon.com/,Amazon,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,,Starship Ventures,recayJY0NvoePgb21,['recRHh4f4CPpi05D2'],Poseidon Aerospace
+1,1,,b.value,rech4UQBIEb4iQSx2,['recqSTB3NMDRBIhr6'],FibreCoat
+1,1,,Radius Capital,recjlEUZ5epuuHPhi,['rec3IRqwSRZln16TD'],Danti
+1,1,,Manifest Growth,recQ91rsUJ1C0J1TP,['recnzfeFnkfYWYCwY'],Fortem Technologies
+2,1,https://www.amplifypartners.com/,Amplify,"recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz","['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']",Primer
+2,2,https://www.a-star.co/,A*,"reclKHLOGZIt8w0kq, recRRxgeHZ0PRBnFy","['recWaFcTJRtbfQlQD', 'recMDzhhhYCSGjvpO']","Cape, Neros"
+1,1,,Fine Structure Ventures,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+1,1,https://www.horizonsventures.com/,Horizons Ventures,recG788rlElEfv0W1,['rectYZq8whVton27d'],Divergent Technologies
+1,1,,Ray Dalio,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,DiamondStream Partners,recsduiceufzEIlPB,['recJdhWCQrFlhi92V'],Elroy Air
+2,2,,Lachy Groom,"recUFITgok15wi7vB, recgmMRP4eilsT8gF","['rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug']","Anduril Industries, Hadrian"
+2,2,,Sam Altman,"recuB2lquXHyNu9DY, recxjXJSgRv00r7o3","['recgqEwUoCOh0Ap2a', 'recdwLu1Gqq8I9y4H']","Beacon AI, Hermeus"
+1,1,,Mark VC,rec5hoicQkMQD7u7k,['recJuiJmQrkbGbm2q'],Capella Space
+1,1,,Elevate Ventures,reccsblPEptwNzTXM,['recm24zsmOd0gDh66'],Adranos Energetics
+2,1,,Bling Capital,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3","['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']",Hermeus
+4,3,,Shasta Ventures,"recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y, recwosnu5tLVs6gNZ, recb4iXxbe3M9louj","['recCwahztU5LUdMaR', 'recCwahztU5LUdMaR', 'recVQL4OVduwH3Bdh', 'recJdhWCQrFlhi92V']","Overland, Interlune, Elroy Air"
+1,1,,Star Castle VC,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Olive Tree Capital,rec1d59Z1VKPAWYcL,['recstc0yBh8guRP7o'],REGENT
+6,5,https://www.8090industries.com/,8090 Industries,"recLybn0y241dhzXm, recCmxo4KawGIWoQi, recf87J0QlqoI5IEm, reccqS0Gde2i8nvx5, rec5nLDWhqfNjP0Tz, recKDTpcOUqX0OQAQ","['rec2tpRiVBnmhHHwp', 'recVgajtFRkWxn0GE', 'rec0kh559jOozBJZQ', 'rec0kh559jOozBJZQ', 'recx080iW9wPAbS9v', 'recstc0yBh8guRP7o']","Armada, Galvanick, Orbit Fab, Solideon, REGENT"
+2,1,https://www.gv.com/,Google Ventures,"recsLGlGP2RiWSuy6, recYBSa67S9Nv6BeK","['rect6maWDQXFx8GRi', 'rect6maWDQXFx8GRi']",Merlin Labs
+13,9,https://shieldcap.com/,Shield Capital,"recUNEzo4x1lWsir9, recLybn0y241dhzXm, recSDi26tBte3kA2y, recHJhY6SwBBcW6vb, recrB3sQw47aH3Nr9, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recZKBAm3uwMCmggr, recxVjfeWwZm6b7CH, recp1Ftaupsa3aOAV, recFhgFNgq8xZv4WF, recjlEUZ5epuuHPhi, recF9jlvQ9erEThSJ","['rec4cm8GflBSa2tOp', 'rec2tpRiVBnmhHHwp', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'rec2ZStt8SqWR8xBs', 'reck2DzTSz4zvYMIj', 'rec3IRqwSRZln16TD', 'recJdhWCQrFlhi92V']","Albedo, Armada, HawkEye 360, Vannevar Labs, Apex Space, Overwatch Imaging, Starfish Space, Danti, Elroy Air"
+1,1,https://x.com/baijubhatt,Baiju Bhatt,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+1,1,https://salesforceventures.com/,Salesforce Ventures,rec3WvOkmtnlNq180,['rec02fPErV66Stuoo'],Second Front Systems
+1,1,,Jefferies Family Office,recGR4zAOSRBuKBRR,['rece125ifwwZwqjkY'],Reality Defender
+1,1,,"T. Rowe Price Associates, Inc.",recBj3X2wxuMTJyUS,['recWKiHC4wMW3K8fG'],Epirus
+2,2,,Manhattan Venture Partners,"rec9mZx6oLqV6ITWH, reczMHHB6Xu5k7sSG","['recWKiHC4wMW3K8fG', 'recdj7iXjiRgvJ2nI']","Epirus, HawkEye 360"
+1,1,,Ventura Capital,recVjTY5eCw9NLKgd,['recCDcLrVnxxmnlqD'],TEKEVER
+1,1,,Nico Rosberg,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,Voyager Capital,recHuuAAcjQa4r4ZH,['recCwahztU5LUdMaR'],Overland
+2,1,,Marlinspike Capital,"recsduiceufzEIlPB, recQ97gI1z94a1veg","['recJdhWCQrFlhi92V', 'recJdhWCQrFlhi92V']",Elroy Air
+1,1,https://comcastventures.com/,Comcast,recszqxOufIeSWpAM,['rece125ifwwZwqjkY'],Reality Defender
+1,1,,Nat Friedman,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,https://www.ansa.co/,Ansa Capital,recVDV4nVgn1GQVtM,['recdMAMH8QfuPx94m'],Defense Unicorns
+2,1,,TiE Angels,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2","['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']",FibreCoat
+6,4,,Moore Strategic Ventures,"rec3WvOkmtnlNq180, recBj3X2wxuMTJyUS, recJVUCtzqfp5Y80O, recXOdclwbUAbxOci, recvC717mtI72bQGb, rec8JjqAgi0SOdgjX","['rec02fPErV66Stuoo', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recw9Rw3DtkHZ8m4p', 'recuYCdtJqWuQr9Sj']","Second Front Systems, Epirus, Forterra, Shift5"
+0,0,,State of Wisconsin Investment Board,,,
+4,2,,Next47,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, rec3X27I40ye4jz4K","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recFW58gHq4EqB5GX']","Skydio, Gecko Robotics"
+1,1,,JetBlue Ventures,recuB2lquXHyNu9DY,['recgqEwUoCOh0Ap2a'],Beacon AI
+2,2,,Scout Ventures,"recuB2lquXHyNu9DY, recOtfOuDtK0aP7G5","['recgqEwUoCOh0Ap2a', 'rec5pzP08DBSPhaYX']","Beacon AI, HavocAI"
+1,1,,Tyler Winklevoss,recnU8dKXAWKS4TBt,['recxMV8MA45o0M1HF'],Privateer
+1,1,https://www.block3.us/,Block 3,rec4kUoujLTbvtaJ2,['recPCzeraD5iFk2Ng'],Sphinx
+2,2,https://cathexis.ventures/,Cathexis Ventures,"recHESHjIpntSIzPz, recaAg6G3WN2y45vo","['rec8vLONaVfbVm2m0', 'recqtlo9fXmcTxUvf']","Destinus, Firehawk Aerospace"
+4,3,,Explorer 1,"recuT6ESGnFwxuqq7, rec3yrj6pqofZPtTP, reccsblPEptwNzTXM, recQA9JSy1x1D1iKS","['recstdDXVJk86xyOg', 'recstdDXVJk86xyOg', 'recm24zsmOd0gDh66', 'rectPCEEL0F3aEYZu']","Ursa Major, Adranos Energetics, Radian Aerospace"
+3,1,https://www.aleph.vc/,Aleph,"recmqVC6wvQFcWa0n, recEQYRuRu1XJoINQ, recg9PGC8lrCgi8Ax","['rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u', 'rectiA0gQsACXRp0u']",Dream Security
+1,1,,Greenspring Associates,rec8DISUA5aRAsXch,['recOzrWsldJfiMCr4'],Rocket Lab
+1,1,,Quest Venture Partners,recOvxdW62gBHJBA9,['reczhCxapYJ2v6JRj'],Hidden Level
+1,1,,Teamworthy Ventures,reccbMpkTJVAm4U88,['rec7pdDC5Ia03obSf'],Parrylabs
+2,1,,Felicis Ventures,"recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c","['recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']",Dedrone
+1,1,,Virginia Tech Carilion Seed Fund,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+2,1,,Bilal Zuberi,"recMJxwsV9zeUOZeM, recvHYL6CZOkrd3Bc","['recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs']",Applied Intuition
+1,1,,Goff Capital,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+6,3,,Riot Ventures,"recnOxMTy6CgkOx33, recpmycTYIZGXEn08, rec2GZrMaErT323ZV, recWRR5c42bC9p6VD, recrftVyOakVQm2Fb, recjnE78So8cQjxIR","['rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'reclRRHg5fIY6Pdmq', 'rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1', 'rec4ILegIK6gJFR6O']","Shield AI, Deterrence, True Anomoly"
+1,1,,JME Ventures,recn0rD7tp4sxfozB,['recxHRT9p1UWA4WsE'],XRF.ai
+1,1,,M-Cor Holdings,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+1,1,,Cavalier Angels,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+2,2,,Levitate Capital,"recCwJRzwWqraehWo, recb4iXxbe3M9louj","['recN7l5hjhx4FJObv', 'recJdhWCQrFlhi92V']","Skydio, Elroy Air"
+1,1,,The General Partnership,recKR4bPBsxr80qNy,['rec5cYIhEy6uH8yVa'],TurbineOne
+1,1,,EXOR,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+1,1,,Precursor Ventures,recsduiceufzEIlPB,['recJdhWCQrFlhi92V'],Elroy Air
+1,1,,The Helm & Tamarack Global,recVnisYr2zGu5r1l,['recLeuqLd2u1RqgiW'],Venus Aerospace
+1,1,,Porsche Investments Management S.A.,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+2,2,,Republic Capital,"recUNEzo4x1lWsir9, recImyH56zRZtuIPL","['rec4cm8GflBSa2tOp', 'recn8335qeKsipGcl']","Albedo, K2 Space"
+4,4,https://dfjgrowth.com/,DFJ Growth,"recofucAJWplJG0Eb, recUFITgok15wi7vB, recUHT9To04tzqRzq, reclQZya5phkDNQ0U","['reczhCxapYJ2v6JRj', 'rec6jsbKlE5JTwPMx', 'recT1mb9DakwODWuc', 'recS8nPri4zPAVwIu']","Hidden Level, Anduril Industries, Vannevar Labs, Scale AI"
+1,1,https://isquaredcapital.com/,I Squared Capital,recBj3X2wxuMTJyUS,['recWKiHC4wMW3K8fG'],Epirus
+1,1,https://sapphireventures.com/,Sapphire Venutures,recVDV4nVgn1GQVtM,['recdMAMH8QfuPx94m'],Defense Unicorns
+2,1,,Promus Ventures,"recpsxWp2rGSDR20e, rec8DISUA5aRAsXch","['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4']",Rocket Lab
+3,3,,WCM Investment Management,"recUFITgok15wi7vB, recYqhP5y5dXPg2XT, reclQZya5phkDNQ0U","['rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recS8nPri4zPAVwIu']","Anduril Industries, Hadrian, Scale AI"
+1,1,,Shanghai Alliance ,recwdnIj7LiConeFY,['rectYZq8whVton27d'],Divergent Technologies
+1,1,,Point Bridge Capital,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Phoenix Venture Partners,rech4UQBIEb4iQSx2,['recqSTB3NMDRBIhr6'],FibreCoat
+3,2,,Gula Tech Adventures,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, recSDi26tBte3kA2y","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recdj7iXjiRgvJ2nI']","Second Front Systems, HawkEye 360"
+3,2,https://www.saic.com/,SAIC,"recfa7H3jjNWYXqIV, rec8EBo2AH11oDwlK, rec4MminK8cNi5o6A","['recdVzSjjvjwqslFg', 'recz5eJZELolYcFor', 'recdVzSjjvjwqslFg']","Proteus Space, Vatn Systems"
+1,1,,GoHub Ventures,recn0rD7tp4sxfozB,['recxHRT9p1UWA4WsE'],XRF.ai
+2,1,,GOOSE Capital,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2","['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']",FibreCoat
+1,1,,Convergent Ventures,reccrOdzE6BTmV2kB,['recqSTB3NMDRBIhr6'],FibreCoat
+2,2,https://www.alsocapital.com/,Also Capital,"recImyH56zRZtuIPL, recz5zMzemw4OO2pE","['recn8335qeKsipGcl', 'recjI9VVGA8NQIhYW']","K2 Space, AnySignal"
+1,1,https://www.boeing.com/,Boeing,recQ91rsUJ1C0J1TP,['recnzfeFnkfYWYCwY'],Fortem Technologies
+1,1,,Nue Capital,recjnnvXcG98usZMd,['recuYCdtJqWuQr9Sj'],Shift5
+2,2,,Space Capital,"recuT6ESGnFwxuqq7, recSEz74CJXEiiiRr","['recstdDXVJk86xyOg', 'rec1N9LDpw5Qub0QG']","Ursa Major, Impulse Space"
+1,1,,LMNT Ventures,recwqI1d8SsIQ5cJk,['recj7me74RgFYURqk'],Swarmbotics AI
+1,1,,Hemisphere Ventures,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Canon Ball,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+2,2,https://bv.vc/,BVVC,"recWUX8aUH5tjXi8c, recOtfOuDtK0aP7G5","['rec9OWSTJloka8RJr', 'rec5pzP08DBSPhaYX']","Firestorm, HavocAI"
+14,7,https://caffeinatedcapital.com/,Caffeinated Capital,"recAc10wn8LrMTEoT, recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, recz5zMzemw4OO2pE, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ, reczR2CmFH1Jger1H","['rec0Yyo4zatqEJdTj', 'recoydiR9hm01g8Js', 'recoydiR9hm01g8Js', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recjI9VVGA8NQIhYW', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o', 'recCPysM8RhlSf0qz']","Saronic, Onebrief, Hadrian, AnySignal, Varda, REGENT, AMCA"
+2,1,,Munich Re Ventures,"reccUBAb5pETifbP8, recFhgFNgq8xZv4WF","['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']",Starfish Space
+1,1,,Forum Ventures,recVfIggVQsiIjjot,['reccrYDJ9uuhYlhIc'],Allen Control Systems
+1,1,,Counterpoint Global,recPOwomUY2XsL22u,['rec6jsbKlE5JTwPMx'],Anduril Industries
+4,4,https://www.decisivepoint.com/,Decisive Point,"recWUX8aUH5tjXi8c, rec8EBo2AH11oDwlK, recOtfOuDtK0aP7G5, recBewZRZJmixePAl","['rec9OWSTJloka8RJr', 'recz5eJZELolYcFor', 'rec5pzP08DBSPhaYX', 'recRe3rJHVoOxhSzJ']","Firestorm, Vatn Systems, HavocAI, EpiSci"
+2,1,http://www.alliedminds.com/,Allied Minds,"recrB3sQw47aH3Nr9, recprBJm0Ue9c1EkL","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']",HawkEye 360
+2,2,,1517,"rec2rZm4umQ1Qk9jt, rec5nLDWhqfNjP0Tz","['rec7ctqsgZmdWv7O0', 'recx080iW9wPAbS9v']","Zeno Power, Solideon"
+2,2,https://www.redcellpartners.com/,Red Cell Partners,"recBj3X2wxuMTJyUS, recXmh4qaABewyQJN","['recWKiHC4wMW3K8fG', 'recXaQbJ3Iur4lEcE']","Epirus, Red 6"
+1,1,,KDDI,recQE3KDxTt0l3i7w,['recN7l5hjhx4FJObv'],Skydio
+1,1,,Offline Ventures,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+2,1,https://capricornllc.com/,Capricorn,"rec0EAE8lEtOHpygm, recXqs4SoVYX7gJIB","['recF7mne6kDRuUXoD', 'recF7mne6kDRuUXoD']",Saildrone
+1,1,,Paul Buchheit,rec3X27I40ye4jz4K,['recFW58gHq4EqB5GX'],Gecko Robotics
+1,1,https://www.linkedin.com/in/jake1/,Jake Seid,rec3X27I40ye4jz4K,['recFW58gHq4EqB5GX'],Gecko Robotics
+1,1,,Asymmetry Ventures,recKpxBo8pH53kgmM,['rec0kh559jOozBJZQ'],Orbit Fab
+1,1,,Spacecadet VC,recImyH56zRZtuIPL,['recn8335qeKsipGcl'],K2 Space
+27,13,https://foundersfund.com/,Founders Fund,"recLybn0y241dhzXm, recuB7JCw2KIEuP2a, recLfA0HwXhmMSIeV, recYQdrFcIWXoG8Bn, recZDW8y6oHdJRcCE, recaXshnck8nOFZtR, recUFITgok15wi7vB, recPOwomUY2XsL22u, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ, recDBvePS4EgAicMc, reclQZya5phkDNQ0U, rechbCkbEfXsDt7pM, recxjXJSgRv00r7o3, recCmxo4KawGIWoQi, recPwQpi5HSpuvPef, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recAJhD8jGhrZowEq, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ, reczR2CmFH1Jger1H","['rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recNsT1WWhgwC0uxV', 'recS8nPri4zPAVwIu', 'recZBbB6Qbs0tZEtY', 'recdwLu1Gqq8I9y4H', 'recVgajtFRkWxn0GE', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o', 'recCPysM8RhlSf0qz']","Armada, Anduril Industries, Hadrian, Nominal, Scale AI, Wraithwatch, Hermeus, Galvanick, Impulse Space, Gecko Robotics, Varda, REGENT, AMCA"
+1,1,,John Quinn,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+5,2,,Mark Cuban,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recaq9hSNqYPmbNeV, recKDTpcOUqX0OQAQ","['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o']","Gecko Robotics, REGENT"
+1,1,,Draper Startup House,recayJY0NvoePgb21,['recRHh4f4CPpi05D2'],Poseidon Aerospace
+2,1,,PSL Ventures,"recdBNRGQIOWVrAYV, reccUBAb5pETifbP8","['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']",Starfish Space
+1,1,https://upfront.com/,Upfront,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+2,1,,Saab,"reclHdSUJT8vTTP4M, rec9xT7uGFzKwWwww","['rechOi7KYOUmGrlxO', 'rechOi7KYOUmGrlxO']",Helsing
+1,1,,Centre Street Partners,rec8EBo2AH11oDwlK,['recz5eJZELolYcFor'],Vatn Systems
+3,3,https://tribecap.co/,Tribe Capital,"rec0EAE8lEtOHpygm, rec2rZm4umQ1Qk9jt, reccqS0Gde2i8nvx5","['recF7mne6kDRuUXoD', 'rec7ctqsgZmdWv7O0', 'rec0kh559jOozBJZQ']","Saildrone, Zeno Power, Orbit Fab"
+1,1,,Virginia Tech Carilion Innovation Fund,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+2,2,,Sands Capital,"recPOwomUY2XsL22u, reccyHBmr3mKLIYMz","['rec6jsbKlE5JTwPMx', 'recJoWJaOmNx9FQTo']","Anduril Industries, Primer"
+1,1,,Reinforced Ventures,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+13,8,https://www.dcvc.com/,DCVC,"recT6JBnPMJEmD5qd, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz, rec2rZm4umQ1Qk9jt, recQ91rsUJ1C0J1TP, rec77t7E2X8KT9TUT, recSCn3ou2PnXPTtD, recszqxOufIeSWpAM, recGR4zAOSRBuKBRR, recpsxWp2rGSDR20e, rec8Dw5L65Wk4FFQL, rec5hoicQkMQD7u7k, recoC2nolAB4W1WMD","['rechMtCVsas5dzXFK', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'rec7ctqsgZmdWv7O0', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'recnzfeFnkfYWYCwY', 'rece125ifwwZwqjkY', 'rece125ifwwZwqjkY', 'recOzrWsldJfiMCr4', 'rec1N9LDpw5Qub0QG', 'recJuiJmQrkbGbm2q', 'recJuiJmQrkbGbm2q']","Mach Industries, Primer, Zeno Power, Fortem Technologies, Reality Defender, Rocket Lab, Impulse Space, Capella Space"
+1,1,https://feldventures.com/,Feld Ventures,recWUX8aUH5tjXi8c,['rec9OWSTJloka8RJr'],Firestorm
+1,1,,Advanced Manufacturing Fund,recaNqdXxWO7WeP8C,['recLQpahcXu134m7F'],ActionStreamer
+1,1,,Pipeline Capital,recOvxdW62gBHJBA9,['reczhCxapYJ2v6JRj'],Hidden Level
+2,2,,Index Ventures,"reclQZya5phkDNQ0U, recUGtycpn6lYSoas","['recS8nPri4zPAVwIu', 'recajXza1XUVNRvU4']","Scale AI, Aetherflux"
+1,1,,Joe Lonsdale,recAJhD8jGhrZowEq,['recFW58gHq4EqB5GX'],Gecko Robotics
+1,1,,Israel Growth Partners,recmV5At7nKUo1aQk,['recwBSe4yLBG4oF80'],D-Fend Solutions
+3,2,,Thiel Capital,"recSjWL7en3SNhCdl, recaq9hSNqYPmbNeV, rec1d59Z1VKPAWYcL","['rec5zzUU2sNANGHLr', 'recstc0yBh8guRP7o', 'recstc0yBh8guRP7o']","Pilgrim, REGENT"
+2,1,,Saturn Five,"reckJrISjn8LLkTDm, recVnisYr2zGu5r1l","['recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']",Venus Aerospace
+1,1,,Top Aces,recBewZRZJmixePAl,['recRe3rJHVoOxhSzJ'],EpiSci
+1,1,,Hummingbird Ventures,recqqw5r819P5Esn5,['recekQ4DydSpqiY1C'],Salient Motion
+1,1,,Hypothesis,recdBNRGQIOWVrAYV,['reck2DzTSz4zvYMIj'],Starfish Space
+1,1,,Renegade Partners,recOCcmGZcGU0g8Se,['recI39qDzbjCeoStc'],Air Space Intelligence
+3,2,,J2 Ventures,"recZKBAm3uwMCmggr, recoqHWhnWyn0xo1D, reccyHBmr3mKLIYMz","['rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo']","Apex Space, Primer"
+1,1,https://bridgeraerospace.com/,Bridger Aerospace,recp1Ftaupsa3aOAV,['rec2ZStt8SqWR8xBs'],Overwatch Imaging
+1,1,,Mesa Air Group,rec1d59Z1VKPAWYcL,['recstc0yBh8guRP7o'],REGENT
+3,2,https://www.bloombergbeta.com/,Bloomberg Beta,"recOCcmGZcGU0g8Se, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz","['recI39qDzbjCeoStc', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']","Air Space Intelligence, Primer"
+1,1,,Dorilton Ventures,recHJhY6SwBBcW6vb,['recdj7iXjiRgvJ2nI'],HawkEye 360
+1,1,https://caprock.com/,Caprock,recyXNeaGnWfB369y,['recCwahztU5LUdMaR'],Overland
+4,3,,MaC Venture Captial,"recJW37WJQ58G6l3P, recdBNRGQIOWVrAYV, reccUBAb5pETifbP8, recCmxo4KawGIWoQi","['recqMUaeeNLfTTmM5', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj', 'recVgajtFRkWxn0GE']","Aeon, Starfish Space, Galvanick"
+1,1,https://hexagon.com/,Hexagon AB,recEhPkVJrooVSpVK,['rectYZq8whVton27d'],Divergent Technologies
+2,2,https://homebrew.co/,Homebrew,"recnOxMTy6CgkOx33, recb4iXxbe3M9louj","['rec4ILegIK6gJFR6O', 'recJdhWCQrFlhi92V']","Shield AI, Elroy Air"
+1,1,,Earthrise Ventures,recImyH56zRZtuIPL,['recn8335qeKsipGcl'],K2 Space
+1,1,,R42 Group,recu2qwWIF26WQnPe,['reczzGRxSDV9qjBVL'],Bounce Imaging
+2,1,,Lerner Enterprises,"recytgbsNBc0n8vLD, rec04r1reIpUbqhiE","['recp83xjDN2QdAdOX', 'recp83xjDN2QdAdOX']",Chaos
+1,1,,Bill Perkins,recUNEzo4x1lWsir9,['rec4cm8GflBSa2tOp'],Albedo
+1,1,,Altos Ventures,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+1,1,https://trueventures.com/,True Ventures,reccbMpkTJVAm4U88,['rec7pdDC5Ia03obSf'],Parrylabs
+2,2,,M12,"recYdy2U2sT4urzde, rec2bSpdXuahwg6EP","['rec2tpRiVBnmhHHwp', 'recUYFBRH0jKtbVbs']","Armada, Applied Intuition"
+3,2,,Addition,"reccyHBmr3mKLIYMz, recjPnhHbVaKgcHrw, recMlrJRBbYuwscdD","['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'recUYFBRH0jKtbVbs']","Primer, Applied Intuition"
+1,1,,TRAC VC,recFhgFNgq8xZv4WF,['reck2DzTSz4zvYMIj'],Starfish Space
+3,2,https://alpinespace.vc/,Alpine Space Ventures,"recKv2NbbclJye6Eh, rec0oTleWjLeyHEQi, recPAfUwH9cDeNYyu","['recn8335qeKsipGcl', 'recn8335qeKsipGcl', 'recGRnYcaPFiDd2AW']","K2 Space, Morpheus Space"
+1,1,,Vsquared Ventures,recPAfUwH9cDeNYyu,['recGRnYcaPFiDd2AW'],Morpheus Space
+4,4,,Industrious Ventures,"recquoEPQ1BK30cBi, recFhgFNgq8xZv4WF, recxperxaqVLOTOgl, reccqS0Gde2i8nvx5","['recdVzSjjvjwqslFg', 'reck2DzTSz4zvYMIj', 'rec2xYrnWF40FTPzu', 'rec0kh559jOozBJZQ']","Proteus Space, Starfish Space, Solestial, Orbit Fab"
+0,0,,BlackRock,,,
+1,1,,Raytheon,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Energy Ventures,recUNEzo4x1lWsir9,['rec4cm8GflBSa2tOp'],Albedo
+1,1,,Mach33,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+1,1,,Side X Side Management,recsduiceufzEIlPB,['recJdhWCQrFlhi92V'],Elroy Air
+1,1,,Centaurus Capital LP,rec9mZx6oLqV6ITWH,['recWKiHC4wMW3K8fG'],Epirus
+1,1,,Prosperity7 Ventures,recsduiceufzEIlPB,['recJdhWCQrFlhi92V'],Elroy Air
+1,1,,Oppenheimer,rec9mZx6oLqV6ITWH,['recWKiHC4wMW3K8fG'],Epirus
+2,1,,Esri,"recrB3sQw47aH3Nr9, recHJhY6SwBBcW6vb","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']",HawkEye 360
+5,3,,Moonshots Capital,"recquoEPQ1BK30cBi, recXmh4qaABewyQJN, recm1ertZXmaVg4qw, rec4MminK8cNi5o6A, recqN8iTbxPw3DdA7","['recdVzSjjvjwqslFg', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recdVzSjjvjwqslFg', 'recgOARxrELuNKYkD']","Proteus Space, Red 6, Gallatin"
+1,1,https://connyandco.com/,Conny & Co,recHESHjIpntSIzPz,['rec8vLONaVfbVm2m0'],Destinus
+2,1,,Section 32,"recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz","['recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']",Primer
+2,2,,Pathbreaker Ventures,"recImyH56zRZtuIPL, rec5nLDWhqfNjP0Tz","['recn8335qeKsipGcl', 'recx080iW9wPAbS9v']","K2 Space, Solideon"
+4,2,,Draper Associates,"recwk9LjWqQuG0nRC, recaAg6G3WN2y45vo, reckJrISjn8LLkTDm, recVnisYr2zGu5r1l","['recqtlo9fXmcTxUvf', 'recqtlo9fXmcTxUvf', 'recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']","Firehawk Aerospace, Venus Aerospace"
+2,2,https://www.valhalla.ventures/,Valhalla Ventures,"rec2GZrMaErT323ZV, recJW37WJQ58G6l3P","['reclRRHg5fIY6Pdmq', 'recqMUaeeNLfTTmM5']","Deterrence, Aeon"
+2,1,,Prime Movers Lab,"reckJrISjn8LLkTDm, recVnisYr2zGu5r1l","['recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW']",Venus Aerospace
+1,1,,Mosaic Ventures,rec34RPKnu60sls3b,['rec7Cn1n5H9WBv9s6'],Auterion
+1,1,,Tanis Venture Management,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+1,1,,Jordan Noone,recaq9hSNqYPmbNeV,['recstc0yBh8guRP7o'],REGENT
+1,1,,Domino Ventures,recmplwEK44wn6Q0s,['recPCT8H8DCxc6kMm'],Picogrid
+2,2,,Catapult Ventures,"recsduiceufzEIlPB, rec4nZPwKClyN8hqF","['recJdhWCQrFlhi92V', 'reczBvi7iDjPKPIrz']","Elroy Air, Urban Sky"
+1,1,,Shield Capital Partners,recsduiceufzEIlPB,['recJdhWCQrFlhi92V'],Elroy Air
+2,2,https://crescentcove.com/,Crescent Cove Advisors,"recvC717mtI72bQGb, recUC65W7Adrm5LBB","['recw9Rw3DtkHZ8m4p', 'recCDcLrVnxxmnlqD']","Forterra, TEKEVER"
+1,1,https://www.ark-invest.com/,ARK Invest,recpmycTYIZGXEn08,['rec4ILegIK6gJFR6O'],Shield AI
+1,1,,FUSE,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+2,1,,Drive Capital,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K","['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']",Gecko Robotics
+2,2,,Mubadala Ventures,"recLn5CDcvGj2vqzr, recQ91rsUJ1C0J1TP","['recJoWJaOmNx9FQTo', 'recnzfeFnkfYWYCwY']","Primer, Fortem Technologies"
+5,4,https://www.boost.vc/,Boost VC,"recdBNRGQIOWVrAYV, recImyH56zRZtuIPL, reckJrISjn8LLkTDm, recVnisYr2zGu5r1l, rec5nLDWhqfNjP0Tz","['reck2DzTSz4zvYMIj', 'recn8335qeKsipGcl', 'recLeuqLd2u1RqgiW', 'recLeuqLd2u1RqgiW', 'recx080iW9wPAbS9v']","Starfish Space, K2 Space, Venus Aerospace, Solideon"
+1,1,,ex/ante,reclKHLOGZIt8w0kq,['recWaFcTJRtbfQlQD'],Cape
+1,1,,Enlightenment Capital,recvC717mtI72bQGb,['recw9Rw3DtkHZ8m4p'],Forterra
+1,1,,Ensemble VC,recEkbpYPN38NMf6e,['rec0Yyo4zatqEJdTj'],Saronic
+1,1,,GPVC,recxperxaqVLOTOgl,['rec2xYrnWF40FTPzu'],Solestial
+1,1,,Side Door Ventures,recImyH56zRZtuIPL,['recn8335qeKsipGcl'],K2 Space
+1,1,,Alliance Holdings,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+1,1,,Jackson Moses,recCASJHETzZ7NLqY,['recIjimNiFWpxDGIC'],Cambium
+1,1,,TFX,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+2,2,,Shrug Capital,"recYqhP5y5dXPg2XT, recCmxo4KawGIWoQi","['recmsqSpKGoxBCmug', 'recVgajtFRkWxn0GE']","Hadrian, Galvanick"
+3,1,https://www.adagecapital.com/,Adage Capital,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recHJhY6SwBBcW6vb","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']",HawkEye 360
+2,2,https://www.axv.vc/,Aero X Ventures,"recnU8dKXAWKS4TBt, recFhgFNgq8xZv4WF","['recxMV8MA45o0M1HF', 'reck2DzTSz4zvYMIj']","Privateer, Starfish Space"
+3,3,,XN,"rec0EAE8lEtOHpygm, recuT6ESGnFwxuqq7, recAJhD8jGhrZowEq","['recF7mne6kDRuUXoD', 'recstdDXVJk86xyOg', 'recFW58gHq4EqB5GX']","Saildrone, Ursa Major, Gecko Robotics"
+1,1,,DYNE Ventures,rec8EBo2AH11oDwlK,['recz5eJZELolYcFor'],Vatn Systems
+1,1,https://212.vc/,212,reccrOdzE6BTmV2kB,['recqSTB3NMDRBIhr6'],FibreCoat
+1,1,,Victorum Capital,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Floodgate,rec2bSpdXuahwg6EP,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,Vertex Growth,recmV5At7nKUo1aQk,['recwBSe4yLBG4oF80'],D-Fend Solutions
+1,1,,NATO Innovations Fund,recUC65W7Adrm5LBB,['recCDcLrVnxxmnlqD'],TEKEVER
+1,1,,Tectonic Ventures,rec34RPKnu60sls3b,['rec7Cn1n5H9WBv9s6'],Auterion
+1,1,,Mary Meeker,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+7,5,https://www.ycombinator.com/,Y Combinator,"recUNEzo4x1lWsir9, reclQZya5phkDNQ0U, recGR4zAOSRBuKBRR, recszqxOufIeSWpAM, rec3X27I40ye4jz4K, recpnZlMZh05pErUh, recaq9hSNqYPmbNeV","['rec4cm8GflBSa2tOp', 'recS8nPri4zPAVwIu', 'rece125ifwwZwqjkY', 'rece125ifwwZwqjkY', 'recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX', 'recstc0yBh8guRP7o']","Albedo, Scale AI, Reality Defender, Gecko Robotics, REGENT"
+1,1,,Lemnos,recb4iXxbe3M9louj,['recJdhWCQrFlhi92V'],Elroy Air
+1,1,https://breakthroughvictoria.com/,Breakthrough Victoria,recVVDkncJdFK9DC4,['recJkREq3oOUJYJda'],World View
+1,1,https://www.bondcap.com/,BOND,rec0EAE8lEtOHpygm,['recF7mne6kDRuUXoD'],Saildrone
+1,1,,Northrop Grumman Corporation,recKpxBo8pH53kgmM,['rec0kh559jOozBJZQ'],Orbit Fab
+4,2,https://www.axon.com/,Axon,"recQE3KDxTt0l3i7w, recbhZtAusdAbAj0E, recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']","Skydio, Dedrone"
+3,1,https://www.constructcap.com/,Construct Capital,"recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ","['recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug']",Hadrian
+3,3,https://www.137ventures.com/,137 Ventures,"recLybn0y241dhzXm, recgmMRP4eilsT8gF, rec8Dw5L65Wk4FFQL","['rec2tpRiVBnmhHHwp', 'recmsqSpKGoxBCmug', 'rec1N9LDpw5Qub0QG']","Armada, Hadrian, Impulse Space"
+1,1,,Audacious Venture Partners,recKpxBo8pH53kgmM,['rec0kh559jOozBJZQ'],Orbit Fab
+2,2,https://www.spacevc.com/,Space VC,"recrftVyOakVQm2Fb, recjlEUZ5epuuHPhi","['rec86ZVRPL7ATazM1', 'rec3IRqwSRZln16TD']","True Anomoly, Danti"
+1,1,,Jacobs,recSDi26tBte3kA2y,['recdj7iXjiRgvJ2nI'],HawkEye 360
+1,1,,Union Labs VC,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+4,4,,Stellar Ventures,"recxperxaqVLOTOgl, recaAg6G3WN2y45vo, recRpVuxcb3ldvu7S, rec5nLDWhqfNjP0Tz","['rec2xYrnWF40FTPzu', 'recqtlo9fXmcTxUvf', 'recDGV4FyDzq6Awh7', 'recx080iW9wPAbS9v']","Solestial, Firehawk Aerospace, Esper Satellite Imagery, Solideon"
+1,1,,Human Element,recNgCqQ6lFlldbhP,['recrPuPcemcmCbl8E'],Firefly
+1,1,https://www.bracketcapital.com/,Bracket Capital,recYqhP5y5dXPg2XT,['recmsqSpKGoxBCmug'],Hadrian
+3,2,,Menlo Ventures,"recWRR5c42bC9p6VD, recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c","['rec86ZVRPL7ATazM1', 'recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']","True Anomoly, Dedrone"
+6,4,https://www.snowpoint.com/,Snowpoint,"recYBSa67S9Nv6BeK, recnOxMTy6CgkOx33, recpmycTYIZGXEn08, recXmh4qaABewyQJN, recV62dIc3hGy4qsP, recAJhD8jGhrZowEq","['rect6maWDQXFx8GRi', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recFW58gHq4EqB5GX']","Merlin Labs, Shield AI, Red 6, Gecko Robotics"
+1,1,,Mana Ventures,recquoEPQ1BK30cBi,['recdVzSjjvjwqslFg'],Proteus Space
+2,2,https://www.acecap.com/,Acequia Capital,"recFdka70Kh4rX9tA, recz5zMzemw4OO2pE","['recbSfY4BuqBLcJLs', 'recjI9VVGA8NQIhYW']","Dirac, AnySignal"
+1,1,,Vy Capital US,recl9Lf08YRHwiz4q,['recMDzhhhYCSGjvpO'],Neros
+3,2,,Veteran Ventures,"recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recCASJHETzZ7NLqY","['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'recIjimNiFWpxDGIC']","Hidden Level, Cambium"
+1,1,,The Castellini Management Company,recaNqdXxWO7WeP8C,['recLQpahcXu134m7F'],ActionStreamer
+1,1,,AlleyCorp,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+1,1,,StealthPoint,rec39u9n3xdQtzCUW,['recywWFSpc4xuUUMD'],ACUA Ocean
+1,1,,Josh Reeves,rec3X27I40ye4jz4K,['recFW58gHq4EqB5GX'],Gecko Robotics
+3,3,https://www.bailliegifford.com/,Baillie Gifford,"recYBSa67S9Nv6BeK, recPOwomUY2XsL22u, recUC65W7Adrm5LBB","['rect6maWDQXFx8GRi', 'rec6jsbKlE5JTwPMx', 'recCDcLrVnxxmnlqD']","Merlin Labs, Anduril Industries, TEKEVER"
+1,1,,Lobby Capital,recOvxdW62gBHJBA9,['reczhCxapYJ2v6JRj'],Hidden Level
+1,1,,Expeditions Fund,recfPzjyZkxiitbbz,['recmjnpB74fsJBirZ'],Comand AI
+2,2,https://www.boka-group.com/,BOKA Group,"recnU8dKXAWKS4TBt, recwk9LjWqQuG0nRC","['recxMV8MA45o0M1HF', 'recqtlo9fXmcTxUvf']","Privateer, Firehawk Aerospace"
+2,1,https://playground.vc/,Playground,"recCwJRzwWqraehWo, recmSwFJhubVAMV4B","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']",Skydio
+1,1,,Spring Tide,rec8Dw5L65Wk4FFQL,['rec1N9LDpw5Qub0QG'],Impulse Space
+1,1,,Ground Up Ventures,recTyD73gBYFPrDh1,['recNfKNOkkZPeemgr'],ZeroMark
+3,3,,Interlagos,"recGH9NqxcnhaUuqO, recl9Lf08YRHwiz4q, recUGtycpn6lYSoas","['recAlyaRqTZXSXqXE', 'recMDzhhhYCSGjvpO', 'recajXza1XUVNRvU4']","Castelion, Neros, Aetherflux"
+1,1,,Ravelin,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+1,1,,TenOneTen,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+1,1,,Semil Shah,recMlrJRBbYuwscdD,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,Kfund,recn0rD7tp4sxfozB,['recxHRT9p1UWA4WsE'],XRF.ai
+1,1,,SMS Capital Investment,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+5,4,,Lavrock Ventures,"recGH9NqxcnhaUuqO, recquoEPQ1BK30cBi, recPAfUwH9cDeNYyu, rec4MminK8cNi5o6A, rec4nZPwKClyN8hqF","['recAlyaRqTZXSXqXE', 'recdVzSjjvjwqslFg', 'recGRnYcaPFiDd2AW', 'recdVzSjjvjwqslFg', 'reczBvi7iDjPKPIrz']","Castelion, Proteus Space, Morpheus Space, Urban Sky"
+1,1,,FiveNine Ventures,recWRR5c42bC9p6VD,['rec86ZVRPL7ATazM1'],True Anomoly
+1,1,,Helios Capital,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+1,1,,François-Paul Journe,recUGtycpn6lYSoas,['recajXza1XUVNRvU4'],Aetherflux
+1,1,,The Schmidt Family Foundation,recXqs4SoVYX7gJIB,['recF7mne6kDRuUXoD'],Saildrone
+1,1,,Dmitri Alperovitch,rec2GZrMaErT323ZV,['reclRRHg5fIY6Pdmq'],Deterrence
+2,1,,Revolution's Rise of the Rest Seed Fund,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3","['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']",Hermeus
+1,1,https://www.alphawaveglobal.com/,Alpha Wave Global,rec04r1reIpUbqhiE,['recp83xjDN2QdAdOX'],Chaos
+1,1,,Iberis Semper,recUC65W7Adrm5LBB,['recCDcLrVnxxmnlqD'],TEKEVER
+1,1,,New Legacy Ventures,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+2,1,https://www.nova-saint-gobain.com/,NOVA,"reccrOdzE6BTmV2kB, rech4UQBIEb4iQSx2","['recqSTB3NMDRBIhr6', 'recqSTB3NMDRBIhr6']",FibreCoat
+1,1,,Lerer Hippeau,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+1,1,https://www.amecloudventures.com/,AME,recLn5CDcvGj2vqzr,['recJoWJaOmNx9FQTo'],Primer
+1,1,,Mirae Asset Capital,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+1,1,https://backswingventures.com/,Backswing Ventures,recWUX8aUH5tjXi8c,['rec9OWSTJloka8RJr'],Firestorm
+1,1,,Soma Capital,recwqI1d8SsIQ5cJk,['recj7me74RgFYURqk'],Swarmbotics AI
+4,1,,IVP,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, recmSwFJhubVAMV4B","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']",Skydio
+9,8,https://silentvc.com/,Silent Venture,"recEkbpYPN38NMf6e, recpkcnyjFW6d3FTR, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recJW37WJQ58G6l3P, recFdka70Kh4rX9tA, recCmxo4KawGIWoQi, recwqI1d8SsIQ5cJk, recqN8iTbxPw3DdA7","['rec0Yyo4zatqEJdTj', 'rec1sFc4jqWMtGdfK', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recqMUaeeNLfTTmM5', 'recbSfY4BuqBLcJLs', 'recVgajtFRkWxn0GE', 'recj7me74RgFYURqk', 'recgOARxrELuNKYkD']","Saronic, Sandtable, Hadrian, Aeon, Dirac, Galvanick, Swarmbotics AI, Gallatin"
+2,1,https://www.nttdocomo-v.com/en/,DoCoMo,"recbhZtAusdAbAj0E, recCwJRzwWqraehWo","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']",Skydio
+1,1,,D1 Capital Partners,recaXshnck8nOFZtR,['rec6jsbKlE5JTwPMx'],Anduril Industries
+13,9,http://point72.com/,Point72 Ventures,"recp7wdXpwZ5wqgaX, recorNTuqVv4Ojr2y, recXUwGFXBonXn2f1, recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recZKBAm3uwMCmggr, recFhgFNgq8xZv4WF, reclKHLOGZIt8w0kq, recKDTpcOUqX0OQAQ","['recN8hyhuqvTarxHw', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'recCwahztU5LUdMaR', 'recCwahztU5LUdMaR', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'rec0dYQAiiJXDO2L2', 'reck2DzTSz4zvYMIj', 'recWaFcTJRtbfQlQD', 'recstc0yBh8guRP7o']","Rune Technologies, Shield AI, Overland, Saronic, Vannevar Labs, Apex Space, Starfish Space, Cape, REGENT"
+1,1,,XBTO Ventures,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+1,1,https://www.blueactionaccelerator.com/,Blue Action Accelerator,rec39u9n3xdQtzCUW,['recywWFSpc4xuUUMD'],ACUA Ocean
+1,1,,GiantLeap Capital,recNgCqQ6lFlldbhP,['recrPuPcemcmCbl8E'],Firefly
+1,1,,Inflection,recZwYI3OB1MKiOhs,['recrBEkTtPJJxGJ5U'],Lodestar
+1,1,,Pioneer Square Labs,recHuuAAcjQa4r4ZH,['recCwahztU5LUdMaR'],Overland
+1,1,,Mitsui & Co,recJu2RU4dPEfush7,['recrPuPcemcmCbl8E'],Firefly
+3,2,https://eclipse.capital/,Eclipse,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb, rec3yrj6pqofZPtTP","['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1', 'recstdDXVJk86xyOg']","True Anomoly, Ursa Major"
+32,16,https://a16z.com/,Andreessen Horowitz (a16z),"recp7wdXpwZ5wqgaX, recAc10wn8LrMTEoT, recIjlNFzPZ8ONg03, recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu, recCwJRzwWqraehWo, recP9Rq39r3erj8YE, rec4bzsGu7FgLovOA, recYQdrFcIWXoG8Bn, recZDW8y6oHdJRcCE, recaXshnck8nOFZtR, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, recehKC85B8NxwosK, recZKBAm3uwMCmggr, recxVjfeWwZm6b7CH, recoqHWhnWyn0xo1D, recGH9NqxcnhaUuqO, recOCcmGZcGU0g8Se, recmVR0z1DrQnNmRc, reclKHLOGZIt8w0kq, recTyD73gBYFPrDh1, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM, recqqw5r819P5Esn5, recUGtycpn6lYSoas, reczR2CmFH1Jger1H","['recN8hyhuqvTarxHw', 'rec0Yyo4zatqEJdTj', 'rec4ILegIK6gJFR6O', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'rec4ILegIK6gJFR6O', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recAlyaRqTZXSXqXE', 'recI39qDzbjCeoStc', 'recLTlhu7bLwmWKxr', 'recWaFcTJRtbfQlQD', 'recNfKNOkkZPeemgr', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recekQ4DydSpqiY1C', 'recajXza1XUVNRvU4', 'recCPysM8RhlSf0qz']","Rune Technologies, Saronic, Shield AI, Skydio, Anduril Industries, Hadrian, Apex Space, Castelion, Air Space Intelligence, CX2, Cape, ZeroMark, Applied Intuition, Salient Motion, Aetherflux, AMCA"
+4,4,https://capitalfactory.com/,Capital Factory,"recquoEPQ1BK30cBi, recaAg6G3WN2y45vo, recyZw6qEvr5bKfUl, rec5nLDWhqfNjP0Tz","['recdVzSjjvjwqslFg', 'recqtlo9fXmcTxUvf', 'rec442ElKKBTDRPNR', 'recx080iW9wPAbS9v']","Proteus Space, Firehawk Aerospace, X-Bow, Solideon"
+8,2,https://www.razorsvc.com/,Razor’s Edge,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG, recHJhY6SwBBcW6vb, recrB3sQw47aH3Nr9, recprBJm0Ue9c1EkL, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR']","HawkEye 360, X-Bow"
+1,1,,Emerging Ventures,recjnnvXcG98usZMd,['recuYCdtJqWuQr9Sj'],Shift5
+1,1,,National Security Strategic Investment Fund (NSSIF),recUC65W7Adrm5LBB,['recCDcLrVnxxmnlqD'],TEKEVER
+5,3,,Sequoia Capital,"rec7I5Q3m899dIXWv, recRRxgeHZ0PRBnFy, recqH4xO0MuGVECsY, recgNU0EhwrKMTprt, recl9Lf08YRHwiz4q","['rechMtCVsas5dzXFK', 'recMDzhhhYCSGjvpO', 'rec8GHY0R9jREFkpI', 'rec8GHY0R9jREFkpI', 'recMDzhhhYCSGjvpO']","Mach Industries, Neros, Kela"
+5,5,https://cantos.vc/,Cantos,"recGH9NqxcnhaUuqO, recRRxgeHZ0PRBnFy, recSjWL7en3SNhCdl, recVnisYr2zGu5r1l, recqqw5r819P5Esn5","['recAlyaRqTZXSXqXE', 'recMDzhhhYCSGjvpO', 'rec5zzUU2sNANGHLr', 'recLeuqLd2u1RqgiW', 'recekQ4DydSpqiY1C']","Castelion, Neros, Pilgrim, Venus Aerospace, Salient Motion"
+1,1,,One Way Ventures,recHESHjIpntSIzPz,['rec8vLONaVfbVm2m0'],Destinus
+2,2,,Dolby Family Ventures,"recuT6ESGnFwxuqq7, recRpVuxcb3ldvu7S","['recstdDXVJk86xyOg', 'recDGV4FyDzq6Awh7']","Ursa Major, Esper Satellite Imagery"
+1,1,,Silicon Roundabout Ventures,reckoxI4qopilGFoW,['recpmekMFUqlUyVu1'],Origin Robotics
+1,1,,Crowley Maritime Corporation,rec0EAE8lEtOHpygm,['recF7mne6kDRuUXoD'],Saildrone
+1,1,,Lamphere Capital,recjnnvXcG98usZMd,['recuYCdtJqWuQr9Sj'],Shift5
+1,1,,Next Frontier Capital,recFZsJK99c86r5Fe,['receMptpaVANM8svL'],Reveal
+1,1,https://rocketship.vc/,Rocketship.vc,recWRR5c42bC9p6VD,['rec86ZVRPL7ATazM1'],True Anomoly
+1,1,,Humba Ventures,recjlEUZ5epuuHPhi,['rec3IRqwSRZln16TD'],Danti
+2,1,https://www.9yardscapital.com/,9Yards Capital,"recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k","['recoydiR9hm01g8Js', 'recoydiR9hm01g8Js']",Onebrief
+1,1,,Emerson Collective,rec0EAE8lEtOHpygm,['recF7mne6kDRuUXoD'],Saildrone
+1,1,,General Advance,recfn4VQCRpsQDzUY,['recuYCdtJqWuQr9Sj'],Shift5
+1,1,,Japan Airlines Innovation Fund,recKDTpcOUqX0OQAQ,['recstc0yBh8guRP7o'],REGENT
+1,1,,Yamato Holdings,recKDTpcOUqX0OQAQ,['recstc0yBh8guRP7o'],REGENT
+1,1,,Leidos,rec88ylUqGHAdpJb2,['recdj7iXjiRgvJ2nI'],HawkEye 360
+1,1,,Henry Kravis,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+2,1,https://www.craftventures.com/,Craft Ventures,"recVfIggVQsiIjjot, recFS2bRhGb1trDfn","['reccrYDJ9uuhYlhIc', 'reccrYDJ9uuhYlhIc']",Allen Control Systems
+2,2,https://www.coatue.com/,Coatue,"reclQZya5phkDNQ0U, recMlrJRBbYuwscdD","['recS8nPri4zPAVwIu', 'recUYFBRH0jKtbVbs']","Scale AI, Applied Intuition"
+1,1,,Lupa Systems,recYA45I8hWanCh3d,['recWANrnkOcxNKVii'],Rebellion Defense
+20,12,https://www.8vc.com/,8VC,"recAc10wn8LrMTEoT, rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS, recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, recytgbsNBc0n8vLD, rec04r1reIpUbqhiE, recyXNeaGnWfB369y, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB, recuB7JCw2KIEuP2a, recEkbpYPN38NMf6e, recKR7ZPLOdHBt7k7, rec2DkJXZ0F0AXGiD, recZKBAm3uwMCmggr, recmVR0z1DrQnNmRc, recCASJHETzZ7NLqY, recFZsJK99c86r5Fe, recqN8iTbxPw3DdA7","['rec0Yyo4zatqEJdTj', 'recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recp83xjDN2QdAdOX', 'recp83xjDN2QdAdOX', 'recCwahztU5LUdMaR', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec0dYQAiiJXDO2L2', 'recLTlhu7bLwmWKxr', 'recIjimNiFWpxDGIC', 'receMptpaVANM8svL', 'recgOARxrELuNKYkD']","Saronic, Epirus, Second Front Systems, Chaos, Overland, Armada, Anduril Industries, Apex Space, CX2, Cambium, Reveal, Gallatin"
+1,1,,Elysium,rec8Dw5L65Wk4FFQL,['rec1N9LDpw5Qub0QG'],Impulse Space
+1,1,,Hanover Technology Investment Management,recCmxo4KawGIWoQi,['recVgajtFRkWxn0GE'],Galvanick
+1,1,https://www.acme.vc/,ACME Capital,recWRR5c42bC9p6VD,['rec86ZVRPL7ATazM1'],True Anomoly
+1,1,,Toba Capital,rec1d59Z1VKPAWYcL,['recstc0yBh8guRP7o'],REGENT
+1,1,,Vertical Capital,recCASJHETzZ7NLqY,['recIjimNiFWpxDGIC'],Cambium
+3,3,,Trousdale Ventures,"recFhgFNgq8xZv4WF, recOtfOuDtK0aP7G5, rec8Dw5L65Wk4FFQL","['reck2DzTSz4zvYMIj', 'rec5pzP08DBSPhaYX', 'rec1N9LDpw5Qub0QG']","Starfish Space, HavocAI, Impulse Space"
+1,1,,AE Ventures,recqqw5r819P5Esn5,['recekQ4DydSpqiY1C'],Salient Motion
+1,1,,The Private Shares Fund,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+4,3,https://www.valorep.com/,Valor Equity,"recLGPDfDm3bv4QLH, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB","['reczhCxapYJ2v6JRj', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx']","Hidden Level, Armada, Anduril Industries"
+1,1,,Techstars Space,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+3,2,https://www.linkedin.com/company/avalon-capital-group/,Avalon Capital Group,"recZKBAm3uwMCmggr, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz","['rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo']","Apex Space, Primer"
+1,1,,Refactor,recSjWL7en3SNhCdl,['rec5zzUU2sNANGHLr'],Pilgrim
+6,6,https://overmatch.vc/,Overmatch Ventures,"recytgbsNBc0n8vLD, recyXNeaGnWfB369y, recWUX8aUH5tjXi8c, recEkbpYPN38NMf6e, recXhJ6W6a45yQZXW, rec8Dw5L65Wk4FFQL","['recp83xjDN2QdAdOX', 'recCwahztU5LUdMaR', 'rec9OWSTJloka8RJr', 'rec0Yyo4zatqEJdTj', 'recNsT1WWhgwC0uxV', 'rec1N9LDpw5Qub0QG']","Chaos, Overland, Firestorm, Saronic, Nominal, Impulse Space"
+1,1,,Qualcomm Ventures,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,https://www.redcatholdings.com/,Red Cat Holdings,recWUX8aUH5tjXi8c,['rec9OWSTJloka8RJr'],Firestorm
+5,5,https://www.av.vc/,Alumni Ventures,"reczMHHB6Xu5k7sSG, recm1ertZXmaVg4qw, recmplwEK44wn6Q0s, recOtfOuDtK0aP7G5, rec8Dw5L65Wk4FFQL","['recdj7iXjiRgvJ2nI', 'recXaQbJ3Iur4lEcE', 'recPCT8H8DCxc6kMm', 'rec5pzP08DBSPhaYX', 'rec1N9LDpw5Qub0QG']","HawkEye 360, Red 6, Picogrid, HavocAI, Impulse Space"
+1,1,https://www.av.vc/funds/116street,116 Street Ventures,recSDi26tBte3kA2y,['recdj7iXjiRgvJ2nI'],HawkEye 360
+5,4,https://www.airbus.com/,Airbus,"recrB3sQw47aH3Nr9, recxperxaqVLOTOgl, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recPAfUwH9cDeNYyu","['recdj7iXjiRgvJ2nI', 'rec2xYrnWF40FTPzu', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recGRnYcaPFiDd2AW']","HawkEye 360, Solestial, Impulse Space, Morpheus Space"
+1,1,,Piedmont Capital Investments,recBj3X2wxuMTJyUS,['recWKiHC4wMW3K8fG'],Epirus
+1,1,,ACC,rec8DISUA5aRAsXch,['recOzrWsldJfiMCr4'],Rocket Lab
+3,1,,Disruptive,"recXUwGFXBonXn2f1, recnOxMTy6CgkOx33, recpmycTYIZGXEn08","['rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O', 'rec4ILegIK6gJFR6O']",Shield AI
+1,1,,Helen Greiner,recu2qwWIF26WQnPe,['reczzGRxSDV9qjBVL'],Bounce Imaging
+1,1,https://www.battery.com/,Battery Ventures,rec3WvOkmtnlNq180,['rec02fPErV66Stuoo'],Second Front Systems
+1,1,,JAM Fund,rec1d59Z1VKPAWYcL,['recstc0yBh8guRP7o'],REGENT
+2,1,,Altran Technologies,"recG788rlElEfv0W1, recwdnIj7LiConeFY","['rectYZq8whVton27d', 'rectYZq8whVton27d']",Divergent Technologies
+1,1,,L3Harris Technologies,recp1Ftaupsa3aOAV,['rec2ZStt8SqWR8xBs'],Overwatch Imaging
+4,3,,Accel,"recytgbsNBc0n8vLD, rec9xT7uGFzKwWwww, recmSwFJhubVAMV4B, recP9Rq39r3erj8YE","['recp83xjDN2QdAdOX', 'rechOi7KYOUmGrlxO', 'recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']","Chaos, Helsing, Skydio"
+2,2,https://greenoaks.com/,Greenoaks,"rec9xT7uGFzKwWwww, reclQZya5phkDNQ0U","['rechOi7KYOUmGrlxO', 'recS8nPri4zPAVwIu']","Helsing, Scale AI"
+1,1,,X-Factor Ventures,reckJrISjn8LLkTDm,['recLeuqLd2u1RqgiW'],Venus Aerospace
+2,2,,Good Growth Capital,"recu2qwWIF26WQnPe, reccqS0Gde2i8nvx5","['reczzGRxSDV9qjBVL', 'rec0kh559jOozBJZQ']","Bounce Imaging, Orbit Fab"
+2,2,https://bedrockcap.com/,Bedrock,"recBj3X2wxuMTJyUS, recT6JBnPMJEmD5qd","['recWKiHC4wMW3K8fG', 'rechMtCVsas5dzXFK']","Epirus, Mach Industries"
+2,1,,Strategic Development Fund,"recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']",HawkEye 360
+8,5,https://eladgil.com/,Elad Gil,"recAc10wn8LrMTEoT, rec9xT7uGFzKwWwww, recaXshnck8nOFZtR, recUFITgok15wi7vB, recKR7ZPLOdHBt7k7, reclQZya5phkDNQ0U, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM","['rec0Yyo4zatqEJdTj', 'rechOi7KYOUmGrlxO', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'recS8nPri4zPAVwIu', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs']","Saronic, Helsing, Anduril Industries, Scale AI, Applied Intuition"
+2,1,https://www.stepstonegroup.com/,StepStone Group,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS","['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG']",Epirus
+2,1,,Lauder Partners,"recLGPDfDm3bv4QLH, recOvxdW62gBHJBA9","['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj']",Hidden Level
+1,1,https://www.changeventures.com/,Change Ventures,reckoxI4qopilGFoW,['recpmekMFUqlUyVu1'],Origin Robotics
+1,1,,Definition Capital,rec2GZrMaErT323ZV,['reclRRHg5fIY6Pdmq'],Deterrence
+1,1,,Marubeni Ventures,recKpxBo8pH53kgmM,['rec0kh559jOozBJZQ'],Orbit Fab
+1,1,,Rackhouse Venture Capital,recszqxOufIeSWpAM,['rece125ifwwZwqjkY'],Reality Defender
+2,1,https://www.advance.com/,Advance,"recSDi26tBte3kA2y, recHJhY6SwBBcW6vb","['recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']",HawkEye 360
+16,12,https://www.lockheedmartin.com/en-us/who-we-are/lockheed-martin-ventures.html,Lockheed Martin Ventures,"recWUX8aUH5tjXi8c, recOvxdW62gBHJBA9, recoyzRHegFPEDMqB, rec77t7E2X8KT9TUT, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N, receOxXxrGFwkdUIp, recm1ertZXmaVg4qw, rec8EBo2AH11oDwlK, recMQEMkCieO0pBXI, recBewZRZJmixePAl, recKpxBo8pH53kgmM, reccqS0Gde2i8nvx5, recsduiceufzEIlPB, recKDTpcOUqX0OQAQ","['rec9OWSTJloka8RJr', 'reczhCxapYJ2v6JRj', 'recdj7iXjiRgvJ2nI', 'recnzfeFnkfYWYCwY', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE', 'recz5eJZELolYcFor', 'recOzrWsldJfiMCr4', 'recRe3rJHVoOxhSzJ', 'rec0kh559jOozBJZQ', 'rec0kh559jOozBJZQ', 'recJdhWCQrFlhi92V', 'recstc0yBh8guRP7o']","Firestorm, Hidden Level, HawkEye 360, Fortem Technologies, X-Bow, Red 6, Vatn Systems, Rocket Lab, EpiSci, Orbit Fab, Elroy Air, REGENT"
+1,1,,Mill Town Capital,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+1,1,,Fortitude Ventures,rec8EBo2AH11oDwlK,['recz5eJZELolYcFor'],Vatn Systems
+1,1,https://pluralplatform.com/,Plural,rec9xT7uGFzKwWwww,['rechOi7KYOUmGrlxO'],Helsing
+1,1,,Vertex Ventures,recmV5At7nKUo1aQk,['recwBSe4yLBG4oF80'],D-Fend Solutions
+4,2,,Bessemer Venture Partners,"recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch, recKR4bPBsxr80qNy","['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'rec5cYIhEy6uH8yVa']","Rocket Lab, TurbineOne"
+1,1,,Ed Roberts,recu2qwWIF26WQnPe,['reczzGRxSDV9qjBVL'],Bounce Imaging
+0,0,,O Luxe Holdings Limited,,,
+3,1,,NFX,"recdBNRGQIOWVrAYV, reccUBAb5pETifbP8, recFhgFNgq8xZv4WF","['reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']",Starfish Space
+3,2,https://www.firstround.com/,First Round Capital,"recsLGlGP2RiWSuy6, recImyH56zRZtuIPL, rec0oTleWjLeyHEQi","['rect6maWDQXFx8GRi', 'recn8335qeKsipGcl', 'recn8335qeKsipGcl']","Merlin Labs, K2 Space"
+1,1,https://www.valar.com/,Valar Ventures,rec04r1reIpUbqhiE,['recp83xjDN2QdAdOX'],Chaos
+22,13,https://www.luxcapital.com/,Lux Capital,"rec0EAE8lEtOHpygm, recLybn0y241dhzXm, recaXshnck8nOFZtR, recUFITgok15wi7vB, recYqhP5y5dXPg2XT, recgmMRP4eilsT8gF, rec2FdEdIQ2IEeOWQ, recnU8dKXAWKS4TBt, recDBvePS4EgAicMc, recoqHWhnWyn0xo1D, recLn5CDcvGj2vqzr, reccyHBmr3mKLIYMz, recqH4xO0MuGVECsY, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, rec2nHBG5uiWXkZKw, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL, recdiBsyMjmRYsTHY, recMjresYgGuk0GHu, reczR2CmFH1Jger1H","['recF7mne6kDRuUXoD', 'rec2tpRiVBnmhHHwp', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recmsqSpKGoxBCmug', 'recxMV8MA45o0M1HF', 'recNsT1WWhgwC0uxV', 'rec0dYQAiiJXDO2L2', 'recJoWJaOmNx9FQTo', 'recJoWJaOmNx9FQTo', 'rec8GHY0R9jREFkpI', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG', 'recuaeYuZtnx41TF1', 'recuaeYuZtnx41TF1', 'recCPysM8RhlSf0qz']","Saildrone, Armada, Anduril Industries, Hadrian, Privateer, Nominal, Apex Space, Primer, Kela, Applied Intuition, Impulse Space, Varda, AMCA"
+3,3,https://www.ainventures.com/portfolio,AIN Ventures,"recquoEPQ1BK30cBi, rec2rZm4umQ1Qk9jt, rec5nLDWhqfNjP0Tz","['recdVzSjjvjwqslFg', 'rec7ctqsgZmdWv7O0', 'recx080iW9wPAbS9v']","Proteus Space, Zeno Power, Solideon"
+6,5,https://costanoa.vc/,Costanoa Ventures,"recofucAJWplJG0Eb, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, recuB2lquXHyNu9DY, reclKHLOGZIt8w0kq, rec34RPKnu60sls3b","['reczhCxapYJ2v6JRj', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'recgqEwUoCOh0Ap2a', 'recWaFcTJRtbfQlQD', 'rec7Cn1n5H9WBv9s6']","Hidden Level, Vannevar Labs, Beacon AI, Cape, Auterion"
+1,1,,Mustafa Suleyman,recMJxwsV9zeUOZeM,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,Franklin Venture Partners,recPOwomUY2XsL22u,['rec6jsbKlE5JTwPMx'],Anduril Industries
+2,1,,D3,"recRRxgeHZ0PRBnFy, recl9Lf08YRHwiz4q","['recMDzhhhYCSGjvpO', 'recMDzhhhYCSGjvpO']",Neros
+1,1,,First Principles Group,rec8Dw5L65Wk4FFQL,['rec1N9LDpw5Qub0QG'],Impulse Space
+2,2,https://blueyard.com/,BlueYard Capital,"recGH9NqxcnhaUuqO, recz5zMzemw4OO2pE","['recAlyaRqTZXSXqXE', 'recjI9VVGA8NQIhYW']","Castelion, AnySignal"
+2,2,https://www.hedosophia.com/,Hedosophia,"recvC717mtI72bQGb, recg5X9U6kJ16zBOJ","['recw9Rw3DtkHZ8m4p', 'rectYZq8whVton27d']","Forterra, Divergent Technologies"
+1,1,,RedBird Capital Partners,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+2,2,,Techstars Ventures,"recPAfUwH9cDeNYyu, rec4nZPwKClyN8hqF","['recGRnYcaPFiDd2AW', 'reczBvi7iDjPKPIrz']","Morpheus Space, Urban Sky"
+2,2,,SpaceFund,"recQA9JSy1x1D1iKS, recKpxBo8pH53kgmM","['rectPCEEL0F3aEYZu', 'rec0kh559jOozBJZQ']","Radian Aerospace, Orbit Fab"
+3,2,,Kleiner Perkins,"recBJf7lHcYle3Zz8, recXOdclwbUAbxOci, rec2bSpdXuahwg6EP","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recUYFBRH0jKtbVbs']","Second Front Systems, Applied Intuition"
+6,5,https://www.rtx.com/who-we-are/ventures,RTX Ventures,"recYqhP5y5dXPg2XT, rec3yrj6pqofZPtTP, rec8EBo2AH11oDwlK, recBewZRZJmixePAl, recSEz74CJXEiiiRr, rec8Dw5L65Wk4FFQL","['recmsqSpKGoxBCmug', 'recstdDXVJk86xyOg', 'recz5eJZELolYcFor', 'recRe3rJHVoOxhSzJ', 'rec1N9LDpw5Qub0QG', 'rec1N9LDpw5Qub0QG']","Hadrian, Ursa Major, Vatn Systems, EpiSci, Impulse Space"
+1,1,,Intel Capital,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,,Hercules Capital,recbhZtAusdAbAj0E,['recN7l5hjhx4FJObv'],Skydio
+1,1,https://epiqcg.com/,EPIQ Capital Group,recBj3X2wxuMTJyUS,['recWKiHC4wMW3K8fG'],Epirus
+1,1,,Charlottesville Angel Network,recyOLzBmeKr42ceU,['recwLndH3DUpK9Y3T'],Dive Technologies
+1,1,https://www.aureliafoundry.com/,Aurelia Foundry,recwosnu5tLVs6gNZ,['recVQL4OVduwH3Bdh'],Interlune
+1,1,,Tau Capital,recmqVC6wvQFcWa0n,['rectiA0gQsACXRp0u'],Dream Security
+1,1,,La Famiglia,rec2bSpdXuahwg6EP,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,Illuminate Financial,recGR4zAOSRBuKBRR,['rece125ifwwZwqjkY'],Reality Defender
+1,1,https://www.accenture.com/us-en,Accenture,recGR4zAOSRBuKBRR,['rece125ifwwZwqjkY'],Reality Defender
+1,1,https://aigrant.com/,AI Grant,recszqxOufIeSWpAM,['rece125ifwwZwqjkY'],Reality Defender
+17,9,https://www.generalcatalyst.com/,General Catalyst,"recAc10wn8LrMTEoT, recQjVtQkGBcSiL2k, reclHdSUJT8vTTP4M, rec9xT7uGFzKwWwww, recuB7JCw2KIEuP2a, recYQdrFcIWXoG8Bn, recaXshnck8nOFZtR, recUFITgok15wi7vB, recXhJ6W6a45yQZXW, reci7y2cuoLeZtmt9, recUHT9To04tzqRzq, rec2bSpdXuahwg6EP, recvHYL6CZOkrd3Bc, recMlrJRBbYuwscdD, recMJxwsV9zeUOZeM, recdiBsyMjmRYsTHY, rec1mBThG8p9JIS22","['rec0Yyo4zatqEJdTj', 'recoydiR9hm01g8Js', 'rechOi7KYOUmGrlxO', 'rechOi7KYOUmGrlxO', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'rec6jsbKlE5JTwPMx', 'recNsT1WWhgwC0uxV', 'recT1mb9DakwODWuc', 'recT1mb9DakwODWuc', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recUYFBRH0jKtbVbs', 'recuaeYuZtnx41TF1', 'recrRib4PlIvcgTFf']","Saronic, Onebrief, Helsing, Anduril Industries, Nominal, Vannevar Labs, Applied Intuition, Varda, Re:Build"
+1,1,,Eurazeo,recfPzjyZkxiitbbz,['recmjnpB74fsJBirZ'],Comand AI
+1,1,,Wellington Management,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+4,4,,Liquid2 Ventures,"recHESHjIpntSIzPz, rec04r1reIpUbqhiE, recdBNRGQIOWVrAYV, recwosnu5tLVs6gNZ","['rec8vLONaVfbVm2m0', 'recp83xjDN2QdAdOX', 'reck2DzTSz4zvYMIj', 'recVQL4OVduwH3Bdh']","Destinus, Chaos, Starfish Space, Interlune"
+1,1,,RPM Ventures,recNgCqQ6lFlldbhP,['recrPuPcemcmCbl8E'],Firefly
+1,1,https://www.britbots.com/,BritBots,rec39u9n3xdQtzCUW,['recywWFSpc4xuUUMD'],ACUA Ocean
+2,2,,MVP Ventures,"recUFITgok15wi7vB, recCASJHETzZ7NLqY","['rec6jsbKlE5JTwPMx', 'recIjimNiFWpxDGIC']","Anduril Industries, Cambium"
+6,5,https://www.boozallen.com/expertise/accelerating-outcomes-for-the-nation/ventures.html,Booz Allen Ventures,"recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recUNEzo4x1lWsir9, recFhgFNgq8xZv4WF, recGR4zAOSRBuKBRR, rec8JjqAgi0SOdgjX","['reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'rec4cm8GflBSa2tOp', 'reck2DzTSz4zvYMIj', 'rece125ifwwZwqjkY', 'recuYCdtJqWuQr9Sj']","Hidden Level, Albedo, Starfish Space, Reality Defender, Shift5"
+5,4,https://www.veteran.fund/,The Veteran Fund,"recWUX8aUH5tjXi8c, recquoEPQ1BK30cBi, rec8EBo2AH11oDwlK, recOtfOuDtK0aP7G5, rec4MminK8cNi5o6A","['rec9OWSTJloka8RJr', 'recdVzSjjvjwqslFg', 'recz5eJZELolYcFor', 'rec5pzP08DBSPhaYX', 'recdVzSjjvjwqslFg']","Firestorm, Proteus Space, Vatn Systems, HavocAI"
+2,2,,AEI HorizonX,"recxperxaqVLOTOgl, recm1ertZXmaVg4qw","['rec2xYrnWF40FTPzu', 'recXaQbJ3Iur4lEcE']","Solestial, Red 6"
+1,1,,IBM Ventures,recGR4zAOSRBuKBRR,['rece125ifwwZwqjkY'],Reality Defender
+7,5,https://usitfund.com/,U.S. Innovative Technology Fund,"recpmycTYIZGXEn08, recUFITgok15wi7vB, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, recehKC85B8NxwosK, recjPnhHbVaKgcHrw, recAJhD8jGhrZowEq","['rec4ILegIK6gJFR6O', 'rec6jsbKlE5JTwPMx', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec4ILegIK6gJFR6O', 'recJoWJaOmNx9FQTo', 'recFW58gHq4EqB5GX']","Shield AI, Anduril Industries, Saronic, Primer, Gecko Robotics"
+1,1,,John Chambers,recuapLv4TZiMKBJZ,['recDZqZNW3zDaxye0'],Dedrone
+1,1,,Echo Investments,recaAg6G3WN2y45vo,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+6,5,,Lightspeed Venture Partners,"recGH9NqxcnhaUuqO, rec9xT7uGFzKwWwww, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, recUFITgok15wi7vB, rec0oTleWjLeyHEQi","['recAlyaRqTZXSXqXE', 'rechOi7KYOUmGrlxO', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'rec6jsbKlE5JTwPMx', 'recn8335qeKsipGcl']","Castelion, Helsing, Saronic, Anduril Industries, K2 Space"
+1,1,,TR Aeroventures,recXmh4qaABewyQJN,['recXaQbJ3Iur4lEcE'],Red 6
+1,1,,Downey Labs,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+1,1,https://capitolmeridian.com/,Capitol Meridian Partners,reccbMpkTJVAm4U88,['rec7pdDC5Ia03obSf'],Parrylabs
+1,1,,Keller Rinaudo Cliffton,recl9Lf08YRHwiz4q,['recMDzhhhYCSGjvpO'],Neros
+1,1,,Specific Impulse Capital,reccsblPEptwNzTXM,['recm24zsmOd0gDh66'],Adranos Energetics
+1,1,,Vibe Capital,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+1,1,,Cota Capital,recoC2nolAB4W1WMD,['recJuiJmQrkbGbm2q'],Capella Space
+2,1,,Aqton Partners,"recuapLv4TZiMKBJZ, rec3BrHl7MTYBZU2c","['recDZqZNW3zDaxye0', 'recDZqZNW3zDaxye0']",Dedrone
+1,1,,Long Journey,recRRxgeHZ0PRBnFy,['recMDzhhhYCSGjvpO'],Neros
+1,1,,Timeless Partners,recqN8iTbxPw3DdA7,['recgOARxrELuNKYkD'],Gallatin
+1,1,,Portland Seed Fund,recp1Ftaupsa3aOAV,['rec2ZStt8SqWR8xBs'],Overwatch Imaging
+2,2,https://www.breakthroughenergy.org/,Breakthrough Energy Ventures,"recUNEzo4x1lWsir9, recUGtycpn6lYSoas","['rec4cm8GflBSa2tOp', 'recajXza1XUVNRvU4']","Albedo, Aetherflux"
+1,1,https://www.center15capital.com/,Center15 Capital,rec9mZx6oLqV6ITWH,['recWKiHC4wMW3K8fG'],Epirus
+2,1,https://www.gdls.com/,General Dynamics Land Systems,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS","['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG']",Epirus
+1,1,,Tech Square Ventures,recjlEUZ5epuuHPhi,['rec3IRqwSRZln16TD'],Danti
+10,8,https://www.xyz.vc/,XYZ Ventures,"recp7wdXpwZ5wqgaX, recvC717mtI72bQGb, recXhJ6W6a45yQZXW, recoqHWhnWyn0xo1D, recZKBAm3uwMCmggr, rechbCkbEfXsDt7pM, reclKHLOGZIt8w0kq, recAJhD8jGhrZowEq, rechXdkvU934SLrZX, recKR4bPBsxr80qNy","['recN8hyhuqvTarxHw', 'recw9Rw3DtkHZ8m4p', 'recNsT1WWhgwC0uxV', 'rec0dYQAiiJXDO2L2', 'rec0dYQAiiJXDO2L2', 'recZBbB6Qbs0tZEtY', 'recWaFcTJRtbfQlQD', 'recFW58gHq4EqB5GX', 'rec5cYIhEy6uH8yVa', 'rec5cYIhEy6uH8yVa']","Rune Technologies, Forterra, Nominal, Apex Space, Wraithwatch, Cape, Gecko Robotics, TurbineOne"
+2,2,,Starburst Ventures,"recnU8dKXAWKS4TBt, recmplwEK44wn6Q0s","['recxMV8MA45o0M1HF', 'recPCT8H8DCxc6kMm']","Privateer, Picogrid"
+1,1,,Credo Ventures,recmplwEK44wn6Q0s,['recPCT8H8DCxc6kMm'],Picogrid
+1,1,,Tiny VC,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+5,4,https://washingtonharbour.com/,Washington Harbour Partners,"rec9mZx6oLqV6ITWH, recofucAJWplJG0Eb, recLGPDfDm3bv4QLH, recehKC85B8NxwosK, recm1ertZXmaVg4qw","['recWKiHC4wMW3K8fG', 'reczhCxapYJ2v6JRj', 'reczhCxapYJ2v6JRj', 'rec4ILegIK6gJFR6O', 'recXaQbJ3Iur4lEcE']","Epirus, Hidden Level, Shield AI, Red 6"
+3,1,https://www.av.co/,Artis Venture,"rec3WvOkmtnlNq180, recBJf7lHcYle3Zz8, recXOdclwbUAbxOci","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'rec02fPErV66Stuoo']",Second Front Systems
+1,1,https://aceandcompany.com/,ACE & Company,recHESHjIpntSIzPz,['rec8vLONaVfbVm2m0'],Destinus
+1,1,,Eidetic Ventures,recFdka70Kh4rX9tA,['recbSfY4BuqBLcJLs'],Dirac
+1,1,,Octave,recXmh4qaABewyQJN,['recXaQbJ3Iur4lEcE'],Red 6
+1,1,https://www.baincapitalventures.com/, Bain Capital Ventures,recmqVC6wvQFcWa0n,['rectiA0gQsACXRp0u'],Dream Security
+1,1,,SNC,recxFQ45efgmPL0Iz,['recJkREq3oOUJYJda'],World View
+1,1,https://www.venrock.com/,Venrock,recYA45I8hWanCh3d,['recWANrnkOcxNKVii'],Rebellion Defense
+1,1,,Impatient Ventures,rec2GZrMaErT323ZV,['reclRRHg5fIY6Pdmq'],Deterrence
+1,1,,Haystack VC,recXhJ6W6a45yQZXW,['recNsT1WWhgwC0uxV'],Nominal
+1,1,,Defy.VC,recFZsJK99c86r5Fe,['receMptpaVANM8svL'],Reveal
+1,1,,DADA Holdings,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+1,1,,Forward Deployed VC,reclKHLOGZIt8w0kq,['recWaFcTJRtbfQlQD'],Cape
+1,1,https://backstagecapital.com/,Backstage Capital,recu2qwWIF26WQnPe,['reczzGRxSDV9qjBVL'],Bounce Imaging
+1,1,,ServiceNow Ventures,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+0,0,https://aifund.ai/,AI fund,,,
+1,1,,Target Partners,recuapLv4TZiMKBJZ,['recDZqZNW3zDaxye0'],Dedrone
+1,1,,Harpoon Ventures,recuT6ESGnFwxuqq7,['recstdDXVJk86xyOg'],Ursa Major
+1,1,https://x.com/cameron,Cameron Winklevoss,recnU8dKXAWKS4TBt,['recxMV8MA45o0M1HF'],Privateer
+2,2,,Outlander VC,"recOtfOuDtK0aP7G5, recjnnvXcG98usZMd","['rec5pzP08DBSPhaYX', 'recuYCdtJqWuQr9Sj']","HavocAI, Shift5"
+2,2,,Tamarack Global,"rec04r1reIpUbqhiE, rec8Dw5L65Wk4FFQL","['recp83xjDN2QdAdOX', 'rec1N9LDpw5Qub0QG']","Chaos, Impulse Space"
+1,1,,Massive Capital Partners,reccqS0Gde2i8nvx5,['rec0kh559jOozBJZQ'],Orbit Fab
+1,1,,New Ground Ventures,recQ91rsUJ1C0J1TP,['recnzfeFnkfYWYCwY'],Fortem Technologies
+4,4,,In-Q-Tel,"recLn5CDcvGj2vqzr, rec8EBo2AH11oDwlK, recxjXJSgRv00r7o3, recPAfUwH9cDeNYyu","['recJoWJaOmNx9FQTo', 'recz5eJZELolYcFor', 'recdwLu1Gqq8I9y4H', 'recGRnYcaPFiDd2AW']","Primer, Vatn Systems, Hermeus, Morpheus Space"
+2,2,https://www.broom.ventures/,Broom Ventures,"recBj3X2wxuMTJyUS, recosrVgHltufEe0m","['recWKiHC4wMW3K8fG', 'rec442ElKKBTDRPNR']","Epirus, X-Bow"
+1,1,,Tanis Ventures,recu2qwWIF26WQnPe,['reczzGRxSDV9qjBVL'],Bounce Imaging
+2,1,,Canaan Partners,"recohyiPwuAwvDMWT, recxjXJSgRv00r7o3","['recdwLu1Gqq8I9y4H', 'recdwLu1Gqq8I9y4H']",Hermeus
+2,2,,Standard Investments,"recvC717mtI72bQGb, rec0EAE8lEtOHpygm","['recw9Rw3DtkHZ8m4p', 'recF7mne6kDRuUXoD']","Forterra, Saildrone"
+1,1,,New Vista Capital,recSDi26tBte3kA2y,['recdj7iXjiRgvJ2nI'],HawkEye 360
+1,1,,Type 1 Ventures,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+1,1,,Revolution Growth,recofucAJWplJG0Eb,['reczhCxapYJ2v6JRj'],Hidden Level
+2,1,,Partnership Fund for New York City,"recszqxOufIeSWpAM, recGR4zAOSRBuKBRR","['rece125ifwwZwqjkY', 'rece125ifwwZwqjkY']",Reality Defender
+3,2,https://www.nea.com/,NEA,"rec3WvOkmtnlNq180, recJVUCtzqfp5Y80O, recUGtycpn6lYSoas","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recajXza1XUVNRvU4']","Second Front Systems, Aetherflux"
+3,2,https://toyota.ventures/,Toyota Ventures,"recZKBAm3uwMCmggr, reccUBAb5pETifbP8, recFhgFNgq8xZv4WF","['rec0dYQAiiJXDO2L2', 'reck2DzTSz4zvYMIj', 'reck2DzTSz4zvYMIj']","Apex Space, Starfish Space"
+1,1,,MD One Ventures,rec5nLDWhqfNjP0Tz,['recx080iW9wPAbS9v'],Solideon
+3,2,,Balerion Space Ventures,"recyZw6qEvr5bKfUl, recrakS5br5ySBz8N, rec8Dw5L65Wk4FFQL","['rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec1N9LDpw5Qub0QG']","X-Bow, Impulse Space"
+2,2,,Squadra Ventures,"recp1Ftaupsa3aOAV, recfn4VQCRpsQDzUY","['rec2ZStt8SqWR8xBs', 'recuYCdtJqWuQr9Sj']","Overwatch Imaging, Shift5"
+1,1,,Lakestar,rec34RPKnu60sls3b,['rec7Cn1n5H9WBv9s6'],Auterion
+6,5,https://cubit.capital/,Cubit Capital,"recWUX8aUH5tjXi8c, recHuuAAcjQa4r4ZH, recUNEzo4x1lWsir9, recEkbpYPN38NMf6e, rec2DkJXZ0F0AXGiD, rec8EBo2AH11oDwlK","['rec9OWSTJloka8RJr', 'recCwahztU5LUdMaR', 'rec4cm8GflBSa2tOp', 'rec0Yyo4zatqEJdTj', 'rec0Yyo4zatqEJdTj', 'recz5eJZELolYcFor']","Firestorm, Overland, Albedo, Saronic, Vatn Systems"
+1,1,,Steadfast Capital,reccyHBmr3mKLIYMz,['recJoWJaOmNx9FQTo'],Primer
+1,1,,Future Fund,rec8DISUA5aRAsXch,['recOzrWsldJfiMCr4'],Rocket Lab
+1,1,https://www.ciscoinvestments.com/,Cisco Investments,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,,Sozo Ventures,rec2bSpdXuahwg6EP,['recUYFBRH0jKtbVbs'],Applied Intuition
+1,1,,LAGO Innovation Fund,rec7bHfbmUWksxtpI,['recnzfeFnkfYWYCwY'],Fortem Technologies
+2,2,,Countdown Capital,"recImyH56zRZtuIPL, recCmxo4KawGIWoQi","['recn8335qeKsipGcl', 'recVgajtFRkWxn0GE']","K2 Space, Galvanick"
+1,1,,Bob Bishop,reccsblPEptwNzTXM,['recm24zsmOd0gDh66'],Adranos Energetics
+2,1,,Gokul Rajaram,"recAJhD8jGhrZowEq, rec3X27I40ye4jz4K","['recFW58gHq4EqB5GX', 'recFW58gHq4EqB5GX']",Gecko Robotics
+7,6,https://gaingels.com/,Gaingels,"rec9mZx6oLqV6ITWH, recBj3X2wxuMTJyUS, recXOdclwbUAbxOci, recCASJHETzZ7NLqY, recwosnu5tLVs6gNZ, recQA9JSy1x1D1iKS, rec5nLDWhqfNjP0Tz","['recWKiHC4wMW3K8fG', 'recWKiHC4wMW3K8fG', 'rec02fPErV66Stuoo', 'recIjimNiFWpxDGIC', 'recVQL4OVduwH3Bdh', 'rectPCEEL0F3aEYZu', 'recx080iW9wPAbS9v']","Epirus, Second Front Systems, Cambium, Interlune, Radian Aerospace, Solideon"
+1,1,,SVB Capital,recSDi26tBte3kA2y,['recdj7iXjiRgvJ2nI'],HawkEye 360
+2,2,,Felicis,"recLybn0y241dhzXm, recUHT9To04tzqRzq","['rec2tpRiVBnmhHHwp', 'recT1mb9DakwODWuc']","Armada, Vannevar Labs"
+1,1,https://www.1789capital.io/,1789 Capital,recwk9LjWqQuG0nRC,['recqtlo9fXmcTxUvf'],Firehawk Aerospace
+1,1,,Karman Ventures,reclKHLOGZIt8w0kq,['recWaFcTJRtbfQlQD'],Cape
+1,1,,Iberis Capital,recVjTY5eCw9NLKgd,['recCDcLrVnxxmnlqD'],TEKEVER
+1,1,,The Venture Collective,recQA9JSy1x1D1iKS,['rectPCEEL0F3aEYZu'],Radian Aerospace
+6,5,,Human Capital,"recsLos9zfuT7aPAo, recQjVtQkGBcSiL2k, recUFITgok15wi7vB, recXhJ6W6a45yQZXW, rechbCkbEfXsDt7pM, recMJxwsV9zeUOZeM","['recoydiR9hm01g8Js', 'recoydiR9hm01g8Js', 'rec6jsbKlE5JTwPMx', 'recNsT1WWhgwC0uxV', 'recZBbB6Qbs0tZEtY', 'recUYFBRH0jKtbVbs']","Onebrief, Anduril Industries, Nominal, Wraithwatch, Applied Intuition"
+2,2,,Hanwha Aerospace,"recehKC85B8NxwosK, rec77t7E2X8KT9TUT","['rec4ILegIK6gJFR6O', 'recnzfeFnkfYWYCwY']","Shield AI, Fortem Technologies"
+1,1,,Lunar Ventures,recZwYI3OB1MKiOhs,['recrBEkTtPJJxGJ5U'],Lodestar
+1,1,https://www.3wp.com/,3Wire Partners,reccbMpkTJVAm4U88,['rec7pdDC5Ia03obSf'],Parrylabs
+2,2,https://thrivecap.com/,Thrive Capital,"recUFITgok15wi7vB, reclQZya5phkDNQ0U","['rec6jsbKlE5JTwPMx', 'recS8nPri4zPAVwIu']","Anduril Industries, Scale AI"
+1,1,,Boeing Ventures,recrakS5br5ySBz8N,['rec442ElKKBTDRPNR'],X-Bow
+1,1,,CRV,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+2,2,https://www.alsop-louie.com/,Alsop Louie Partners,"recOvxdW62gBHJBA9, recuT6ESGnFwxuqq7","['reczhCxapYJ2v6JRj', 'recstdDXVJk86xyOg']","Hidden Level, Ursa Major"
+4,2,https://www.crosslinkcapital.com/,Crosslink,"recLn5CDcvGj2vqzr, recosrVgHltufEe0m, recyZw6qEvr5bKfUl, recrakS5br5ySBz8N","['recJoWJaOmNx9FQTo', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR', 'rec442ElKKBTDRPNR']","Primer, X-Bow"
+1,1,,Seraph Group,recVnisYr2zGu5r1l,['recLeuqLd2u1RqgiW'],Venus Aerospace
+1,1,,Declaration Partners,recYA45I8hWanCh3d,['recWANrnkOcxNKVii'],Rebellion Defense
+1,1,,Seraphim Space Investment Trust,recSDi26tBte3kA2y,['recdj7iXjiRgvJ2nI'],HawkEye 360
+1,1,https://www.amd.com/en/ventures.html,AMD Ventures,reclQZya5phkDNQ0U,['recS8nPri4zPAVwIu'],Scale AI
+1,1,https://www.altimeter.com/home,Altimeter,recPOwomUY2XsL22u,['rec6jsbKlE5JTwPMx'],Anduril Industries
+2,1,https://www.altimeter.com/home,Altimeter Capital,"recKv2NbbclJye6Eh, rec0oTleWjLeyHEQi","['recn8335qeKsipGcl', 'recn8335qeKsipGcl']",K2 Space
+1,1,,Hejaz,recAFEwgkK00ip04h,['recDGV4FyDzq6Awh7'],Esper Satellite Imagery
+1,1,,Outsiders Fund,recZKBAm3uwMCmggr,['rec0dYQAiiJXDO2L2'],Apex Space
+2,1,https://up.partners/,UP.Partners,"recbhZtAusdAbAj0E, recBGn6B1Ynxzyztu","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv']",Skydio
+3,3,https://645ventures.com/,645 Ventures,"recWUX8aUH5tjXi8c, recWRR5c42bC9p6VD, recfn4VQCRpsQDzUY","['rec9OWSTJloka8RJr', 'rec86ZVRPL7ATazM1', 'recuYCdtJqWuQr9Sj']","Firestorm, True Anomoly, Shift5"
+2,1,https://www.championhillventures.com/,Champion Hill Ventures,"recWRR5c42bC9p6VD, recrftVyOakVQm2Fb","['rec86ZVRPL7ATazM1', 'rec86ZVRPL7ATazM1']",True Anomoly
+2,2,,Initialized Capital,"recUNEzo4x1lWsir9, recmplwEK44wn6Q0s","['rec4cm8GflBSa2tOp', 'recPCT8H8DCxc6kMm']","Albedo, Picogrid"
+1,1,,Stride Capital,reccqS0Gde2i8nvx5,['rec0kh559jOozBJZQ'],Orbit Fab
+1,1,,UAE’s Strategic Development Fund,recKDTpcOUqX0OQAQ,['recstc0yBh8guRP7o'],REGENT
+1,1,,Sixth Wave Ventures,rec39u9n3xdQtzCUW,['recywWFSpc4xuUUMD'],ACUA Ocean
+1,1,,Island Green,rec8Dw5L65Wk4FFQL,['rec1N9LDpw5Qub0QG'],Impulse Space
+1,1,,Cedrus Capital,recUC65W7Adrm5LBB,['recCDcLrVnxxmnlqD'],TEKEVER
+1,1,,Jared Leto,recUGtycpn6lYSoas,['recajXza1XUVNRvU4'],Aetherflux
+1,1,,State of Florida Opportunity Fund,recm1ertZXmaVg4qw,['recXaQbJ3Iur4lEcE'],Red 6
+4,4,https://quiet.com/,Quiet Capital,"recHESHjIpntSIzPz, recpkcnyjFW6d3FTR, recJW37WJQ58G6l3P, recwqI1d8SsIQ5cJk","['rec8vLONaVfbVm2m0', 'rec1sFc4jqWMtGdfK', 'recqMUaeeNLfTTmM5', 'recj7me74RgFYURqk']","Destinus, Sandtable, Aeon, Swarmbotics AI"
+2,1,https://www.ascend.vc/,Ascend,"recHuuAAcjQa4r4ZH, recyXNeaGnWfB369y","['recCwahztU5LUdMaR', 'recCwahztU5LUdMaR']",Overland
+3,2,https://www.irongatevc.com/,IronGate Capital,"recWUX8aUH5tjXi8c, recXmh4qaABewyQJN, recm1ertZXmaVg4qw","['rec9OWSTJloka8RJr', 'recXaQbJ3Iur4lEcE', 'recXaQbJ3Iur4lEcE']","Firestorm, Red 6"
+1,1,,Paspalis Capital,recAFEwgkK00ip04h,['recDGV4FyDzq6Awh7'],Esper Satellite Imagery
+4,2,https://www.aeroequity.com/,AE Industrial Partners,"recJVUCtzqfp5Y80O, recXOdclwbUAbxOci, rectDufKabFXjMmVA, recJu2RU4dPEfush7","['rec02fPErV66Stuoo', 'rec02fPErV66Stuoo', 'recrPuPcemcmCbl8E', 'recrPuPcemcmCbl8E']","Second Front Systems, Firefly"
+1,1,,Raven One Ventures,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+1,1,,DA Ventures,rec4nZPwKClyN8hqF,['reczBvi7iDjPKPIrz'],Urban Sky
+1,1,,NewSpace Capital,reccrOdzE6BTmV2kB,['recqSTB3NMDRBIhr6'],FibreCoat
+1,1,,Harmony Partners,rec5hoicQkMQD7u7k,['recJuiJmQrkbGbm2q'],Capella Space
+1,1,,Astera Institute,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+2,2,,Crumpton Ventures,"reccyHBmr3mKLIYMz, rec77t7E2X8KT9TUT","['recJoWJaOmNx9FQTo', 'recnzfeFnkfYWYCwY']","Primer, Fortem Technologies"
+2,2,,Alpha Edison,"recuT6ESGnFwxuqq7, recm1ertZXmaVg4qw","['recstdDXVJk86xyOg', 'recXaQbJ3Iur4lEcE']","Ursa Major, Red 6"
+1,1,,Frst,recfPzjyZkxiitbbz,['recmjnpB74fsJBirZ'],Comand AI
+1,1,,Fidelity Management & Research Company,recPOwomUY2XsL22u,['rec6jsbKlE5JTwPMx'],Anduril Industries
+1,1,,Inspired Capital,recFS2bRhGb1trDfn,['reccrYDJ9uuhYlhIc'],Allen Control Systems
+3,1,,K1W1 investment fund,"recMQEMkCieO0pBXI, recpsxWp2rGSDR20e, rec8DISUA5aRAsXch","['recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4', 'recOzrWsldJfiMCr4']",Rocket Lab
+1,1,,Propeller Ventures,rec8EBo2AH11oDwlK,['recz5eJZELolYcFor'],Vatn Systems
+4,4,,First In,"recGH9NqxcnhaUuqO, recz5zMzemw4OO2pE, recfn4VQCRpsQDzUY, recFcno13Ffr5mzNr","['recAlyaRqTZXSXqXE', 'recjI9VVGA8NQIhYW', 'recuYCdtJqWuQr9Sj', 'recf27TX6ShjG9p9P']","Castelion, AnySignal, Shift5, Portal Space Systems"
+1,1,,Koch Real Estate Investments,recLybn0y241dhzXm,['rec2tpRiVBnmhHHwp'],Armada
+1,1,,TempoCap,recuapLv4TZiMKBJZ,['recDZqZNW3zDaxye0'],Dedrone
+2,2,,New North Ventures,"recSDi26tBte3kA2y, recOtfOuDtK0aP7G5","['recdj7iXjiRgvJ2nI', 'rec5pzP08DBSPhaYX']","HawkEye 360, HavocAI"
+2,2,,Village Global,"recoqHWhnWyn0xo1D, recCmxo4KawGIWoQi","['rec0dYQAiiJXDO2L2', 'recVgajtFRkWxn0GE']","Apex Space, Galvanick"
+1,1,https://www.beyondcapitalventures.com/,Beyond Capital,recWUX8aUH5tjXi8c,['rec9OWSTJloka8RJr'],Firestorm
+1,1,,TargetPartners,rec3BrHl7MTYBZU2c,['recDZqZNW3zDaxye0'],Dedrone
+1,1,,Day One Ventures,recRpVuxcb3ldvu7S,['recDGV4FyDzq6Awh7'],Esper Satellite Imagery
+3,2,,NVIDIA,"recbhZtAusdAbAj0E, recmSwFJhubVAMV4B, reclQZya5phkDNQ0U","['recN7l5hjhx4FJObv', 'recN7l5hjhx4FJObv', 'recS8nPri4zPAVwIu']","Skydio, Scale AI"
+2,2,,Giant Step Capital,"recUNEzo4x1lWsir9, recmplwEK44wn6Q0s","['rec4cm8GflBSa2tOp', 'recPCT8H8DCxc6kMm']","Albedo, Picogrid"
+1,1,,Atypical,recFcno13Ffr5mzNr,['recf27TX6ShjG9p9P'],Portal Space Systems
+1,1,,Reuben Brothers Limited,rec06dnM6h2EciosK,['recrPuPcemcmCbl8E'],Firefly
+1,1,,Silicon Valley Bank,recjnE78So8cQjxIR,['rec4ILegIK6gJFR6O'],Shield AI
+1,1,,Leo Polovets,recjlEUZ5epuuHPhi,['rec3IRqwSRZln16TD'],Danti
+4,3,,Insight Partners,"recQjVtQkGBcSiL2k, recYA45I8hWanCh3d, recSDi26tBte3kA2y, reczMHHB6Xu5k7sSG","['recoydiR9hm01g8Js', 'recWANrnkOcxNKVii', 'recdj7iXjiRgvJ2nI', 'recdj7iXjiRgvJ2nI']","Onebrief, Rebellion Defense, HawkEye 360"
+1,1,,The Westly Group,recpnZlMZh05pErUh,['recFW58gHq4EqB5GX'],Gecko Robotics
+2,2,,Tru Arrow,"recmqVC6wvQFcWa0n, recYqhP5y5dXPg2XT","['rectiA0gQsACXRp0u', 'recmsqSpKGoxBCmug']","Dream Security, Hadrian"
+1,1,,Founders Circle Capital,recofucAJWplJG0Eb,['reczhCxapYJ2v6JRj'],Hidden Level
+1,1,https://primamateria.com/,Prima Materia,reczzV1ZkQRAqqPW0,['rechOi7KYOUmGrlxO'],Helsing
+1,1,,Seven Seven Six,recwosnu5tLVs6gNZ,['recVQL4OVduwH3Bdh'],Interlune
+2,1,,Rally Ventures,"recVfIggVQsiIjjot, recFS2bRhGb1trDfn","['reccrYDJ9uuhYlhIc', 'reccrYDJ9uuhYlhIc']",Allen Control Systems
