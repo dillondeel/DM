@@ -10,8 +10,8 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
-    "Funded Rounds": "Fundraising%20Rounds%20-%20Companies"
-    # Removed "Unique Companies" since it's a formula field, not a linked field
+    "Funded Rounds": "Fundraising%20Rounds%20-%20Companies",
+    "Companies Funded": "Companies"  # Added to handle Companies Funded field
 }
 
 # Fetch data from linked tables
@@ -29,12 +29,10 @@ for field, table in linked_tables.items():
         if not offset:
             break
     if field == "Funded Rounds":
-        # Use the correct field name "Fundraising Round"
-        linked_data[field] = {}
-        for record in all_linked_records:
-            fields = record["fields"]
-            name = fields.get("Fundraising Round", record["id"])  # Fallback to record ID if not found
-            linked_data[field][record["id"]] = name
+        linked_data[field] = {record["id"]: record["fields"].get("Fundraising Round", record["id"]) for record in all_linked_records}
+        print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
+    elif field == "Companies Funded":
+        linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}
         print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
     if all_linked_records:
         print(f"Sample {table} record: {all_linked_records[0]['fields']}")
@@ -60,7 +58,7 @@ if all_records:
 # Extract fields and transform linked records
 fields = set()
 transformed_records = []
-unwanted_columns = []  # No unwanted columns specified for Investors
+unwanted_columns = []
 for record in all_records:
     fields.update(record["fields"].keys())
     transformed = record["fields"].copy()
@@ -69,25 +67,17 @@ for record in all_records:
         if field in transformed:
             value = transformed[field]
             if isinstance(value, list):
-                # Map IDs to names
-                mapped_values = []
-                for id in value:
-                    if id in linked_data[field]:
-                        mapped_values.append(linked_data[field][id])
-                    else:
-                        print(f"Warning: ID {id} not found in {field} linked data")
-                        mapped_values.append(id)  # Fallback to ID if not found
+                mapped_values = [linked_data[field].get(id, id) for id in value]
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
+                print(f"Transformed {field} for {transformed.get('Fund', 'unknown')}: {transformed[field]}")  # Debug: Trace transformation
             else:
                 transformed[field] = linked_data[field].get(value, value) if value else ""
     # Handle Unique Companies as a formula field
     if "Unique Companies" in transformed:
         value = transformed["Unique Companies"]
         if isinstance(value, list):
-            # If it's a list (e.g., from a formula field), join it into a string
             transformed["Unique Companies"] = ", ".join(value)
         elif isinstance(value, str):
-            # If it's already a string, use it as-is
             transformed["Unique Companies"] = value
     # Remove unwanted columns from the transformed record
     for col in unwanted_columns:
