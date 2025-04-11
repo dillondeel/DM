@@ -10,8 +10,8 @@ headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
-    "Funded Rounds": "Fundraising%20Rounds%20-%20Companies",
-    "Unique Companies": "Companies"
+    "Funded Rounds": "Fundraising%20Rounds%20-%20Companies"
+    # Removed "Unique Companies" since it's a formula field, not a linked field
 }
 
 # Fetch data from linked tables
@@ -29,32 +29,11 @@ for field, table in linked_tables.items():
         if not offset:
             break
     if field == "Funded Rounds":
-        # Try multiple possible field names for the primary field
+        # Use the correct field name "Fundraising Round"
         linked_data[field] = {}
         for record in all_linked_records:
             fields = record["fields"]
-            # Try more field names, including "Company – Round", "Round Type", or fallback to record ID
-            possible_names = [
-                "Company – Round",  # Matches the format in your CSV (e.g., "Epirus – Series D")
-                "Round Name",
-                "Funding Round",
-                "Round",
-                "Round Type",
-                "Name",
-                "Round Name (from Company)"
-            ]
-            name = record["id"]  # Default to record ID if no field is found
-            for field_name in possible_names:
-                if field_name in fields:
-                    name = fields[field_name]
-                    break
-            linked_data[field][record["id"]] = name
-        print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
-    elif field == "Unique Companies":
-        linked_data[field] = {}
-        for record in all_linked_records:
-            fields = record["fields"]
-            name = fields.get("Company", record["id"])
+            name = fields.get("Fundraising Round", record["id"])  # Fallback to record ID if not found
             linked_data[field][record["id"]] = name
         print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
     if all_linked_records:
@@ -89,10 +68,7 @@ for record in all_records:
     for field in linked_tables.keys():
         if field in transformed:
             value = transformed[field]
-            if field == "Unique Companies" and isinstance(value, str):
-                # If Unique Companies is a formula field outputting a string, use it as-is
-                transformed[field] = value.strip("[]").replace("'", "")  # Clean up stringified lists
-            elif isinstance(value, list):
+            if isinstance(value, list):
                 # Map IDs to names
                 mapped_values = []
                 for id in value:
@@ -104,6 +80,15 @@ for record in all_records:
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
             else:
                 transformed[field] = linked_data[field].get(value, value) if value else ""
+    # Handle Unique Companies as a formula field
+    if "Unique Companies" in transformed:
+        value = transformed["Unique Companies"]
+        if isinstance(value, list):
+            # If it's a list (e.g., from a formula field), join it into a string
+            transformed["Unique Companies"] = ", ".join(value)
+        elif isinstance(value, str):
+            # If it's already a string, use it as-is
+            transformed["Unique Companies"] = value
     # Remove unwanted columns from the transformed record
     for col in unwanted_columns:
         transformed.pop(col, None)
