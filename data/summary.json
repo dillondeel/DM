@@ -1,0 +1,331 @@
+{
+  "generated_at": "2026-06-03T15:38:10Z",
+  "source": "https://defensemetrics.io (Airtable)",
+  "totals_by_year": {
+    "2013": {
+      "amount": 0,
+      "rounds": 1
+    },
+    "2015": {
+      "amount": 3000000,
+      "rounds": 2
+    },
+    "2016": {
+      "amount": 50000000,
+      "rounds": 3
+    },
+    "2017": {
+      "amount": 201100000,
+      "rounds": 7
+    },
+    "2018": {
+      "amount": 374000000,
+      "rounds": 9
+    },
+    "2019": {
+      "amount": 152500000,
+      "rounds": 6
+    },
+    "2020": {
+      "amount": 445000000,
+      "rounds": 6
+    },
+    "2021": {
+      "amount": 2226700000,
+      "rounds": 30
+    },
+    "2022": {
+      "amount": 2908900000,
+      "rounds": 33
+    },
+    "2023": {
+      "amount": 2789300000,
+      "rounds": 44
+    },
+    "2024": {
+      "amount": 5947680000,
+      "rounds": 76
+    },
+    "2025": {
+      "amount": 11646101656,
+      "rounds": 120
+    },
+    "2026": {
+      "amount": 8364000000,
+      "rounds": 16
+    }
+  },
+  "by_year_category": {
+    "2013": {
+      "recVXgbGCCmryjUeM": {
+        "amount": 0,
+        "rounds": 1
+      }
+    },
+    "2015": {
+      "reck9rb9NUDRVYQm5": {
+        "amount": 3000000,
+        "rounds": 1
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 0,
+        "rounds": 1
+      }
+    },
+    "2016": {
+      "reck9rb9NUDRVYQm5": {
+        "amount": 39000000,
+        "rounds": 2
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 11000000,
+        "rounds": 1
+      }
+    },
+    "2017": {
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 88000000,
+        "rounds": 2
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 28000000,
+        "rounds": 2
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 5500000,
+        "rounds": 1
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 4600000,
+        "rounds": 1
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 75000000,
+        "rounds": 1
+      }
+    },
+    "2018": {
+      "recuShUrIV9xrXGLE": {
+        "amount": 91000000,
+        "rounds": 3
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 159000000,
+        "rounds": 2
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 15000000,
+        "rounds": 1
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 102000000,
+        "rounds": 2
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 7000000,
+        "rounds": 1
+      }
+    },
+    "2019": {
+      "recuShUrIV9xrXGLE": {
+        "amount": 42500000,
+        "rounds": 4
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 40000000,
+        "rounds": 1
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 70000000,
+        "rounds": 1
+      }
+    },
+    "2020": {
+      "reck9rb9NUDRVYQm5": {
+        "amount": 120000000,
+        "rounds": 3
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 325000000,
+        "rounds": 2
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 0,
+        "rounds": 1
+      }
+    },
+    "2021": {
+      "recVXgbGCCmryjUeM": {
+        "amount": 292000000,
+        "rounds": 5
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 347000000,
+        "rounds": 6
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 91500000,
+        "rounds": 5
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 1363100000,
+        "rounds": 11
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 48100000,
+        "rounds": 2
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 85000000,
+        "rounds": 1
+      }
+    },
+    "2022": {
+      "reck9rb9NUDRVYQm5": {
+        "amount": 292400000,
+        "rounds": 6
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 270000000,
+        "rounds": 9
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 290500000,
+        "rounds": 5
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 305200000,
+        "rounds": 5
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 1686000000,
+        "rounds": 5
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 64800000,
+        "rounds": 3
+      }
+    },
+    "2023": {
+      "recpyzqQCE1YWMU9O": {
+        "amount": 92800000,
+        "rounds": 3
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 448700000,
+        "rounds": 7
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 138000000,
+        "rounds": 2
+      },
+      "Uncategorized": {
+        "amount": 40000000,
+        "rounds": 1
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 960600000,
+        "rounds": 13
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 500000000,
+        "rounds": 6
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 609200000,
+        "rounds": 12
+      }
+    },
+    "2024": {
+      "reck9rb9NUDRVYQm5": {
+        "amount": 582800000,
+        "rounds": 15
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 374400000,
+        "rounds": 9
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 431560000,
+        "rounds": 11
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 99100000,
+        "rounds": 6
+      },
+      "Uncategorized": {
+        "amount": 141320000,
+        "rounds": 2
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 3702000000,
+        "rounds": 22
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 616500000,
+        "rounds": 11
+      }
+    },
+    "2025": {
+      "recVXgbGCCmryjUeM": {
+        "amount": 1087500000,
+        "rounds": 12
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 4840200000,
+        "rounds": 26
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 1524170000,
+        "rounds": 18
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 1180600000,
+        "rounds": 9
+      },
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 896000000,
+        "rounds": 16
+      },
+      "Uncategorized": {
+        "amount": 1782631656,
+        "rounds": 33
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 335000000,
+        "rounds": 6
+      }
+    },
+    "2026": {
+      "recLSNFkL4Mx5vIAj": {
+        "amount": 300000000,
+        "rounds": 1
+      },
+      "reck9rb9NUDRVYQm5": {
+        "amount": 217000000,
+        "rounds": 4
+      },
+      "recuShUrIV9xrXGLE": {
+        "amount": 6751000000,
+        "rounds": 5
+      },
+      "recnikZjj0rLnQKC5": {
+        "amount": 28000000,
+        "rounds": 2
+      },
+      "Uncategorized": {
+        "amount": 400000000,
+        "rounds": 2
+      },
+      "recpyzqQCE1YWMU9O": {
+        "amount": 18000000,
+        "rounds": 1
+      },
+      "recVXgbGCCmryjUeM": {
+        "amount": 650000000,
+        "rounds": 1
+      }
+    }
+  },
+  "total_rounds": 356
+}
