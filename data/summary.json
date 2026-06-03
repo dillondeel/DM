@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T15:38:10Z",
+  "generated_at": "2026-06-03T17:05:09Z",
   "source": "https://defensemetrics.io (Airtable)",
   "totals_by_year": {
     "2013": {
@@ -51,8 +51,8 @@
       "rounds": 120
     },
     "2026": {
-      "amount": 8364000000,
-      "rounds": 16
+      "amount": 8729000000,
+      "rounds": 21
     }
   },
   "by_year_category": {
@@ -302,24 +302,24 @@
         "rounds": 1
       },
       "reck9rb9NUDRVYQm5": {
-        "amount": 217000000,
-        "rounds": 4
+        "amount": 292000000,
+        "rounds": 5
       },
       "recuShUrIV9xrXGLE": {
-        "amount": 6751000000,
-        "rounds": 5
+        "amount": 6827000000,
+        "rounds": 7
       },
       "recnikZjj0rLnQKC5": {
         "amount": 28000000,
         "rounds": 2
       },
       "Uncategorized": {
-        "amount": 400000000,
-        "rounds": 2
+        "amount": 600000000,
+        "rounds": 3
       },
       "recpyzqQCE1YWMU9O": {
-        "amount": 18000000,
-        "rounds": 1
+        "amount": 32000000,
+        "rounds": 2
       },
       "recVXgbGCCmryjUeM": {
         "amount": 650000000,
@@ -327,5 +327,5 @@
       }
     }
   },
-  "total_rounds": 356
+  "total_rounds": 361
 }
