@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T14:22:50Z",
+  "generated_at": "2026-06-04T14:35:28Z",
   "source": "https://defensemetrics.io (Airtable)",
-  "total_rounds": 378,
+  "total_rounds": 381,
   "totals_by_year": {
     "2013": {
       "amount": 0,
@@ -52,171 +52,171 @@
       "rounds": 120
     },
     "2026": {
-      "amount": 12245700000,
-      "rounds": 41
+      "amount": 12611700000,
+      "rounds": 44
     }
   },
   "by_year_category": {
     "2013": {
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 0,
         "rounds": 1
       }
     },
     "2015": {
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 3000000,
         "rounds": 1
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 0,
         "rounds": 1
       }
     },
     "2016": {
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 39000000,
         "rounds": 2
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 11000000,
         "rounds": 1
       }
     },
     "2017": {
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 88000000,
         "rounds": 2
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 28000000,
         "rounds": 2
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 5500000,
         "rounds": 1
       },
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 4600000,
         "rounds": 1
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 75000000,
         "rounds": 1
       }
     },
     "2018": {
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 91000000,
         "rounds": 3
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 159000000,
         "rounds": 2
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 15000000,
         "rounds": 1
       },
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 102000000,
         "rounds": 2
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 7000000,
         "rounds": 1
       }
     },
     "2019": {
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 42500000,
         "rounds": 4
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 40000000,
         "rounds": 1
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 70000000,
         "rounds": 1
       }
     },
     "2020": {
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 120000000,
         "rounds": 3
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 325000000,
         "rounds": 2
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 0,
         "rounds": 1
       }
     },
     "2021": {
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 292000000,
         "rounds": 5
       },
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 347000000,
         "rounds": 6
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 91500000,
         "rounds": 5
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 1363100000,
         "rounds": 11
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 48100000,
         "rounds": 2
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 85000000,
         "rounds": 1
       }
     },
     "2022": {
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 292400000,
         "rounds": 6
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 270000000,
         "rounds": 9
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 290500000,
         "rounds": 5
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 305200000,
         "rounds": 5
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 1686000000,
         "rounds": 5
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 64800000,
         "rounds": 3
       }
     },
     "2023": {
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 92800000,
         "rounds": 3
       },
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 448700000,
         "rounds": 7
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 138000000,
         "rounds": 2
       },
@@ -224,33 +224,33 @@
         "amount": 40000000,
         "rounds": 1
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 960600000,
         "rounds": 13
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 500000000,
         "rounds": 6
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 609200000,
         "rounds": 12
       }
     },
     "2024": {
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 582800000,
         "rounds": 15
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 374400000,
         "rounds": 9
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 431560000,
         "rounds": 11
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 99100000,
         "rounds": 6
       },
@@ -258,33 +258,33 @@
         "amount": 141320000,
         "rounds": 2
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 3702000000,
         "rounds": 22
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 616500000,
         "rounds": 11
       }
     },
     "2025": {
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 1087500000,
         "rounds": 12
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 4840200000,
         "rounds": 26
       },
-      "reck9rb9NUDRVYQm5": {
+      "Platform Systems": {
         "amount": 1524170000,
         "rounds": 18
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 1180600000,
         "rounds": 9
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 896000000,
         "rounds": 16
       },
@@ -292,37 +292,37 @@
         "amount": 1782631656,
         "rounds": 33
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 335000000,
         "rounds": 6
       }
     },
     "2026": {
-      "reck9rb9NUDRVYQm5": {
-        "amount": 2476500000,
-        "rounds": 11
+      "Platform Systems": {
+        "amount": 2776500000,
+        "rounds": 12
       },
-      "recLSNFkL4Mx5vIAj": {
+      "Support & Services": {
         "amount": 444000000,
         "rounds": 3
       },
-      "recVXgbGCCmryjUeM": {
+      "Space Systems": {
         "amount": 1273000000,
         "rounds": 4
       },
-      "recuShUrIV9xrXGLE": {
+      "Software & IT Services": {
         "amount": 7075000000,
         "rounds": 10
       },
-      "recnikZjj0rLnQKC5": {
+      "Weapon Systems": {
         "amount": 36700000,
         "rounds": 4
       },
       "Uncategorized": {
-        "amount": 600000000,
-        "rounds": 4
+        "amount": 666000000,
+        "rounds": 6
       },
-      "recpyzqQCE1YWMU9O": {
+      "Electronic Systems": {
         "amount": 340500000,
         "rounds": 5
       }
@@ -331,10 +331,16 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 6667000000,
-        "number_of_deals": 13,
-        "average_deal_size": 512846153,
+        "total_funding": 6967000000,
+        "number_of_deals": 14,
+        "average_deal_size": 497642857,
         "recent_rounds": [
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
           {
             "company": "Impulse Space",
             "stage": "Series D",
@@ -388,12 +394,6 @@
             "stage": "Series H",
             "amount": 5000000000,
             "date": "2026-05-13"
-          },
-          {
-            "company": "Heaviside Industries",
-            "stage": "Series A",
-            "amount": 28000000,
-            "date": "2026-05-12"
           }
         ],
         "top_rounds": [
@@ -407,6 +407,12 @@
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
+            "date": "2026-06-02"
+          },
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
             "date": "2026-06-02"
           },
           {
@@ -450,54 +456,6 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Darkhive",
-            "stage": "Series B",
-            "amount": 30000000,
-            "date": "2026-05-08"
-          }
-        ],
-        "active_investors": [
-          {
-            "fund": "Andreessen Horowitz (a16z)",
-            "rounds": 3
-          },
-          {
-            "fund": "Lux Capital",
-            "rounds": 3
-          },
-          {
-            "fund": "Baillie Gifford",
-            "rounds": 2
-          },
-          {
-            "fund": "Founders Fund",
-            "rounds": 2
-          },
-          {
-            "fund": "Caffeinated Capital",
-            "rounds": 1
-          },
-          {
-            "fund": "Lightspeed Venture Partners",
-            "rounds": 1
-          },
-          {
-            "fund": "Construct Capital",
-            "rounds": 1
-          },
-          {
-            "fund": "House Capital",
-            "rounds": 1
-          },
-          {
-            "fund": "NATO Innovation Fund",
-            "rounds": 1
-          },
-          {
-            "fund": "Thrive Capital",
-            "rounds": 1
           }
         ],
         "prev_period": {
@@ -506,16 +464,22 @@
           "average_deal_size": 117909090
         },
         "pct_change": {
-          "funding": 414,
-          "deals": 18,
-          "avg": 335
+          "funding": 437,
+          "deals": 27,
+          "avg": 322
         }
       },
       "3m": {
-        "total_funding": 11289700000,
-        "number_of_deals": 29,
-        "average_deal_size": 389300000,
+        "total_funding": 11589700000,
+        "number_of_deals": 30,
+        "average_deal_size": 386323333,
         "recent_rounds": [
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
           {
             "company": "Impulse Space",
             "stage": "Series D",
@@ -569,12 +533,6 @@
             "stage": "Series H",
             "amount": 5000000000,
             "date": "2026-05-13"
-          },
-          {
-            "company": "Heaviside Industries",
-            "stage": "Series A",
-            "amount": 28000000,
-            "date": "2026-05-12"
           }
         ],
         "top_rounds": [
@@ -606,6 +564,12 @@
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
+            "date": "2026-06-02"
+          },
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
             "date": "2026-06-02"
           },
           {
@@ -631,72 +595,30 @@
             "stage": "Undisclosed",
             "amount": 200000000,
             "date": "2026-04-07"
-          },
-          {
-            "company": "Skydio",
-            "stage": "Series F",
-            "amount": 110000000,
-            "date": "2026-04-23"
-          }
-        ],
-        "active_investors": [
-          {
-            "fund": "Andreessen Horowitz (a16z)",
-            "rounds": 4
-          },
-          {
-            "fund": "Founders Fund",
-            "rounds": 4
-          },
-          {
-            "fund": "Lux Capital",
-            "rounds": 3
-          },
-          {
-            "fund": "Caffeinated Capital",
-            "rounds": 2
-          },
-          {
-            "fund": "Construct Capital",
-            "rounds": 2
-          },
-          {
-            "fund": "Baillie Gifford",
-            "rounds": 2
-          },
-          {
-            "fund": "Franklin Templeton",
-            "rounds": 2
-          },
-          {
-            "fund": "Washington Harbour Partners",
-            "rounds": 2
-          },
-          {
-            "fund": "In-Q-Tel",
-            "rounds": 2
-          },
-          {
-            "fund": "Lockheed Martin",
-            "rounds": 2
           }
         ],
         "prev_period": {
-          "total_funding": 956000000,
-          "number_of_deals": 12,
-          "average_deal_size": 79666666
+          "total_funding": 1022000000,
+          "number_of_deals": 14,
+          "average_deal_size": 73000000
         },
         "pct_change": {
-          "funding": 1081,
-          "deals": 142,
-          "avg": 389
+          "funding": 1034,
+          "deals": 114,
+          "avg": 429
         }
       },
       "6m": {
-        "total_funding": 12245700000,
-        "number_of_deals": 41,
-        "average_deal_size": 298675609,
+        "total_funding": 12611700000,
+        "number_of_deals": 44,
+        "average_deal_size": 286629545,
         "recent_rounds": [
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
           {
             "company": "Impulse Space",
             "stage": "Series D",
@@ -750,12 +672,6 @@
             "stage": "Series H",
             "amount": 5000000000,
             "date": "2026-05-13"
-          },
-          {
-            "company": "Heaviside Industries",
-            "stage": "Series A",
-            "amount": 28000000,
-            "date": "2026-05-12"
           }
         ],
         "top_rounds": [
@@ -790,6 +706,12 @@
             "date": "2026-06-02"
           },
           {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
+          {
             "company": "AMCA",
             "stage": "Series B",
             "amount": 300000000,
@@ -812,54 +734,6 @@
             "stage": "Series B",
             "amount": 230000000,
             "date": "2026-05-19"
-          },
-          {
-            "company": "Harmattan AI",
-            "stage": "Series B",
-            "amount": 200000000,
-            "date": "2026-01-12"
-          }
-        ],
-        "active_investors": [
-          {
-            "fund": "Founders Fund",
-            "rounds": 6
-          },
-          {
-            "fund": "Andreessen Horowitz (a16z)",
-            "rounds": 4
-          },
-          {
-            "fund": "Lux Capital",
-            "rounds": 3
-          },
-          {
-            "fund": "Lockheed Martin Ventures",
-            "rounds": 3
-          },
-          {
-            "fund": "Alumni Ventures",
-            "rounds": 3
-          },
-          {
-            "fund": "Caffeinated Capital",
-            "rounds": 2
-          },
-          {
-            "fund": "Construct Capital",
-            "rounds": 2
-          },
-          {
-            "fund": "DYNE Ventures",
-            "rounds": 2
-          },
-          {
-            "fund": "Baillie Gifford",
-            "rounds": 2
-          },
-          {
-            "fund": "Franklin Templeton",
-            "rounds": 2
           }
         ],
         "prev_period": {
@@ -868,16 +742,22 @@
           "average_deal_size": 89780929
         },
         "pct_change": {
-          "funding": 148,
-          "deals": -25,
-          "avg": 233
+          "funding": 155,
+          "deals": -20,
+          "avg": 219
         }
       },
       "1y": {
-        "total_funding": 19683651140,
-        "number_of_deals": 97,
-        "average_deal_size": 202924238,
+        "total_funding": 20049651140,
+        "number_of_deals": 100,
+        "average_deal_size": 200496511,
         "recent_rounds": [
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
           {
             "company": "Impulse Space",
             "stage": "Series D",
@@ -931,12 +811,6 @@
             "stage": "Series H",
             "amount": 5000000000,
             "date": "2026-05-13"
-          },
-          {
-            "company": "Heaviside Industries",
-            "stage": "Series A",
-            "amount": 28000000,
-            "date": "2026-05-12"
           }
         ],
         "top_rounds": [
@@ -1001,57 +875,15 @@
             "date": "2026-06-02"
           }
         ],
-        "active_investors": [
-          {
-            "fund": "Founders Fund",
-            "rounds": 13
-          },
-          {
-            "fund": "Andreessen Horowitz (a16z)",
-            "rounds": 7
-          },
-          {
-            "fund": "Lux Capital",
-            "rounds": 7
-          },
-          {
-            "fund": "Alumni Ventures",
-            "rounds": 6
-          },
-          {
-            "fund": "Shield Capital",
-            "rounds": 6
-          },
-          {
-            "fund": "General Catalyst",
-            "rounds": 6
-          },
-          {
-            "fund": "Lockheed Martin Ventures",
-            "rounds": 5
-          },
-          {
-            "fund": "Lightspeed Venture Partners",
-            "rounds": 4
-          },
-          {
-            "fund": "Washington Harbour Partners",
-            "rounds": 4
-          },
-          {
-            "fund": "8VC",
-            "rounds": 4
-          }
-        ],
         "prev_period": {
           "total_funding": 8291630516,
           "number_of_deals": 113,
           "average_deal_size": 73377261
         },
         "pct_change": {
-          "funding": 137,
-          "deals": -14,
-          "avg": 177
+          "funding": 142,
+          "deals": -12,
+          "avg": 173
         }
       }
     },
@@ -1078,11 +910,11 @@
         773.0,
         209.0,
         436.0,
-        417.0,
+        483.0,
         3428.7,
         1297.0,
         6167.0,
-        500.0
+        800.0
       ],
       "by_bucket": {
         "Seed": [
@@ -1107,7 +939,7 @@
           75.0,
           0.0,
           436.0,
-          9.5,
+          75.5,
           147.0,
           321.0,
           782.0,
@@ -1125,7 +957,7 @@
           3273.0,
           760.0,
           5375.0,
-          500.0
+          800.0
         ],
         "Miscellaneous": [
           137.0,
