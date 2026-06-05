@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T16:45:26Z",
+  "generated_at": "2026-06-05T16:26:10Z",
   "source": "https://defensemetrics.io (Airtable)",
-  "total_rounds": 381,
+  "total_rounds": 384,
   "totals_by_year": {
     "2013": {
       "amount": 0,
@@ -52,8 +52,8 @@
       "rounds": 120
     },
     "2026": {
-      "amount": 12611700000,
-      "rounds": 44
+      "amount": 12791700000,
+      "rounds": 47
     }
   },
   "by_year_category": {
@@ -299,8 +299,8 @@
     },
     "2026": {
       "Platform Systems": {
-        "amount": 2776500000,
-        "rounds": 12
+        "amount": 2886500000,
+        "rounds": 13
       },
       "Support & Services": {
         "amount": 444000000,
@@ -319,8 +319,8 @@
         "rounds": 4
       },
       "Uncategorized": {
-        "amount": 666000000,
-        "rounds": 6
+        "amount": 736000000,
+        "rounds": 8
       },
       "Electronic Systems": {
         "amount": 340500000,
@@ -470,9 +470,9 @@
         }
       },
       "3m": {
-        "total_funding": 11589700000,
-        "number_of_deals": 30,
-        "average_deal_size": 386323333,
+        "total_funding": 11749700000,
+        "number_of_deals": 32,
+        "average_deal_size": 367178125,
         "recent_rounds": [
           {
             "company": "Mach Industries",
@@ -598,20 +598,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 1022000000,
-          "number_of_deals": 14,
-          "average_deal_size": 73000000
+          "total_funding": 1042000000,
+          "number_of_deals": 15,
+          "average_deal_size": 69466666
         },
         "pct_change": {
-          "funding": 1034,
-          "deals": 114,
+          "funding": 1028,
+          "deals": 113,
           "avg": 429
         }
       },
       "6m": {
-        "total_funding": 12611700000,
-        "number_of_deals": 44,
-        "average_deal_size": 286629545,
+        "total_funding": 12791700000,
+        "number_of_deals": 47,
+        "average_deal_size": 272163829,
         "recent_rounds": [
           {
             "company": "Mach Industries",
@@ -737,20 +737,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4937951140,
-          "number_of_deals": 55,
-          "average_deal_size": 89780929
+          "total_funding": 4912951140,
+          "number_of_deals": 54,
+          "average_deal_size": 90980576
         },
         "pct_change": {
-          "funding": 155,
-          "deals": -20,
-          "avg": 219
+          "funding": 160,
+          "deals": -13,
+          "avg": 199
         }
       },
       "1y": {
-        "total_funding": 20049651140,
-        "number_of_deals": 100,
-        "average_deal_size": 200496511,
+        "total_funding": 20229651140,
+        "number_of_deals": 103,
+        "average_deal_size": 196404380,
         "recent_rounds": [
           {
             "company": "Mach Industries",
@@ -881,9 +881,9 @@
           "average_deal_size": 73377261
         },
         "pct_change": {
-          "funding": 142,
-          "deals": -12,
-          "avg": 173
+          "funding": 144,
+          "deals": -9,
+          "avg": 168
         }
       }
     },
@@ -910,8 +910,8 @@
         773.0,
         209.0,
         436.0,
-        483.0,
-        3428.7,
+        503.0,
+        3588.7,
         1297.0,
         6167.0,
         800.0
@@ -939,8 +939,8 @@
           75.0,
           0.0,
           436.0,
-          75.5,
-          147.0,
+          95.5,
+          307.0,
           321.0,
           782.0,
           0.0
