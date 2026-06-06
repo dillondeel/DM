@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T16:26:10Z",
+  "generated_at": "2026-06-06T15:06:33Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 384,
   "totals_by_year": {
@@ -331,9 +331,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 6967000000,
-        "number_of_deals": 14,
-        "average_deal_size": 497642857,
+        "total_funding": 6667000000,
+        "number_of_deals": 13,
+        "average_deal_size": 512846153,
         "recent_rounds": [
           {
             "company": "Mach Industries",
@@ -422,12 +422,6 @@
             "date": "2026-05-20"
           },
           {
-            "company": "Astranis",
-            "stage": "Series E",
-            "amount": 300000000,
-            "date": "2026-05-06"
-          },
-          {
             "company": "Armada",
             "stage": "Series B",
             "amount": 230000000,
@@ -456,17 +450,23 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
+          },
+          {
+            "company": "Darkhive",
+            "stage": "Series B",
+            "amount": 30000000,
+            "date": "2026-05-08"
           }
         ],
         "prev_period": {
-          "total_funding": 1297000000,
-          "number_of_deals": 11,
-          "average_deal_size": 117909090
+          "total_funding": 1597000000,
+          "number_of_deals": 12,
+          "average_deal_size": 133083333
         },
         "pct_change": {
-          "funding": 437,
-          "deals": 27,
-          "avg": 322
+          "funding": 317,
+          "deals": 8,
+          "avg": 285
         }
       },
       "3m": {
@@ -748,9 +748,9 @@
         }
       },
       "1y": {
-        "total_funding": 20229651140,
-        "number_of_deals": 103,
-        "average_deal_size": 196404380,
+        "total_funding": 17729651140,
+        "number_of_deals": 102,
+        "average_deal_size": 173820109,
         "recent_rounds": [
           {
             "company": "Mach Industries",
@@ -821,12 +821,6 @@
             "date": "2026-05-13"
           },
           {
-            "company": "Anduril Industries",
-            "stage": "Series G",
-            "amount": 2500000000,
-            "date": "2025-06-05"
-          },
-          {
             "company": "Saronic",
             "stage": "Series D",
             "amount": 1750000000,
@@ -873,17 +867,23 @@
             "stage": "Series D",
             "amount": 500000000,
             "date": "2026-06-02"
+          },
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
           }
         ],
         "prev_period": {
-          "total_funding": 8291630516,
-          "number_of_deals": 113,
-          "average_deal_size": 73377261
+          "total_funding": 10791630516,
+          "number_of_deals": 114,
+          "average_deal_size": 94663425
         },
         "pct_change": {
-          "funding": 144,
-          "deals": -9,
-          "avg": 168
+          "funding": 64,
+          "deals": -11,
+          "avg": 84
         }
       }
     },
