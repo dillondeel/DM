@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T17:18:09Z",
+  "generated_at": "2026-06-09T16:26:12Z",
   "source": "https://defensemetrics.io (Airtable)",
-  "total_rounds": 396,
+  "total_rounds": 400,
   "totals_by_year": {
     "2013": {
       "amount": 0,
@@ -52,8 +52,8 @@
       "rounds": 120
     },
     "2026": {
-      "amount": 13288800000,
-      "rounds": 59
+      "amount": 13554600000,
+      "rounds": 63
     }
   },
   "by_year_category": {
@@ -220,17 +220,13 @@
         "amount": 138000000,
         "rounds": 2
       },
-      "Uncategorized": {
-        "amount": 40000000,
-        "rounds": 1
+      "Support & Services": {
+        "amount": 540000000,
+        "rounds": 7
       },
       "Software & IT Services": {
         "amount": 960600000,
         "rounds": 13
-      },
-      "Support & Services": {
-        "amount": 500000000,
-        "rounds": 6
       },
       "Space Systems": {
         "amount": 609200000,
@@ -239,8 +235,8 @@
     },
     "2024": {
       "Platform Systems": {
-        "amount": 582800000,
-        "rounds": 15
+        "amount": 694120000,
+        "rounds": 16
       },
       "Electronic Systems": {
         "amount": 374400000,
@@ -254,13 +250,9 @@
         "amount": 99100000,
         "rounds": 6
       },
-      "Uncategorized": {
-        "amount": 141320000,
-        "rounds": 2
-      },
       "Software & IT Services": {
-        "amount": 3702000000,
-        "rounds": 22
+        "amount": 3732000000,
+        "rounds": 23
       },
       "Space Systems": {
         "amount": 616500000,
@@ -269,72 +261,88 @@
     },
     "2025": {
       "Space Systems": {
-        "amount": 1087500000,
-        "rounds": 12
+        "amount": 1650204000,
+        "rounds": 14
       },
       "Software & IT Services": {
-        "amount": 4840200000,
-        "rounds": 26
+        "amount": 5133000000,
+        "rounds": 34
       },
       "Platform Systems": {
-        "amount": 1524170000,
-        "rounds": 18
+        "amount": 2100497656,
+        "rounds": 30
       },
       "Electronic Systems": {
-        "amount": 1180600000,
-        "rounds": 9
+        "amount": 1315600000,
+        "rounds": 12
       },
       "Support & Services": {
-        "amount": 896000000,
-        "rounds": 16
-      },
-      "Uncategorized": {
-        "amount": 1782631656,
-        "rounds": 33
+        "amount": 1096300000,
+        "rounds": 21
       },
       "Weapon Systems": {
-        "amount": 335000000,
-        "rounds": 6
+        "amount": 350500000,
+        "rounds": 9
       }
     },
     "2026": {
       "Platform Systems": {
-        "amount": 2962500000,
-        "rounds": 16
+        "amount": 3026700000,
+        "rounds": 19
       },
       "Support & Services": {
-        "amount": 476100000,
-        "rounds": 5
+        "amount": 558100000,
+        "rounds": 8
       },
       "Space Systems": {
-        "amount": 1301000000,
-        "rounds": 5
+        "amount": 1633000000,
+        "rounds": 7
       },
       "Software & IT Services": {
-        "amount": 7200000000,
-        "rounds": 11
+        "amount": 7579000000,
+        "rounds": 15
       },
       "Weapon Systems": {
-        "amount": 61700000,
-        "rounds": 5
-      },
-      "Uncategorized": {
-        "amount": 947000000,
-        "rounds": 12
+        "amount": 315700000,
+        "rounds": 7
       },
       "Electronic Systems": {
-        "amount": 340500000,
-        "rounds": 5
+        "amount": 442100000,
+        "rounds": 7
       }
     }
   },
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 6637000000,
-        "number_of_deals": 12,
-        "average_deal_size": 553083333,
+        "total_funding": 6902800000,
+        "number_of_deals": 16,
+        "average_deal_size": 431425000,
         "recent_rounds": [
+          {
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
+          },
+          {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
+          },
+          {
+            "company": "Molfar Defence Technologies",
+            "stage": "Seed",
+            "amount": 1600000,
+            "date": "2026-06-03"
+          },
           {
             "company": "Mach Industries",
             "stage": "Series C",
@@ -370,30 +378,6 @@
             "stage": "Series B",
             "amount": 300000000,
             "date": "2026-05-20"
-          },
-          {
-            "company": "Armada",
-            "stage": "Series B",
-            "amount": 230000000,
-            "date": "2026-05-19"
-          },
-          {
-            "company": "Arkeus",
-            "stage": "Series A",
-            "amount": 18000000,
-            "date": "2026-05-15"
-          },
-          {
-            "company": "Twin Prime",
-            "stage": "Pre-Seed",
-            "amount": 10000000,
-            "date": "2026-05-14"
-          },
-          {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
           }
         ],
         "top_rounds": [
@@ -428,6 +412,12 @@
             "date": "2026-05-19"
           },
           {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
+          },
+          {
             "company": "HavocAI",
             "stage": "Extension",
             "amount": 100000000,
@@ -440,22 +430,16 @@
             "date": "2026-05-28"
           },
           {
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
+          },
+          {
             "company": "Picogrid",
             "stage": "Series A",
             "amount": 45000000,
             "date": "2026-05-29"
-          },
-          {
-            "company": "Airis Labs",
-            "stage": "Series B",
-            "amount": 31000000,
-            "date": "2026-05-31"
-          },
-          {
-            "company": "Heaviside Industries",
-            "stage": "Series A",
-            "amount": 28000000,
-            "date": "2026-05-12"
           }
         ],
         "prev_period": {
@@ -464,16 +448,40 @@
           "average_deal_size": 100428571
         },
         "pct_change": {
-          "funding": 372,
-          "deals": -14,
-          "avg": 451
+          "funding": 391,
+          "deals": 14,
+          "avg": 330
         }
       },
       "3m": {
-        "total_funding": 11856700000,
-        "number_of_deals": 36,
-        "average_deal_size": 329352777,
+        "total_funding": 12072500000,
+        "number_of_deals": 39,
+        "average_deal_size": 309551282,
         "recent_rounds": [
+          {
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
+          },
+          {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
+          },
+          {
+            "company": "Molfar Defence Technologies",
+            "stage": "Seed",
+            "amount": 1600000,
+            "date": "2026-06-03"
+          },
           {
             "company": "Mach Industries",
             "stage": "Series C",
@@ -509,30 +517,6 @@
             "stage": "Series B",
             "amount": 300000000,
             "date": "2026-05-20"
-          },
-          {
-            "company": "Armada",
-            "stage": "Series B",
-            "amount": 230000000,
-            "date": "2026-05-19"
-          },
-          {
-            "company": "Arkeus",
-            "stage": "Series A",
-            "amount": 18000000,
-            "date": "2026-05-15"
-          },
-          {
-            "company": "Twin Prime",
-            "stage": "Pre-Seed",
-            "amount": 10000000,
-            "date": "2026-05-14"
-          },
-          {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
           }
         ],
         "top_rounds": [
@@ -598,21 +582,45 @@
           }
         ],
         "prev_period": {
-          "total_funding": 1432100000,
-          "number_of_deals": 23,
-          "average_deal_size": 62265217
+          "total_funding": 1482100000,
+          "number_of_deals": 24,
+          "average_deal_size": 61754166
         },
         "pct_change": {
-          "funding": 728,
-          "deals": 57,
-          "avg": 429
+          "funding": 715,
+          "deals": 62,
+          "avg": 401
         }
       },
       "6m": {
-        "total_funding": 13288800000,
-        "number_of_deals": 59,
-        "average_deal_size": 225233898,
+        "total_funding": 13554600000,
+        "number_of_deals": 63,
+        "average_deal_size": 215152380,
         "recent_rounds": [
+          {
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
+          },
+          {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
+          },
+          {
+            "company": "Molfar Defence Technologies",
+            "stage": "Seed",
+            "amount": 1600000,
+            "date": "2026-06-03"
+          },
           {
             "company": "Mach Industries",
             "stage": "Series C",
@@ -648,30 +656,6 @@
             "stage": "Series B",
             "amount": 300000000,
             "date": "2026-05-20"
-          },
-          {
-            "company": "Armada",
-            "stage": "Series B",
-            "amount": 230000000,
-            "date": "2026-05-19"
-          },
-          {
-            "company": "Arkeus",
-            "stage": "Series A",
-            "amount": 18000000,
-            "date": "2026-05-15"
-          },
-          {
-            "company": "Twin Prime",
-            "stage": "Pre-Seed",
-            "amount": 10000000,
-            "date": "2026-05-14"
-          },
-          {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
           }
         ],
         "top_rounds": [
@@ -742,16 +726,40 @@
           "average_deal_size": 91282096
         },
         "pct_change": {
-          "funding": 175,
-          "deals": 11,
-          "avg": 147
+          "funding": 180,
+          "deals": 19,
+          "avg": 136
         }
       },
       "1y": {
-        "total_funding": 18226751140,
-        "number_of_deals": 114,
-        "average_deal_size": 159883781,
+        "total_funding": 18492551140,
+        "number_of_deals": 118,
+        "average_deal_size": 156716535,
         "recent_rounds": [
+          {
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
+          },
+          {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
+          },
+          {
+            "company": "Molfar Defence Technologies",
+            "stage": "Seed",
+            "amount": 1600000,
+            "date": "2026-06-03"
+          },
           {
             "company": "Mach Industries",
             "stage": "Series C",
@@ -787,30 +795,6 @@
             "stage": "Series B",
             "amount": 300000000,
             "date": "2026-05-20"
-          },
-          {
-            "company": "Armada",
-            "stage": "Series B",
-            "amount": 230000000,
-            "date": "2026-05-19"
-          },
-          {
-            "company": "Arkeus",
-            "stage": "Series A",
-            "amount": 18000000,
-            "date": "2026-05-15"
-          },
-          {
-            "company": "Twin Prime",
-            "stage": "Pre-Seed",
-            "amount": 10000000,
-            "date": "2026-05-14"
-          },
-          {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
           }
         ],
         "top_rounds": [
@@ -881,9 +865,9 @@
           "average_deal_size": 95368411
         },
         "pct_change": {
-          "funding": 69,
-          "deals": 1,
-          "avg": 68
+          "funding": 72,
+          "deals": 4,
+          "avg": 64
         }
       }
     },
@@ -914,7 +898,7 @@
         3616.7,
         1376.0,
         6167.0,
-        800.0
+        1065.8
       ],
       "by_bucket": {
         "Seed": [
@@ -929,7 +913,7 @@
           8.7,
           41.0,
           10.0,
-          0.0
+          11.8
         ],
         "Early Stage Venture": [
           162.9,
@@ -943,7 +927,7 @@
           335.0,
           375.0,
           782.0,
-          0.0
+          200.0
         ],
         "Late Stage Venture": [
           260.0,
@@ -971,7 +955,7 @@
           0.0,
           200.0,
           0.0,
-          0.0
+          54.0
         ]
       }
     }
