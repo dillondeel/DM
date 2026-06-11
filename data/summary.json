@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T16:54:48Z",
+  "generated_at": "2026-06-11T17:32:59Z",
   "source": "https://defensemetrics.io (Airtable)",
-  "total_rounds": 400,
+  "total_rounds": 401,
   "totals_by_year": {
     "2013": {
       "amount": 0,
@@ -48,8 +48,8 @@
       "rounds": 76
     },
     "2025": {
-      "amount": 11646101656,
-      "rounds": 120
+      "amount": 11996101656,
+      "rounds": 121
     },
     "2026": {
       "amount": 13554600000,
@@ -281,8 +281,8 @@
         "rounds": 21
       },
       "Weapon Systems": {
-        "amount": 350500000,
-        "rounds": 9
+        "amount": 700500000,
+        "rounds": 10
       }
     },
     "2026": {
@@ -721,20 +721,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4837951140,
-          "number_of_deals": 53,
-          "average_deal_size": 91282096
+          "total_funding": 5187951140,
+          "number_of_deals": 54,
+          "average_deal_size": 96073169
         },
         "pct_change": {
-          "funding": 180,
-          "deals": 19,
-          "avg": 136
+          "funding": 161,
+          "deals": 17,
+          "avg": 124
         }
       },
       "1y": {
-        "total_funding": 18467551140,
-        "number_of_deals": 117,
-        "average_deal_size": 157842317,
+        "total_funding": 18817551140,
+        "number_of_deals": 118,
+        "average_deal_size": 159470772,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -853,10 +853,10 @@
             "date": "2026-06-02"
           },
           {
-            "company": "Mach Industries",
-            "stage": "Series C",
-            "amount": 300000000,
-            "date": "2026-06-02"
+            "company": "Castelion",
+            "stage": "Series B",
+            "amount": 350000000,
+            "date": "2025-12-05"
           }
         ],
         "prev_period": {
@@ -865,9 +865,9 @@
           "average_deal_size": 94751144
         },
         "pct_change": {
-          "funding": 71,
-          "deals": 3,
-          "avg": 67
+          "funding": 74,
+          "deals": 4,
+          "avg": 68
         }
       }
     },
@@ -892,7 +892,7 @@
         706.6,
         795.0,
         773.0,
-        209.0,
+        559.0,
         497.1,
         832.0,
         3616.7,
@@ -921,7 +921,7 @@
           258.7,
           105.0,
           75.0,
-          0.0,
+          350.0,
           490.0,
           402.5,
           335.0,
