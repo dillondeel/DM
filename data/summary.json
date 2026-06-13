@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T16:38:34Z",
+  "generated_at": "2026-06-13T15:26:30Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 402,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 6774800000,
-        "number_of_deals": 14,
-        "average_deal_size": 483914285,
+        "total_funding": 1774800000,
+        "number_of_deals": 13,
+        "average_deal_size": 136523076,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -382,12 +382,6 @@
         ],
         "top_rounds": [
           {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
-          },
-          {
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
@@ -440,17 +434,23 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
+          },
+          {
+            "company": "Arkeus",
+            "stage": "Series A",
+            "amount": 18000000,
+            "date": "2026-05-15"
           }
         ],
         "prev_period": {
-          "total_funding": 1534000000,
+          "total_funding": 6509000000,
           "number_of_deals": 16,
-          "average_deal_size": 95875000
+          "average_deal_size": 406812500
         },
         "pct_change": {
-          "funding": 342,
-          "deals": -12,
-          "avg": 405
+          "funding": -73,
+          "deals": -19,
+          "avg": -66
         }
       },
       "3m": {
@@ -721,20 +721,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 5181951140,
-          "number_of_deals": 52,
-          "average_deal_size": 99652906
+          "total_funding": 3788951140,
+          "number_of_deals": 49,
+          "average_deal_size": 77325533
         },
         "pct_change": {
-          "funding": 162,
-          "deals": 21,
-          "avg": 116
+          "funding": 258,
+          "deals": 29,
+          "avg": 178
         }
       },
       "1y": {
-        "total_funding": 18841551140,
-        "number_of_deals": 119,
-        "average_deal_size": 158332362,
+        "total_funding": 18766551140,
+        "number_of_deals": 118,
+        "average_deal_size": 159038568,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -860,12 +860,12 @@
           }
         ],
         "prev_period": {
-          "total_funding": 10801630516,
-          "number_of_deals": 114,
-          "average_deal_size": 94751144
+          "total_funding": 10751630516,
+          "number_of_deals": 113,
+          "average_deal_size": 95147172
         },
         "pct_change": {
-          "funding": 74,
+          "funding": 75,
           "deals": 4,
           "avg": 67
         }
