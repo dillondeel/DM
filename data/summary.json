@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T15:43:11Z",
+  "generated_at": "2026-06-15T18:21:09Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 402,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 1764800000,
-        "number_of_deals": 12,
-        "average_deal_size": 147066666,
+        "total_funding": 1746800000,
+        "number_of_deals": 11,
+        "average_deal_size": 158800000,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -436,27 +436,27 @@
             "date": "2026-05-31"
           },
           {
-            "company": "Arkeus",
-            "stage": "Series A",
-            "amount": 18000000,
-            "date": "2026-05-15"
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
           }
         ],
         "prev_period": {
-          "total_funding": 6503000000,
+          "total_funding": 6521000000,
           "number_of_deals": 16,
-          "average_deal_size": 406437500
+          "average_deal_size": 407562500
         },
         "pct_change": {
           "funding": -73,
-          "deals": -25,
-          "avg": -64
+          "deals": -31,
+          "avg": -61
         }
       },
       "3m": {
-        "total_funding": 12037500000,
-        "number_of_deals": 38,
-        "average_deal_size": 316776315,
+        "total_funding": 12005500000,
+        "number_of_deals": 37,
+        "average_deal_size": 324472972,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -582,14 +582,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 1517100000,
-          "number_of_deals": 25,
-          "average_deal_size": 60684000
+          "total_funding": 1549100000,
+          "number_of_deals": 26,
+          "average_deal_size": 59580769
         },
         "pct_change": {
-          "funding": 693,
-          "deals": 52,
-          "avg": 422
+          "funding": 675,
+          "deals": 42,
+          "avg": 445
         }
       },
       "6m": {
