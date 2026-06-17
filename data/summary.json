@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:25:07Z",
+  "generated_at": "2026-06-17T16:51:34Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 402,
   "totals_by_year": {
@@ -732,9 +732,9 @@
         }
       },
       "1y": {
-        "total_funding": 18766551140,
-        "number_of_deals": 118,
-        "average_deal_size": 159038568,
+        "total_funding": 18736551140,
+        "number_of_deals": 115,
+        "average_deal_size": 162926531,
         "recent_rounds": [
           {
             "company": "Alta Ares",
@@ -860,14 +860,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 10751630516,
-          "number_of_deals": 113,
-          "average_deal_size": 95147172
+          "total_funding": 10781630516,
+          "number_of_deals": 116,
+          "average_deal_size": 92945090
         },
         "pct_change": {
-          "funding": 75,
-          "deals": 4,
-          "avg": 67
+          "funding": 74,
+          "deals": -1,
+          "avg": 75
         }
       }
     },
