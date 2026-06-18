@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T16:51:34Z",
+  "generated_at": "2026-06-18T16:51:20Z",
   "source": "https://defensemetrics.io (Airtable)",
-  "total_rounds": 402,
+  "total_rounds": 411,
   "totals_by_year": {
     "2013": {
       "amount": 0,
@@ -48,12 +48,12 @@
       "rounds": 76
     },
     "2025": {
-      "amount": 12020101656,
-      "rounds": 122
+      "amount": 12263601656,
+      "rounds": 128
     },
     "2026": {
-      "amount": 13554600000,
-      "rounds": 63
+      "amount": 13641600000,
+      "rounds": 66
     }
   },
   "by_year_category": {
@@ -265,30 +265,30 @@
         "rounds": 14
       },
       "Software & IT Services": {
-        "amount": 5133000000,
-        "rounds": 34
+        "amount": 5171000000,
+        "rounds": 35
       },
       "Platform Systems": {
-        "amount": 2100497656,
-        "rounds": 30
+        "amount": 2201997656,
+        "rounds": 33
       },
       "Electronic Systems": {
         "amount": 1339600000,
         "rounds": 13
       },
       "Support & Services": {
-        "amount": 1096300000,
-        "rounds": 21
+        "amount": 1100300000,
+        "rounds": 22
       },
       "Weapon Systems": {
-        "amount": 700500000,
-        "rounds": 10
+        "amount": 800500000,
+        "rounds": 11
       }
     },
     "2026": {
       "Platform Systems": {
-        "amount": 3026700000,
-        "rounds": 19
+        "amount": 3056700000,
+        "rounds": 20
       },
       "Support & Services": {
         "amount": 558100000,
@@ -299,12 +299,12 @@
         "rounds": 7
       },
       "Software & IT Services": {
-        "amount": 7579000000,
-        "rounds": 15
+        "amount": 7611000000,
+        "rounds": 16
       },
       "Weapon Systems": {
-        "amount": 315700000,
-        "rounds": 7
+        "amount": 340700000,
+        "rounds": 8
       },
       "Electronic Systems": {
         "amount": 442100000,
@@ -315,10 +315,28 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 1746800000,
-        "number_of_deals": 11,
-        "average_deal_size": 158800000,
+        "total_funding": 1833800000,
+        "number_of_deals": 14,
+        "average_deal_size": 130985714,
         "recent_rounds": [
+          {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Powerus",
+            "stage": "Strategic",
+            "amount": 30000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
+          },
           {
             "company": "Alta Ares",
             "stage": "Undisclosed",
@@ -360,24 +378,6 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Picogrid",
-            "stage": "Series A",
-            "amount": 45000000,
-            "date": "2026-05-29"
-          },
-          {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
           }
         ],
         "top_rounds": [
@@ -430,16 +430,16 @@
             "date": "2026-05-29"
           },
           {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
+          },
+          {
             "company": "Airis Labs",
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Shifters",
-            "stage": "Seed",
-            "amount": 10200000,
-            "date": "2026-06-03"
           }
         ],
         "prev_period": {
@@ -448,16 +448,34 @@
           "average_deal_size": 432200000
         },
         "pct_change": {
-          "funding": -73,
-          "deals": -27,
-          "avg": -63
+          "funding": -72,
+          "deals": -7,
+          "avg": -70
         }
       },
       "3m": {
-        "total_funding": 12005500000,
-        "number_of_deals": 37,
-        "average_deal_size": 324472972,
+        "total_funding": 12092500000,
+        "number_of_deals": 40,
+        "average_deal_size": 302312500,
         "recent_rounds": [
+          {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Powerus",
+            "stage": "Strategic",
+            "amount": 30000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
+          },
           {
             "company": "Alta Ares",
             "stage": "Undisclosed",
@@ -499,24 +517,6 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Picogrid",
-            "stage": "Series A",
-            "amount": 45000000,
-            "date": "2026-05-29"
-          },
-          {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
           }
         ],
         "top_rounds": [
@@ -587,16 +587,34 @@
           "average_deal_size": 59580769
         },
         "pct_change": {
-          "funding": 675,
-          "deals": 42,
-          "avg": 445
+          "funding": 681,
+          "deals": 54,
+          "avg": 407
         }
       },
       "6m": {
-        "total_funding": 13554600000,
-        "number_of_deals": 63,
-        "average_deal_size": 215152380,
+        "total_funding": 13641600000,
+        "number_of_deals": 66,
+        "average_deal_size": 206690909,
         "recent_rounds": [
+          {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Powerus",
+            "stage": "Strategic",
+            "amount": 30000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
+          },
           {
             "company": "Alta Ares",
             "stage": "Undisclosed",
@@ -638,24 +656,6 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Picogrid",
-            "stage": "Series A",
-            "amount": 45000000,
-            "date": "2026-05-29"
-          },
-          {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
           }
         ],
         "top_rounds": [
@@ -721,21 +721,39 @@
           }
         ],
         "prev_period": {
-          "total_funding": 3763951140,
-          "number_of_deals": 48,
-          "average_deal_size": 78415648
+          "total_funding": 4007451140,
+          "number_of_deals": 54,
+          "average_deal_size": 74212058
         },
         "pct_change": {
-          "funding": 260,
-          "deals": 31,
-          "avg": 174
+          "funding": 240,
+          "deals": 22,
+          "avg": 179
         }
       },
       "1y": {
-        "total_funding": 18736551140,
-        "number_of_deals": 115,
-        "average_deal_size": 162926531,
+        "total_funding": 17674051140,
+        "number_of_deals": 121,
+        "average_deal_size": 146066538,
         "recent_rounds": [
+          {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Powerus",
+            "stage": "Strategic",
+            "amount": 30000000,
+            "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
+          },
           {
             "company": "Alta Ares",
             "stage": "Undisclosed",
@@ -777,24 +795,6 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
-          },
-          {
-            "company": "Picogrid",
-            "stage": "Series A",
-            "amount": 45000000,
-            "date": "2026-05-29"
-          },
-          {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
           }
         ],
         "top_rounds": [
@@ -817,22 +817,10 @@
             "date": "2026-03-26"
           },
           {
-            "company": "Helsing",
-            "stage": "Series D",
-            "amount": 693000000,
-            "date": "2025-06-17"
-          },
-          {
             "company": "True Anomaly",
             "stage": "Series C",
             "amount": 650000000,
             "date": "2026-04-28"
-          },
-          {
-            "company": "Applied Intuition",
-            "stage": "Series F",
-            "amount": 600000000,
-            "date": "2025-06-17"
           },
           {
             "company": "Stoke",
@@ -857,17 +845,29 @@
             "stage": "Series B",
             "amount": 350000000,
             "date": "2025-12-05"
+          },
+          {
+            "company": "Mach Industries",
+            "stage": "Series C",
+            "amount": 300000000,
+            "date": "2026-06-02"
+          },
+          {
+            "company": "AMCA",
+            "stage": "Series B",
+            "amount": 300000000,
+            "date": "2026-05-20"
           }
         ],
         "prev_period": {
-          "total_funding": 10781630516,
-          "number_of_deals": 116,
-          "average_deal_size": 92945090
+          "total_funding": 12174630516,
+          "number_of_deals": 119,
+          "average_deal_size": 102307819
         },
         "pct_change": {
-          "funding": 74,
-          "deals": -1,
-          "avg": 75
+          "funding": 45,
+          "deals": 2,
+          "avg": 43
         }
       }
     },
@@ -890,22 +890,22 @@
         579.0,
         236.7,
         706.6,
-        795.0,
-        773.0,
-        583.0,
+        805.5,
+        946.0,
+        643.0,
         497.1,
         832.0,
         3616.7,
         1376.0,
         6167.0,
-        1065.8
+        1152.8
       ],
       "by_bucket": {
         "Seed": [
           19.1,
           19.0,
           18.3,
-          30.0,
+          40.5,
           0.0,
           0.0,
           7.1,
@@ -913,21 +913,21 @@
           8.7,
           41.0,
           10.0,
-          11.8
+          36.8
         ],
         "Early Stage Venture": [
           162.9,
           177.0,
           258.7,
           105.0,
-          75.0,
-          374.0,
+          113.0,
+          434.0,
           490.0,
           402.5,
           335.0,
           375.0,
           782.0,
-          200.0
+          232.0
         ],
         "Late Stage Venture": [
           260.0,
@@ -948,14 +948,14 @@
           10.7,
           294.5,
           150.0,
-          0.0,
+          135.0,
           0.0,
           0.0,
           102.0,
           0.0,
           200.0,
           0.0,
-          54.0
+          84.0
         ]
       }
     }
