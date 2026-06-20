@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:28:06Z",
+  "generated_at": "2026-06-20T15:28:53Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 1603800000,
-        "number_of_deals": 13,
-        "average_deal_size": 123369230,
+        "total_funding": 1303800000,
+        "number_of_deals": 12,
+        "average_deal_size": 108650000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -394,12 +394,6 @@
             "date": "2026-06-02"
           },
           {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
-          },
-          {
             "company": "Allen Control Systems",
             "stage": "Series B",
             "amount": 200000000,
@@ -440,17 +434,23 @@
             "stage": "Strategic",
             "amount": 30000000,
             "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
           }
         ],
         "prev_period": {
-          "total_funding": 6713000000,
+          "total_funding": 6999000000,
           "number_of_deals": 16,
-          "average_deal_size": 419562500
+          "average_deal_size": 437437500
         },
         "pct_change": {
-          "funding": -76,
-          "deals": -19,
-          "avg": -71
+          "funding": -81,
+          "deals": -25,
+          "avg": -75
         }
       },
       "3m": {
@@ -721,14 +721,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4007451140,
-          "number_of_deals": 54,
-          "average_deal_size": 74212058
+          "total_funding": 3988751140,
+          "number_of_deals": 52,
+          "average_deal_size": 76706752
         },
         "pct_change": {
-          "funding": 240,
-          "deals": 22,
-          "avg": 179
+          "funding": 242,
+          "deals": 27,
+          "avg": 169
         }
       },
       "1y": {
