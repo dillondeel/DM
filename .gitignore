@@ -1,0 +1,6 @@
+# Raw Airtable exports with internal record IDs
+result.csv
+
+# Environment files
+.env
+.env.*
