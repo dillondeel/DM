@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T16:09:24Z",
+  "generated_at": "2026-06-25T16:16:20Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -454,9 +454,9 @@
         }
       },
       "3m": {
-        "total_funding": 11973800000,
-        "number_of_deals": 38,
-        "average_deal_size": 315100000,
+        "total_funding": 10473800000,
+        "number_of_deals": 37,
+        "average_deal_size": 283075675,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -533,12 +533,6 @@
             "date": "2026-03-31"
           },
           {
-            "company": "Shield AI",
-            "stage": "Series G",
-            "amount": 1500000000,
-            "date": "2026-03-26"
-          },
-          {
             "company": "True Anomaly",
             "stage": "Series C",
             "amount": 650000000,
@@ -579,17 +573,23 @@
             "stage": "Undisclosed",
             "amount": 200000000,
             "date": "2026-04-07"
+          },
+          {
+            "company": "Allen Control Systems",
+            "stage": "Series B",
+            "amount": 200000000,
+            "date": "2026-06-05"
           }
         ],
         "prev_period": {
-          "total_funding": 1667800000,
-          "number_of_deals": 28,
-          "average_deal_size": 59564285
+          "total_funding": 3167800000,
+          "number_of_deals": 29,
+          "average_deal_size": 109234482
         },
         "pct_change": {
-          "funding": 618,
-          "deals": 36,
-          "avg": 429
+          "funding": 231,
+          "deals": 28,
+          "avg": 159
         }
       },
       "6m": {
@@ -732,9 +732,9 @@
         }
       },
       "1y": {
-        "total_funding": 17649051140,
-        "number_of_deals": 120,
-        "average_deal_size": 147075426,
+        "total_funding": 17630351140,
+        "number_of_deals": 118,
+        "average_deal_size": 149409755,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -860,14 +860,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 12134630516,
-          "number_of_deals": 119,
-          "average_deal_size": 101971685
+          "total_funding": 12153330516,
+          "number_of_deals": 121,
+          "average_deal_size": 100440748
         },
         "pct_change": {
           "funding": 45,
-          "deals": 1,
-          "avg": 44
+          "deals": -2,
+          "avg": 49
         }
       }
     },
