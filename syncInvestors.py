@@ -1,59 +1,62 @@
+import logging
+import sys
+
 import requests
 import csv
 import io
 import os
 
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+logger = logging.getLogger(__name__)
+
 # Airtable setup
-base_id = "appQY8Pco55RA0JSp"
+base_id = os.getenv("AIRTABLE_BASE_ID", "appQY8Pco55RA0JSp")
 main_table = "Investors"
-headers = {"Authorization": f"Bearer {os.getenv('AIRTABLE_API_KEY')}"}
+
+api_key = os.getenv("AIRTABLE_API_KEY")
+if not api_key:
+    logger.error("AIRTABLE_API_KEY environment variable is not set")
+    sys.exit(1)
+headers = {"Authorization": f"Bearer {api_key}"}
 
 # Linked tables (fields that return IDs)
 linked_tables = {
     "Funded Rounds": "Fundraising%20Rounds%20-%20Companies",
-    "Companies Funded": "Companies"  # Added to handle Companies Funded field
+    "Companies Funded": "Companies"
 }
+
+
+def fetch_paginated(url, headers):
+    """Fetch all records from an Airtable endpoint with pagination."""
+    all_records = []
+    offset = None
+    while True:
+        params = {"offset": offset} if offset else {}
+        response = requests.get(url, headers=headers, params=params, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        all_records.extend(data["records"])
+        offset = data.get("offset")
+        if not offset:
+            break
+    return all_records
+
 
 # Fetch data from linked tables
 linked_data = {}
 for field, table in linked_tables.items():
     url = f"https://api.airtable.com/v0/{base_id}/{table}"
-    all_linked_records = []
-    offset = None
-    while True:
-        params = {"offset": offset} if offset else {}
-        response = requests.get(url, headers=headers, params=params)
-        data = response.json()
-        all_linked_records.extend(data["records"])
-        offset = data.get("offset")
-        if not offset:
-            break
+    all_linked_records = fetch_paginated(url, headers)
     if field == "Funded Rounds":
         linked_data[field] = {record["id"]: record["fields"].get("Fundraising Round", record["id"]) for record in all_linked_records}
-        print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
     elif field == "Companies Funded":
         linked_data[field] = {record["id"]: record["fields"].get("Company", record["id"]) for record in all_linked_records}
-        print(f"Sample mapping for {field}: {list(linked_data[field].items())[:3]}")  # Debug: Show some mappings
-    if all_linked_records:
-        print(f"Sample {table} record: {all_linked_records[0]['fields']}")
-        print(f"Total {table} records fetched: {len(all_linked_records)}")
+    logger.info("Fetched %d records from %s", len(all_linked_records), table)
 
 # Fetch all records from the "Investors" table with pagination
 url_main = f"https://api.airtable.com/v0/{base_id}/{main_table}"
-all_records = []
-offset = None
-while True:
-    params = {"offset": offset} if offset else {}
-    response = requests.get(url_main, headers=headers, params=params)
-    data = response.json()
-    all_records.extend(data["records"])
-    offset = data.get("offset")
-    if not offset:
-        break
-
-# Debug: Print sample raw record from the "Investors" table
-if all_records:
-    print(f"Sample Investors record: {all_records[0]['fields']}")
+all_records = fetch_paginated(url_main, headers)
+logger.info("Fetched %d Investors records", len(all_records))
 
 # Extract fields and transform linked records
 fields = set()
@@ -69,7 +72,6 @@ for record in all_records:
             if isinstance(value, list):
                 mapped_values = [linked_data[field].get(id, id) for id in value]
                 transformed[field] = ", ".join(mapped_values) if mapped_values else ""
-                print(f"Transformed {field} for {transformed.get('Fund', 'unknown')}: {transformed[field]}")  # Debug: Trace transformation
             else:
                 transformed[field] = linked_data[field].get(value, value) if value else ""
     # Handle Unique Companies as a formula field
