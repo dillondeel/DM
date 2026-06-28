@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:08:37Z",
+  "generated_at": "2026-06-28T15:11:59Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 1303800000,
-        "number_of_deals": 12,
-        "average_deal_size": 108650000,
+        "total_funding": 1228800000,
+        "number_of_deals": 11,
+        "average_deal_size": 111709090,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -400,12 +400,6 @@
             "date": "2026-06-05"
           },
           {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
             "company": "Alta Ares",
             "stage": "Undisclosed",
             "amount": 54000000,
@@ -440,17 +434,23 @@
             "stage": "Seed",
             "amount": 25000000,
             "date": "2026-06-16"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
           }
         ],
         "prev_period": {
-          "total_funding": 6864000000,
-          "number_of_deals": 14,
-          "average_deal_size": 490285714
+          "total_funding": 6278000000,
+          "number_of_deals": 13,
+          "average_deal_size": 482923076
         },
         "pct_change": {
-          "funding": -81,
-          "deals": -14,
-          "avg": -78
+          "funding": -80,
+          "deals": -15,
+          "avg": -77
         }
       },
       "3m": {
