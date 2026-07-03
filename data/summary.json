@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T15:59:57Z",
+  "generated_at": "2026-07-03T15:49:04Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 1152800000,
-        "number_of_deals": 9,
-        "average_deal_size": 128088888,
+        "total_funding": 352800000,
+        "number_of_deals": 7,
+        "average_deal_size": 50400000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -360,33 +360,9 @@
             "stage": "Seed",
             "amount": 1600000,
             "date": "2026-06-03"
-          },
-          {
-            "company": "Mach Industries",
-            "stage": "Series C",
-            "amount": 300000000,
-            "date": "2026-06-02"
-          },
-          {
-            "company": "Impulse Space",
-            "stage": "Series D",
-            "amount": 500000000,
-            "date": "2026-06-02"
           }
         ],
         "top_rounds": [
-          {
-            "company": "Impulse Space",
-            "stage": "Series D",
-            "amount": 500000000,
-            "date": "2026-06-02"
-          },
-          {
-            "company": "Mach Industries",
-            "stage": "Series C",
-            "amount": 300000000,
-            "date": "2026-06-02"
-          },
           {
             "company": "Allen Control Systems",
             "stage": "Series B",
@@ -431,14 +407,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 6167000000,
-          "number_of_deals": 12,
-          "average_deal_size": 513916666
+          "total_funding": 6967000000,
+          "number_of_deals": 14,
+          "average_deal_size": 497642857
         },
         "pct_change": {
-          "funding": -81,
-          "deals": -25,
-          "avg": -75
+          "funding": -95,
+          "deals": -50,
+          "avg": -90
         }
       },
       "3m": {
