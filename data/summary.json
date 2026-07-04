@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T15:49:04Z",
+  "generated_at": "2026-07-04T14:58:00Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 352800000,
-        "number_of_deals": 7,
-        "average_deal_size": 50400000,
+        "total_funding": 341000000,
+        "number_of_deals": 5,
+        "average_deal_size": 68200000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -348,18 +348,6 @@
             "stage": "Series B",
             "amount": 200000000,
             "date": "2026-06-05"
-          },
-          {
-            "company": "Shifters",
-            "stage": "Seed",
-            "amount": 10200000,
-            "date": "2026-06-03"
-          },
-          {
-            "company": "Molfar Defence Technologies",
-            "stage": "Seed",
-            "amount": 1600000,
-            "date": "2026-06-03"
           }
         ],
         "top_rounds": [
@@ -392,29 +380,17 @@
             "stage": "Seed",
             "amount": 25000000,
             "date": "2026-06-16"
-          },
-          {
-            "company": "Shifters",
-            "stage": "Seed",
-            "amount": 10200000,
-            "date": "2026-06-03"
-          },
-          {
-            "company": "Molfar Defence Technologies",
-            "stage": "Seed",
-            "amount": 1600000,
-            "date": "2026-06-03"
           }
         ],
         "prev_period": {
-          "total_funding": 6967000000,
-          "number_of_deals": 14,
-          "average_deal_size": 497642857
+          "total_funding": 6978800000,
+          "number_of_deals": 16,
+          "average_deal_size": 436175000
         },
         "pct_change": {
           "funding": -95,
-          "deals": -50,
-          "avg": -90
+          "deals": -69,
+          "avg": -84
         }
       },
       "3m": {
