@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T16:47:45Z",
+  "generated_at": "2026-07-07T16:18:27Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -382,9 +382,9 @@
         }
       },
       "3m": {
-        "total_funding": 8695800000,
-        "number_of_deals": 35,
-        "average_deal_size": 248451428,
+        "total_funding": 8395800000,
+        "number_of_deals": 33,
+        "average_deal_size": 254418181,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -491,12 +491,6 @@
             "date": "2026-05-19"
           },
           {
-            "company": "Hermeus",
-            "stage": "Undisclosed",
-            "amount": 200000000,
-            "date": "2026-04-07"
-          },
-          {
             "company": "Allen Control Systems",
             "stage": "Series B",
             "amount": 200000000,
@@ -507,17 +501,23 @@
             "stage": "Series F",
             "amount": 110000000,
             "date": "2026-04-23"
+          },
+          {
+            "company": "HavocAI",
+            "stage": "Extension",
+            "amount": 100000000,
+            "date": "2026-05-12"
           }
         ],
         "prev_period": {
-          "total_funding": 4845800000,
-          "number_of_deals": 30,
-          "average_deal_size": 161526666
+          "total_funding": 5145800000,
+          "number_of_deals": 32,
+          "average_deal_size": 160806250
         },
         "pct_change": {
-          "funding": 79,
-          "deals": 17,
-          "avg": 54
+          "funding": 63,
+          "deals": 3,
+          "avg": 58
         }
       },
       "6m": {
