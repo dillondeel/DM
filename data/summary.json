@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:57:43Z",
+  "generated_at": "2026-07-09T16:22:42Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -315,9 +315,9 @@
   "dashboard": {
     "windows": {
       "30d": {
-        "total_funding": 141000000,
-        "number_of_deals": 4,
-        "average_deal_size": 35250000,
+        "total_funding": 87000000,
+        "number_of_deals": 3,
+        "average_deal_size": 29000000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -336,21 +336,9 @@
             "stage": "Seed",
             "amount": 25000000,
             "date": "2026-06-16"
-          },
-          {
-            "company": "Alta Ares",
-            "stage": "Undisclosed",
-            "amount": 54000000,
-            "date": "2026-06-08"
           }
         ],
         "top_rounds": [
-          {
-            "company": "Alta Ares",
-            "stage": "Undisclosed",
-            "amount": 54000000,
-            "date": "2026-06-08"
-          },
           {
             "company": "Comand AI",
             "stage": "Series A",
@@ -371,14 +359,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 6848800000,
-          "number_of_deals": 15,
-          "average_deal_size": 456586666
+          "total_funding": 6902800000,
+          "number_of_deals": 16,
+          "average_deal_size": 431425000
         },
         "pct_change": {
-          "funding": -98,
-          "deals": -73,
-          "avg": -92
+          "funding": -99,
+          "deals": -81,
+          "avg": -93
         }
       },
       "3m": {
