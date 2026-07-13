@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:47:28Z",
+  "generated_at": "2026-07-13T16:21:43Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -359,20 +359,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 6774800000,
-          "number_of_deals": 14,
-          "average_deal_size": 483914285
+          "total_funding": 1774800000,
+          "number_of_deals": 13,
+          "average_deal_size": 136523076
         },
         "pct_change": {
-          "funding": -99,
-          "deals": -79,
-          "avg": -94
+          "funding": -95,
+          "deals": -77,
+          "avg": -79
         }
       },
       "3m": {
-        "total_funding": 8395800000,
-        "number_of_deals": 33,
-        "average_deal_size": 254418181,
+        "total_funding": 8370800000,
+        "number_of_deals": 32,
+        "average_deal_size": 261587500,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -498,20 +498,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4891800000,
+          "total_funding": 4780800000,
           "number_of_deals": 30,
-          "average_deal_size": 163060000
+          "average_deal_size": 159360000
         },
         "pct_change": {
-          "funding": 72,
-          "deals": 10,
-          "avg": 56
+          "funding": 75,
+          "deals": 7,
+          "avg": 64
         }
       },
       "6m": {
-        "total_funding": 13287600000,
-        "number_of_deals": 63,
-        "average_deal_size": 210914285,
+        "total_funding": 13151600000,
+        "number_of_deals": 62,
+        "average_deal_size": 212122580,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -637,14 +637,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4215451140,
-          "number_of_deals": 49,
-          "average_deal_size": 86029615
+          "total_funding": 4088951140,
+          "number_of_deals": 48,
+          "average_deal_size": 85186482
         },
         "pct_change": {
-          "funding": 215,
+          "funding": 222,
           "deals": 29,
-          "avg": 145
+          "avg": 149
         }
       },
       "1y": {
