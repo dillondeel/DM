@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:16:43Z",
+  "generated_at": "2026-07-15T15:18:51Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -359,20 +359,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 1764800000,
-          "number_of_deals": 12,
-          "average_deal_size": 147066666
+          "total_funding": 1746800000,
+          "number_of_deals": 11,
+          "average_deal_size": 158800000
         },
         "pct_change": {
           "funding": -95,
-          "deals": -75,
-          "avg": -80
+          "deals": -73,
+          "avg": -82
         }
       },
       "3m": {
         "total_funding": 8354800000,
-        "number_of_deals": 31,
-        "average_deal_size": 269509677,
+        "number_of_deals": 30,
+        "average_deal_size": 278493333,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -499,13 +499,13 @@
         ],
         "prev_period": {
           "total_funding": 4789700000,
-          "number_of_deals": 30,
-          "average_deal_size": 159656666
+          "number_of_deals": 31,
+          "average_deal_size": 154506451
         },
         "pct_change": {
           "funding": 74,
-          "deals": 3,
-          "avg": 69
+          "deals": -3,
+          "avg": 80
         }
       },
       "6m": {
