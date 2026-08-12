@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:50:29Z",
+  "generated_at": "2026-08-12T14:49:50Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -332,9 +332,9 @@
         }
       },
       "3m": {
-        "total_funding": 6861800000,
-        "number_of_deals": 17,
-        "average_deal_size": 403635294,
+        "total_funding": 1861800000,
+        "number_of_deals": 16,
+        "average_deal_size": 116362500,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -399,12 +399,6 @@
         ],
         "top_rounds": [
           {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
-          },
-          {
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
@@ -457,17 +451,23 @@
             "stage": "Series A",
             "amount": 32000000,
             "date": "2026-06-17"
+          },
+          {
+            "company": "Airis Labs",
+            "stage": "Series B",
+            "amount": 31000000,
+            "date": "2026-05-31"
           }
         ],
         "prev_period": {
-          "total_funding": 5884700000,
-          "number_of_deals": 39,
-          "average_deal_size": 150889743
+          "total_funding": 10884700000,
+          "number_of_deals": 40,
+          "average_deal_size": 272117500
         },
         "pct_change": {
-          "funding": 17,
-          "deals": -56,
-          "avg": 168
+          "funding": -83,
+          "deals": -60,
+          "avg": -57
         }
       },
       "6m": {
