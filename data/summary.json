@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:13:16Z",
+  "generated_at": "2026-08-17T14:18:04Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -321,14 +321,14 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 62000000,
-          "number_of_deals": 2,
-          "average_deal_size": 31000000
+          "total_funding": 0,
+          "number_of_deals": 0,
+          "average_deal_size": 0
         },
         "pct_change": {
-          "funding": -100,
-          "deals": -100,
-          "avg": -100
+          "funding": 0,
+          "deals": 0,
+          "avg": 0
         }
       },
       "3m": {
@@ -460,20 +460,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 10846700000,
-          "number_of_deals": 40,
-          "average_deal_size": 271167500
+          "total_funding": 10826700000,
+          "number_of_deals": 38,
+          "average_deal_size": 284913157
         },
         "pct_change": {
           "funding": -83,
-          "deals": -65,
-          "avg": -52
+          "deals": -63,
+          "avg": -54
         }
       },
       "6m": {
-        "total_funding": 12680500000,
-        "number_of_deals": 54,
-        "average_deal_size": 234824074,
+        "total_funding": 12660500000,
+        "number_of_deals": 52,
+        "average_deal_size": 243471153,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -599,14 +599,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4192551140,
-          "number_of_deals": 44,
-          "average_deal_size": 95285253
+          "total_funding": 4201851140,
+          "number_of_deals": 45,
+          "average_deal_size": 93374469
         },
         "pct_change": {
-          "funding": 202,
-          "deals": 23,
-          "avg": 146
+          "funding": 201,
+          "deals": 16,
+          "avg": 161
         }
       },
       "1y": {
