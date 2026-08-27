@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:35:02Z",
+  "generated_at": "2026-08-27T23:22:12Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -332,9 +332,9 @@
         }
       },
       "3m": {
-        "total_funding": 1303800000,
-        "number_of_deals": 12,
-        "average_deal_size": 108650000,
+        "total_funding": 1228800000,
+        "number_of_deals": 11,
+        "average_deal_size": 111709090,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -417,12 +417,6 @@
             "date": "2026-06-05"
           },
           {
-            "company": "TEKEVER",
-            "stage": "Strategic",
-            "amount": 75000000,
-            "date": "2026-05-28"
-          },
-          {
             "company": "Alta Ares",
             "stage": "Undisclosed",
             "amount": 54000000,
@@ -457,17 +451,23 @@
             "stage": "Seed",
             "amount": 25000000,
             "date": "2026-06-16"
+          },
+          {
+            "company": "Shifters",
+            "stage": "Seed",
+            "amount": 10200000,
+            "date": "2026-06-03"
           }
         ],
         "prev_period": {
-          "total_funding": 11008700000,
-          "number_of_deals": 33,
-          "average_deal_size": 333596969
+          "total_funding": 11083700000,
+          "number_of_deals": 34,
+          "average_deal_size": 325991176
         },
         "pct_change": {
-          "funding": -88,
-          "deals": -64,
-          "avg": -67
+          "funding": -89,
+          "deals": -68,
+          "avg": -66
         }
       },
       "6m": {
@@ -610,9 +610,9 @@
         }
       },
       "1y": {
-        "total_funding": 16862351140,
-        "number_of_deals": 97,
-        "average_deal_size": 173838671,
+        "total_funding": 16812351140,
+        "number_of_deals": 96,
+        "average_deal_size": 175128657,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -738,14 +738,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 10553330516,
-          "number_of_deals": 130,
-          "average_deal_size": 81179465
+          "total_funding": 10603330516,
+          "number_of_deals": 131,
+          "average_deal_size": 80941454
         },
         "pct_change": {
-          "funding": 60,
-          "deals": -25,
-          "avg": 114
+          "funding": 59,
+          "deals": -27,
+          "avg": 116
         }
       }
     },
