@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T23:22:12Z",
+  "generated_at": "2026-08-28T23:17:55Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -332,9 +332,9 @@
         }
       },
       "3m": {
-        "total_funding": 1228800000,
-        "number_of_deals": 11,
-        "average_deal_size": 111709090,
+        "total_funding": 1183800000,
+        "number_of_deals": 10,
+        "average_deal_size": 118380000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -423,12 +423,6 @@
             "date": "2026-06-08"
           },
           {
-            "company": "Picogrid",
-            "stage": "Series A",
-            "amount": 45000000,
-            "date": "2026-05-29"
-          },
-          {
             "company": "Comand AI",
             "stage": "Series A",
             "amount": 32000000,
@@ -457,17 +451,23 @@
             "stage": "Seed",
             "amount": 10200000,
             "date": "2026-06-03"
+          },
+          {
+            "company": "Molfar Defence Technologies",
+            "stage": "Seed",
+            "amount": 1600000,
+            "date": "2026-06-03"
           }
         ],
         "prev_period": {
-          "total_funding": 11083700000,
-          "number_of_deals": 34,
-          "average_deal_size": 325991176
+          "total_funding": 11128700000,
+          "number_of_deals": 35,
+          "average_deal_size": 317962857
         },
         "pct_change": {
           "funding": -89,
-          "deals": -68,
-          "avg": -66
+          "deals": -71,
+          "avg": -63
         }
       },
       "6m": {
