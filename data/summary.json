@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:44:54Z",
+  "generated_at": "2026-09-01T17:30:21Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -332,9 +332,9 @@
         }
       },
       "3m": {
-        "total_funding": 1152800000,
-        "number_of_deals": 9,
-        "average_deal_size": 128088888,
+        "total_funding": 352800000,
+        "number_of_deals": 7,
+        "average_deal_size": 50400000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -377,33 +377,9 @@
             "stage": "Seed",
             "amount": 1600000,
             "date": "2026-06-03"
-          },
-          {
-            "company": "Mach Industries",
-            "stage": "Series C",
-            "amount": 300000000,
-            "date": "2026-06-02"
-          },
-          {
-            "company": "Impulse Space",
-            "stage": "Series D",
-            "amount": 500000000,
-            "date": "2026-06-02"
           }
         ],
         "top_rounds": [
-          {
-            "company": "Impulse Space",
-            "stage": "Series D",
-            "amount": 500000000,
-            "date": "2026-06-02"
-          },
-          {
-            "company": "Mach Industries",
-            "stage": "Series C",
-            "amount": 300000000,
-            "date": "2026-06-02"
-          },
           {
             "company": "Allen Control Systems",
             "stage": "Series B",
@@ -448,20 +424,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 11159700000,
-          "number_of_deals": 36,
-          "average_deal_size": 309991666
+          "total_funding": 11936700000,
+          "number_of_deals": 37,
+          "average_deal_size": 322613513
         },
         "pct_change": {
-          "funding": -90,
-          "deals": -75,
-          "avg": -59
+          "funding": -97,
+          "deals": -81,
+          "avg": -84
         }
       },
       "6m": {
-        "total_funding": 12312500000,
-        "number_of_deals": 45,
-        "average_deal_size": 273611111,
+        "total_funding": 12289500000,
+        "number_of_deals": 44,
+        "average_deal_size": 279306818,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -587,14 +563,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4284151140,
-          "number_of_deals": 46,
-          "average_deal_size": 93133720
+          "total_funding": 4307151140,
+          "number_of_deals": 47,
+          "average_deal_size": 91641513
         },
         "pct_change": {
-          "funding": 187,
-          "deals": -2,
-          "avg": 194
+          "funding": 185,
+          "deals": -6,
+          "avg": 205
         }
       },
       "1y": {
@@ -739,7 +715,6 @@
     },
     "chart_ttm": {
       "months": [
-        "Sep 25",
         "Oct 25",
         "Nov 25",
         "Dec 25",
@@ -750,10 +725,10 @@
         "May 26",
         "Jun 26",
         "Jul 26",
-        "Aug 26"
+        "Aug 26",
+        "Sep 26"
       ],
       "total": [
-        706.6,
         805.5,
         946.0,
         643.0,
@@ -764,11 +739,11 @@
         6167.0,
         1152.8,
         0.0,
+        0.0,
         0.0
       ],
       "by_bucket": {
         "Seed": [
-          18.3,
           40.5,
           0.0,
           0.0,
@@ -779,10 +754,10 @@
           10.0,
           36.8,
           0.0,
+          0.0,
           0.0
         ],
         "Early Stage Venture": [
-          258.7,
           105.0,
           113.0,
           434.0,
@@ -793,10 +768,10 @@
           782.0,
           232.0,
           0.0,
+          0.0,
           0.0
         ],
         "Late Stage Venture": [
-          135.0,
           510.0,
           698.0,
           209.0,
@@ -807,10 +782,10 @@
           5375.0,
           800.0,
           0.0,
+          0.0,
           0.0
         ],
         "Miscellaneous": [
-          294.5,
           150.0,
           135.0,
           0.0,
@@ -820,6 +795,7 @@
           200.0,
           0.0,
           84.0,
+          0.0,
           0.0,
           0.0
         ]
