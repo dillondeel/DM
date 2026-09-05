@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:16:29Z",
+  "generated_at": "2026-09-05T16:23:07Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -527,14 +527,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 4382651140,
-          "number_of_deals": 47,
-          "average_deal_size": 93247896
+          "total_funding": 4329947140,
+          "number_of_deals": 46,
+          "average_deal_size": 94129285
         },
         "pct_change": {
-          "funding": 179,
-          "deals": -9,
-          "avg": 205
+          "funding": 182,
+          "deals": -7,
+          "avg": 202
         }
       },
       "1y": {
