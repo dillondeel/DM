@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:57:20Z",
+  "generated_at": "2026-09-15T17:50:03Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -332,9 +332,9 @@
         }
       },
       "3m": {
-        "total_funding": 87000000,
-        "number_of_deals": 3,
-        "average_deal_size": 29000000,
+        "total_funding": 62000000,
+        "number_of_deals": 2,
+        "average_deal_size": 31000000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -347,12 +347,6 @@
             "stage": "Strategic",
             "amount": 30000000,
             "date": "2026-06-17"
-          },
-          {
-            "company": "Traysar",
-            "stage": "Seed",
-            "amount": 25000000,
-            "date": "2026-06-16"
           }
         ],
         "top_rounds": [
@@ -367,23 +361,17 @@
             "stage": "Strategic",
             "amount": 30000000,
             "date": "2026-06-17"
-          },
-          {
-            "company": "Traysar",
-            "stage": "Seed",
-            "amount": 25000000,
-            "date": "2026-06-16"
           }
         ],
         "prev_period": {
-          "total_funding": 12005500000,
-          "number_of_deals": 37,
-          "average_deal_size": 324472972
+          "total_funding": 12030500000,
+          "number_of_deals": 38,
+          "average_deal_size": 316592105
         },
         "pct_change": {
           "funding": -99,
-          "deals": -92,
-          "avg": -91
+          "deals": -95,
+          "avg": -90
         }
       },
       "6m": {
