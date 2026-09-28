@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:00:14Z",
+  "generated_at": "2026-09-28T20:19:02Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 10473800000,
-          "number_of_deals": 37,
-          "average_deal_size": 283075675
+          "total_funding": 8695800000,
+          "number_of_deals": 35,
+          "average_deal_size": 248451428
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 10473800000,
-        "number_of_deals": 37,
-        "average_deal_size": 283075675,
+        "total_funding": 8695800000,
+        "number_of_deals": 35,
+        "average_deal_size": 248451428,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -422,12 +422,6 @@
             "date": "2026-05-13"
           },
           {
-            "company": "Saronic",
-            "stage": "Series D",
-            "amount": 1750000000,
-            "date": "2026-03-31"
-          },
-          {
             "company": "True Anomaly",
             "stage": "Series C",
             "amount": 650000000,
@@ -474,17 +468,23 @@
             "stage": "Series B",
             "amount": 200000000,
             "date": "2026-06-05"
+          },
+          {
+            "company": "Skydio",
+            "stage": "Series F",
+            "amount": 110000000,
+            "date": "2026-04-23"
           }
         ],
         "prev_period": {
-          "total_funding": 5562300000,
-          "number_of_deals": 46,
-          "average_deal_size": 120919565
+          "total_funding": 7340300000,
+          "number_of_deals": 48,
+          "average_deal_size": 152922916
         },
         "pct_change": {
-          "funding": 88,
-          "deals": -20,
-          "avg": 134
+          "funding": 18,
+          "deals": -27,
+          "avg": 62
         }
       },
       "1y": {
