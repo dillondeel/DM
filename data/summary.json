@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:54:55Z",
+  "generated_at": "2026-10-05T21:27:21Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 8695800000,
-          "number_of_deals": 35,
-          "average_deal_size": 248451428
+          "total_funding": 8395800000,
+          "number_of_deals": 33,
+          "average_deal_size": 254418181
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 8695800000,
-        "number_of_deals": 35,
-        "average_deal_size": 248451428,
+        "total_funding": 8395800000,
+        "number_of_deals": 33,
+        "average_deal_size": 254418181,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -458,12 +458,6 @@
             "date": "2026-05-19"
           },
           {
-            "company": "Hermeus",
-            "stage": "Undisclosed",
-            "amount": 200000000,
-            "date": "2026-04-07"
-          },
-          {
             "company": "Allen Control Systems",
             "stage": "Series B",
             "amount": 200000000,
@@ -474,17 +468,23 @@
             "stage": "Series F",
             "amount": 110000000,
             "date": "2026-04-23"
+          },
+          {
+            "company": "HavocAI",
+            "stage": "Extension",
+            "amount": 100000000,
+            "date": "2026-05-12"
           }
         ],
         "prev_period": {
-          "total_funding": 6810300000,
-          "number_of_deals": 46,
-          "average_deal_size": 148050000
+          "total_funding": 7110300000,
+          "number_of_deals": 48,
+          "average_deal_size": 148131250
         },
         "pct_change": {
-          "funding": 28,
-          "deals": -24,
-          "avg": 68
+          "funding": 18,
+          "deals": -31,
+          "avg": 72
         }
       },
       "1y": {
