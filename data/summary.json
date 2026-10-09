@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:34:13Z",
+  "generated_at": "2026-10-09T19:08:53Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -477,20 +477,20 @@
           }
         ],
         "prev_period": {
-          "total_funding": 7025300000,
-          "number_of_deals": 47,
-          "average_deal_size": 149474468
+          "total_funding": 6875300000,
+          "number_of_deals": 46,
+          "average_deal_size": 149463043
         },
         "pct_change": {
-          "funding": 20,
-          "deals": -30,
+          "funding": 22,
+          "deals": -28,
           "avg": 70
         }
       },
       "1y": {
-        "total_funding": 16036100000,
-        "number_of_deals": 83,
-        "average_deal_size": 193206024,
+        "total_funding": 15506100000,
+        "number_of_deals": 81,
+        "average_deal_size": 191433333,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -579,12 +579,6 @@
             "date": "2026-04-28"
           },
           {
-            "company": "Stoke",
-            "stage": "Series D",
-            "amount": 510000000,
-            "date": "2025-10-08"
-          },
-          {
             "company": "Chaos",
             "stage": "Series D",
             "amount": 510000000,
@@ -613,17 +607,23 @@
             "stage": "Series B",
             "amount": 300000000,
             "date": "2026-05-20"
+          },
+          {
+            "company": "Astranis",
+            "stage": "Series E",
+            "amount": 300000000,
+            "date": "2026-05-06"
           }
         ],
         "prev_period": {
-          "total_funding": 10716761656,
-          "number_of_deals": 133,
-          "average_deal_size": 80577155
+          "total_funding": 11246761656,
+          "number_of_deals": 135,
+          "average_deal_size": 83309345
         },
         "pct_change": {
-          "funding": 50,
-          "deals": -38,
-          "avg": 140
+          "funding": 38,
+          "deals": -40,
+          "avg": 130
         }
       }
     },
