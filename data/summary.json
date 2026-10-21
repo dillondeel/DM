@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:11:59Z",
+  "generated_at": "2026-10-21T18:18:20Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 8277800000,
-          "number_of_deals": 27,
-          "average_deal_size": 306585185
+          "total_funding": 8167800000,
+          "number_of_deals": 26,
+          "average_deal_size": 314146153
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 8277800000,
-        "number_of_deals": 27,
-        "average_deal_size": 306585185,
+        "total_funding": 8167800000,
+        "number_of_deals": 26,
+        "average_deal_size": 314146153,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -464,27 +464,27 @@
             "date": "2026-06-05"
           },
           {
-            "company": "Skydio",
-            "stage": "Series F",
-            "amount": 110000000,
-            "date": "2026-04-23"
-          },
-          {
             "company": "HavocAI",
             "stage": "Extension",
             "amount": 100000000,
             "date": "2026-05-12"
+          },
+          {
+            "company": "Scout AI",
+            "stage": "Series A",
+            "amount": 100000000,
+            "date": "2026-04-29"
           }
         ],
         "prev_period": {
-          "total_funding": 6952800000,
-          "number_of_deals": 49,
-          "average_deal_size": 141893877
+          "total_funding": 7062800000,
+          "number_of_deals": 50,
+          "average_deal_size": 141256000
         },
         "pct_change": {
-          "funding": 19,
-          "deals": -45,
-          "avg": 116
+          "funding": 16,
+          "deals": -48,
+          "avg": 122
         }
       },
       "1y": {
