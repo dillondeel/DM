@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:19:17Z",
+  "generated_at": "2026-10-26T19:39:20Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 8167800000,
-          "number_of_deals": 26,
-          "average_deal_size": 314146153
+          "total_funding": 7506800000,
+          "number_of_deals": 24,
+          "average_deal_size": 312783333
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 8167800000,
-        "number_of_deals": 26,
-        "average_deal_size": 314146153,
+        "total_funding": 7506800000,
+        "number_of_deals": 24,
+        "average_deal_size": 312783333,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -422,12 +422,6 @@
             "date": "2026-05-13"
           },
           {
-            "company": "True Anomaly",
-            "stage": "Series C",
-            "amount": 650000000,
-            "date": "2026-04-28"
-          },
-          {
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
@@ -474,17 +468,23 @@
             "stage": "Series A",
             "amount": 100000000,
             "date": "2026-04-29"
+          },
+          {
+            "company": "Firestorm",
+            "stage": "Series B",
+            "amount": 82000000,
+            "date": "2026-04-29"
           }
         ],
         "prev_period": {
-          "total_funding": 7062800000,
-          "number_of_deals": 50,
-          "average_deal_size": 141256000
+          "total_funding": 7723800000,
+          "number_of_deals": 52,
+          "average_deal_size": 148534615
         },
         "pct_change": {
-          "funding": 16,
-          "deals": -48,
-          "avg": 122
+          "funding": -3,
+          "deals": -54,
+          "avg": 111
         }
       },
       "1y": {
