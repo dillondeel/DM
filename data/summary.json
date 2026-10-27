@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:39:20Z",
+  "generated_at": "2026-10-27T19:05:08Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 7506800000,
-          "number_of_deals": 24,
-          "average_deal_size": 312783333
+          "total_funding": 7324800000,
+          "number_of_deals": 22,
+          "average_deal_size": 332945454
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 7506800000,
-        "number_of_deals": 24,
-        "average_deal_size": 312783333,
+        "total_funding": 7324800000,
+        "number_of_deals": 22,
+        "average_deal_size": 332945454,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -464,27 +464,27 @@
             "date": "2026-05-12"
           },
           {
-            "company": "Scout AI",
-            "stage": "Series A",
-            "amount": 100000000,
-            "date": "2026-04-29"
+            "company": "TEKEVER",
+            "stage": "Strategic",
+            "amount": 75000000,
+            "date": "2026-05-28"
           },
           {
-            "company": "Firestorm",
-            "stage": "Series B",
-            "amount": 82000000,
-            "date": "2026-04-29"
+            "company": "Alta Ares",
+            "stage": "Undisclosed",
+            "amount": 54000000,
+            "date": "2026-06-08"
           }
         ],
         "prev_period": {
-          "total_funding": 7723800000,
-          "number_of_deals": 52,
-          "average_deal_size": 148534615
+          "total_funding": 7905800000,
+          "number_of_deals": 54,
+          "average_deal_size": 146403703
         },
         "pct_change": {
-          "funding": -3,
-          "deals": -54,
-          "avg": 111
+          "funding": -7,
+          "deals": -59,
+          "avg": 127
         }
       },
       "1y": {
