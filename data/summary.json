@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:30:55Z",
+  "generated_at": "2026-11-03T20:20:36Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 7319800000,
-          "number_of_deals": 21,
-          "average_deal_size": 348561904
+          "total_funding": 7019800000,
+          "number_of_deals": 20,
+          "average_deal_size": 350990000
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 7319800000,
-        "number_of_deals": 21,
-        "average_deal_size": 348561904,
+        "total_funding": 7019800000,
+        "number_of_deals": 20,
+        "average_deal_size": 350990000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -440,12 +440,6 @@
             "date": "2026-05-20"
           },
           {
-            "company": "Astranis",
-            "stage": "Series E",
-            "amount": 300000000,
-            "date": "2026-05-06"
-          },
-          {
             "company": "Armada",
             "stage": "Series B",
             "amount": 230000000,
@@ -474,17 +468,23 @@
             "stage": "Undisclosed",
             "amount": 54000000,
             "date": "2026-06-08"
+          },
+          {
+            "company": "Picogrid",
+            "stage": "Series A",
+            "amount": 45000000,
+            "date": "2026-05-29"
           }
         ],
         "prev_period": {
-          "total_funding": 7910800000,
-          "number_of_deals": 55,
-          "average_deal_size": 143832727
+          "total_funding": 8210800000,
+          "number_of_deals": 56,
+          "average_deal_size": 146621428
         },
         "pct_change": {
-          "funding": -7,
-          "deals": -62,
-          "avg": 142
+          "funding": -15,
+          "deals": -64,
+          "avg": 139
         }
       },
       "1y": {
