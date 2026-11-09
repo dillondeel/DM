@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:34:57Z",
+  "generated_at": "2026-11-09T23:13:06Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 6989800000,
-          "number_of_deals": 19,
-          "average_deal_size": 367884210
+          "total_funding": 6861800000,
+          "number_of_deals": 17,
+          "average_deal_size": 403635294
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 6989800000,
-        "number_of_deals": 19,
-        "average_deal_size": 367884210,
+        "total_funding": 6861800000,
+        "number_of_deals": 17,
+        "average_deal_size": 403635294,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -452,12 +452,6 @@
             "date": "2026-06-05"
           },
           {
-            "company": "HavocAI",
-            "stage": "Extension",
-            "amount": 100000000,
-            "date": "2026-05-12"
-          },
-          {
             "company": "TEKEVER",
             "stage": "Strategic",
             "amount": 75000000,
@@ -474,17 +468,23 @@
             "stage": "Series A",
             "amount": 45000000,
             "date": "2026-05-29"
+          },
+          {
+            "company": "Comand AI",
+            "stage": "Series A",
+            "amount": 32000000,
+            "date": "2026-06-17"
           }
         ],
         "prev_period": {
-          "total_funding": 7977800000,
-          "number_of_deals": 55,
-          "average_deal_size": 145050909
+          "total_funding": 7595800000,
+          "number_of_deals": 56,
+          "average_deal_size": 135639285
         },
         "pct_change": {
-          "funding": -12,
-          "deals": -65,
-          "avg": 154
+          "funding": -10,
+          "deals": -70,
+          "avg": 198
         }
       },
       "1y": {
