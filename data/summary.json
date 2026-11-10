@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:13:06Z",
+  "generated_at": "2026-11-10T20:39:09Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 6861800000,
-          "number_of_deals": 17,
-          "average_deal_size": 403635294
+          "total_funding": 1861800000,
+          "number_of_deals": 16,
+          "average_deal_size": 116362500
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 6861800000,
-        "number_of_deals": 17,
-        "average_deal_size": 403635294,
+        "total_funding": 1861800000,
+        "number_of_deals": 16,
+        "average_deal_size": 116362500,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -416,12 +416,6 @@
         ],
         "top_rounds": [
           {
-            "company": "Anduril Industries",
-            "stage": "Series H",
-            "amount": 5000000000,
-            "date": "2026-05-13"
-          },
-          {
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
@@ -474,17 +468,23 @@
             "stage": "Series A",
             "amount": 32000000,
             "date": "2026-06-17"
+          },
+          {
+            "company": "Airis Labs",
+            "stage": "Series B",
+            "amount": 31000000,
+            "date": "2026-05-31"
           }
         ],
         "prev_period": {
-          "total_funding": 7595800000,
-          "number_of_deals": 56,
-          "average_deal_size": 135639285
+          "total_funding": 12595800000,
+          "number_of_deals": 57,
+          "average_deal_size": 220978947
         },
         "pct_change": {
-          "funding": -10,
-          "deals": -70,
-          "avg": 198
+          "funding": -85,
+          "deals": -72,
+          "avg": -47
         }
       },
       "1y": {
