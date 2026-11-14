@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:42:17Z",
+  "generated_at": "2026-11-14T18:54:00Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -477,9 +477,9 @@
           }
         ],
         "prev_period": {
-          "total_funding": 12623800000,
-          "number_of_deals": 59,
-          "average_deal_size": 213962711
+          "total_funding": 12523800000,
+          "number_of_deals": 58,
+          "average_deal_size": 215927586
         },
         "pct_change": {
           "funding": -85,
@@ -488,9 +488,9 @@
         }
       },
       "1y": {
-        "total_funding": 14967600000,
-        "number_of_deals": 74,
-        "average_deal_size": 202264864,
+        "total_funding": 14457600000,
+        "number_of_deals": 73,
+        "average_deal_size": 198049315,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -579,12 +579,6 @@
             "date": "2026-04-28"
           },
           {
-            "company": "Chaos",
-            "stage": "Series D",
-            "amount": 510000000,
-            "date": "2025-11-13"
-          },
-          {
             "company": "Impulse Space",
             "stage": "Series D",
             "amount": 500000000,
@@ -613,17 +607,23 @@
             "stage": "Series E",
             "amount": 300000000,
             "date": "2026-05-06"
+          },
+          {
+            "company": "CesiumAstro",
+            "stage": "Series C",
+            "amount": 270000000,
+            "date": "2026-02-02"
           }
         ],
         "prev_period": {
-          "total_funding": 11502661656,
-          "number_of_deals": 133,
-          "average_deal_size": 86486177
+          "total_funding": 11828661656,
+          "number_of_deals": 131,
+          "average_deal_size": 90295127
         },
         "pct_change": {
-          "funding": 30,
+          "funding": 22,
           "deals": -44,
-          "avg": 134
+          "avg": 119
         }
       }
     },
