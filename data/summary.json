@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:30:13Z",
+  "generated_at": "2026-11-16T23:06:53Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 1833800000,
-          "number_of_deals": 14,
-          "average_deal_size": 130985714
+          "total_funding": 1603800000,
+          "number_of_deals": 13,
+          "average_deal_size": 123369230
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 1833800000,
-        "number_of_deals": 14,
-        "average_deal_size": 130985714,
+        "total_funding": 1603800000,
+        "number_of_deals": 13,
+        "average_deal_size": 123369230,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -434,12 +434,6 @@
             "date": "2026-05-20"
           },
           {
-            "company": "Armada",
-            "stage": "Series B",
-            "amount": 230000000,
-            "date": "2026-05-19"
-          },
-          {
             "company": "Allen Control Systems",
             "stage": "Series B",
             "amount": 200000000,
@@ -474,17 +468,23 @@
             "stage": "Series B",
             "amount": 31000000,
             "date": "2026-05-31"
+          },
+          {
+            "company": "Powerus",
+            "stage": "Strategic",
+            "amount": 30000000,
+            "date": "2026-06-17"
           }
         ],
         "prev_period": {
-          "total_funding": 12523800000,
-          "number_of_deals": 58,
-          "average_deal_size": 215927586
+          "total_funding": 12680800000,
+          "number_of_deals": 57,
+          "average_deal_size": 222470175
         },
         "pct_change": {
-          "funding": -85,
-          "deals": -76,
-          "avg": -39
+          "funding": -87,
+          "deals": -77,
+          "avg": -45
         }
       },
       "1y": {
@@ -616,14 +616,14 @@
           }
         ],
         "prev_period": {
-          "total_funding": 11828661656,
-          "number_of_deals": 131,
-          "average_deal_size": 90295127
+          "total_funding": 11658661656,
+          "number_of_deals": 130,
+          "average_deal_size": 89682012
         },
         "pct_change": {
-          "funding": 22,
+          "funding": 24,
           "deals": -44,
-          "avg": 119
+          "avg": 121
         }
       }
     },
