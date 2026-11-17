@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:06:53Z",
+  "generated_at": "2026-11-17T21:57:26Z",
   "source": "https://defensemetrics.io (Airtable)",
   "total_rounds": 411,
   "totals_by_year": {
@@ -338,9 +338,9 @@
         "recent_rounds": [],
         "top_rounds": [],
         "prev_period": {
-          "total_funding": 1603800000,
-          "number_of_deals": 13,
-          "average_deal_size": 123369230
+          "total_funding": 1303800000,
+          "number_of_deals": 12,
+          "average_deal_size": 108650000
         },
         "pct_change": {
           "funding": -100,
@@ -349,9 +349,9 @@
         }
       },
       "6m": {
-        "total_funding": 1603800000,
-        "number_of_deals": 13,
-        "average_deal_size": 123369230,
+        "total_funding": 1303800000,
+        "number_of_deals": 12,
+        "average_deal_size": 108650000,
         "recent_rounds": [
           {
             "company": "Comand AI",
@@ -428,12 +428,6 @@
             "date": "2026-06-02"
           },
           {
-            "company": "AMCA",
-            "stage": "Series B",
-            "amount": 300000000,
-            "date": "2026-05-20"
-          },
-          {
             "company": "Allen Control Systems",
             "stage": "Series B",
             "amount": 200000000,
@@ -474,17 +468,23 @@
             "stage": "Strategic",
             "amount": 30000000,
             "date": "2026-06-17"
+          },
+          {
+            "company": "Traysar",
+            "stage": "Seed",
+            "amount": 25000000,
+            "date": "2026-06-16"
           }
         ],
         "prev_period": {
-          "total_funding": 12680800000,
-          "number_of_deals": 57,
-          "average_deal_size": 222470175
+          "total_funding": 12980800000,
+          "number_of_deals": 58,
+          "average_deal_size": 223806896
         },
         "pct_change": {
-          "funding": -87,
-          "deals": -77,
-          "avg": -45
+          "funding": -90,
+          "deals": -79,
+          "avg": -51
         }
       },
       "1y": {
